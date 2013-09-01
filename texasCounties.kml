@@ -7,7 +7,7 @@
       <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>650300fc</color>
+      <color>65ff0000</color>
       <outline>1</outline>
       <fill>1</fill>
     </PolyStyle>
@@ -18,7 +18,7 @@
       <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>65ff0000</color>
+      <color>650300fc</color>
       <outline>1</outline>
       <fill>1</fill>
     </PolyStyle>
@@ -1189,7 +1189,7 @@
       <styleUrl>#style1</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48003<br>State = Texas<br>County = Andrews<br>us_total = 2.076<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,400<br>vheart_att = 31<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 58<br>vasthma_er = <1<br>vtotal = 1,500<br>]]></description>
+      <description><![CDATA[FIPS = 48003<br>State = Texas<br>County = Andrews<br>Yep it's dry, be careful these troopers are tough.<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
