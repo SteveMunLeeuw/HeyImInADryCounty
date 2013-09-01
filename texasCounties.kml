@@ -75,7 +75,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48357<br>State = Texas<br>County = Ochiltree<br>us_total = 2.339<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,200<br>vheart_att = 24<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 45<br>vasthma_er = <1<br>vtotal = 1,300<br>]]></description>
@@ -86,7 +86,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48393<br>State = Texas<br>County = Roberts<br>us_total = 4.826<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 230<br>vheart_att = 4<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 6<br>vasthma_er = <1<br>vtotal = 240<br>]]></description>
@@ -97,7 +97,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48211<br>State = Texas<br>County = Hemphill<br>us_total = 4.104<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 770<br>vheart_att = 14<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 22<br>vasthma_er = <1<br>vtotal = 810<br>]]></description>
@@ -108,7 +108,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48233<br>State = Texas<br>County = Hutchinson<br>us_total = 2.967<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,700<br>vheart_att = 76<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,900<br>]]></description>
@@ -185,7 +185,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48359<br>State = Texas<br>County = Oldham<br>us_total = 3.603<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 380<br>vheart_att = 6<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 10<br>vasthma_er = <1<br>vtotal = 400<br>]]></description>
@@ -210,7 +210,7 @@
       <styleUrl>#style1</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48011<br>State = Texas<br>County = Armstrong<br>us_total = 3.736<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 450<br>vheart_att = 9<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 13<br>vasthma_er = <1<br>vtotal = 470<br>]]></description>
+      <description><![CDATA[FIPS = 48011<br>State = Texas<br>County = Armstrong<br><br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -218,7 +218,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48087<br>State = Texas<br>County = Collingsworth<br>us_total = 4.583<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 760<br>vheart_att = 12<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 18<br>vasthma_er = <1<br>vtotal = 790<br>]]></description>
@@ -229,7 +229,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48129<br>State = Texas<br>County = Donley<br>us_total = 4.581<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,000<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 25<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
@@ -262,7 +262,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48069<br>State = Texas<br>County = Castro<br>us_total = 2.287<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 870<br>vheart_att = 19<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 32<br>vasthma_er = <1<br>vtotal = 930<br>]]></description>
@@ -350,7 +350,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48101<br>State = Texas<br>County = Cottle<br>us_total = 6.13<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 600<br>vheart_att = 9<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 12<br>vasthma_er = <1<br>vtotal = 620<br>]]></description>
@@ -405,7 +405,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48155<br>State = Texas<br>County = Foard<br>us_total = 5.628<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 490<br>vheart_att = 8<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 10<br>vasthma_er = <1<br>vtotal = 510<br>]]></description>
@@ -537,7 +537,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48303<br>State = Texas<br>County = Lubbock<br>us_total = 1.698<br>cat = 1<br>mort_pope = 3<br>heart_att = 5<br>asthma_att = 69<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 25,000<br>vheart_att = 490<br>vasthma_at = 4<br>vhosp_adm = 57<br>vbronc_chr = 990<br>vasthma_er = 2<br>vtotal = 26,000<br>]]></description>
@@ -625,7 +625,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48237<br>State = Texas<br>County = Jack<br>us_total = 5.843<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,100<br>vheart_att = 58<br>vasthma_at = <1<br>vhosp_adm = 7<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 3,300<br>]]></description>
@@ -713,7 +713,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48503<br>State = Texas<br>County = Young<br>us_total = 4.407<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,600<br>vheart_att = 77<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 120<br>vasthma_er = <1<br>vtotal = 4,800<br>]]></description>
@@ -735,7 +735,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48433<br>State = Texas<br>County = Stonewall<br>us_total = 5.666<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 470<br>vheart_att = 7<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 8<br>vasthma_er = <1<br>vtotal = 490<br>]]></description>
@@ -757,7 +757,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48169<br>State = Texas<br>County = Garza<br>us_total = 3.754<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,000<br>vheart_att = 17<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 31<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
@@ -779,7 +779,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48445<br>State = Texas<br>County = Terry<br>us_total = 2.284<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,600<br>vheart_att = 28<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 48<br>vasthma_er = <1<br>vtotal = 1,600<br>]]></description>
@@ -801,7 +801,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48223<br>State = Texas<br>County = Hopkins<br>us_total = 6.09<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 23<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 12,000<br>vheart_att = 210<br>vasthma_at = 1<br>vhosp_adm = 24<br>vbronc_chr = 360<br>vasthma_er = <1<br>vtotal = 12,000<br>]]></description>
@@ -823,7 +823,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48067<br>State = Texas<br>County = Cass<br>us_total = 6.04<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 15<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 10,000<br>vheart_att = 180<br>vasthma_at = <1<br>vhosp_adm = 21<br>vbronc_chr = 280<br>vasthma_er = <1<br>vtotal = 11,000<br>]]></description>
@@ -856,7 +856,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48363<br>State = Texas<br>County = Palo Pinto<br>us_total = 6.037<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 16<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 9,500<br>vheart_att = 170<br>vasthma_at = <1<br>vhosp_adm = 20<br>vbronc_chr = 280<br>vasthma_er = <1<br>vtotal = 10,000<br>]]></description>
@@ -955,7 +955,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48415<br>State = Texas<br>County = Scurry<br>us_total = 2.084<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,900<br>vheart_att = 42<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 76<br>vasthma_er = <1<br>vtotal = 2,100<br>]]></description>
@@ -977,7 +977,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48115<br>State = Texas<br>County = Dawson<br>us_total = 2.249<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,800<br>vheart_att = 35<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 65<br>vasthma_er = <1<br>vtotal = 1,900<br>]]></description>
@@ -1010,7 +1010,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48459<br>State = Texas<br>County = Upshur<br>us_total = 5.424<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 23<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 12,000<br>vheart_att = 220<br>vasthma_at = 1<br>vhosp_adm = 26<br>vbronc_chr = 390<br>vasthma_er = <1<br>vtotal = 12,000<br>]]></description>
@@ -1186,7 +1186,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48003<br>State = Texas<br>County = Andrews<br>Yep it's dry, be careful these troopers are tough.<br>]]></description>
@@ -1230,7 +1230,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48365<br>State = Texas<br>County = Panola<br>us_total = 4.06<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 10<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,300<br>vheart_att = 100<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 170<br>vasthma_er = <1<br>vtotal = 5,700<br>]]></description>
@@ -1241,7 +1241,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48213<br>State = Texas<br>County = Henderson<br>us_total = 4.213<br>cat = 2<br>mort_pope = 3<br>heart_att = 3<br>asthma_att = 32<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 20,000<br>vheart_att = 330<br>vasthma_at = 2<br>vhosp_adm = 40<br>vbronc_chr = 570<br>vasthma_er = <1<br>vtotal = 21,000<br>]]></description>
@@ -1329,7 +1329,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48173<br>State = Texas<br>County = Glasscock<br>us_total = 3.21<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 200<br>vheart_att = 5<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 8<br>vasthma_er = <1<br>vtotal = 220<br>]]></description>
@@ -1901,7 +1901,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#style100</styleUrl>
     </Placemark>
     <Placemark>
       <description><![CDATA[FIPS = 48471<br>State = Texas<br>County = Walker<br>us_total = 1.984<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 20<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 7,900<br>vheart_att = 150<br>vasthma_at = 1<br>vhosp_adm = 18<br>vbronc_chr = 340<br>vasthma_er = <1<br>vtotal = 8,500<br>]]></description>
