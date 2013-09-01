@@ -11,7 +11,7 @@ define(
 
 				var map = new google.maps.Map( mapCanvas, myOptions );	
   var ctaLayer = new google.maps.KmlLayer({
-    url: 'http://gmaps-samples.googlecode.com/svn/trunk/ggeoxml/cta.kml'
+      url: 'https://raw.github.com/SteveMunLeeuw/HeyImInADryCounty/master/cta.kml'
   });
   ctaLayer.setMap(map);		
 			}		
