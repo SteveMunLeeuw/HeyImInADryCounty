@@ -39,8 +39,8 @@
 
 
   <Folder>
-    <name>simp_cnty_existing</name>
-    <Placemark>
+    <name>texas_counties</name>
+    <!--<Placemark>
       <description><![CDATA[State = Texas<br>County = Lipscomb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
@@ -2932,6 +2932,6 @@
         </outerBoundaryIs>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
-    </Placemark>
+    </Placemark>-->
   </Folder>
 </Document>
