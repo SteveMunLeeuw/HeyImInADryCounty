@@ -29,11 +29,11 @@ define(
 
                         map.setCenter(pos);
                     }, function () {
-                        handleNoGeolocation(true);
+                        //handleNoGeolocation(true);
                     });
                 } else {
                     // Browser doesn't support Geolocation
-                    handleNoGeolocation(false);
+                    //handleNoGeolocation(false);
                 }
 
 			}		

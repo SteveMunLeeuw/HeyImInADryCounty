@@ -1196,7 +1196,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Andrews<br>Yep it's dry, be careful these troopers are tough.<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Andrews<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
