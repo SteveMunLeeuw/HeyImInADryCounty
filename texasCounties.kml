@@ -1,32 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
 
-  <Style id="style1">
+  <Style id="County_Unknown">
     <LineStyle>
       <color>650300fc</color>
       <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>65ff0000</color>
+      <color>F5F7C6</color>
       <outline>1</outline>
       <fill>1</fill>
     </PolyStyle>
   </Style>
-  <Style id="style100">
+  <Style id="County_Dry">
+    <LineStyle>
+      <color>650300fc</color>
+      <width>1</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>FF9D87</color>
+      <outline>1</outline>
+      <fill>1</fill>
+    </PolyStyle>
+  </Style>
+  <Style id="County_Wet">
     <LineStyle>
       <color>65ff0000</color>
       <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>650300fc</color>
+      <color>6CAFEB</color>
       <outline>1</outline>
       <fill>1</fill>
     </PolyStyle>
   </Style>
-
-
-
-
 
 
 
@@ -34,7 +41,7 @@
   <Folder>
     <name>simp_cnty_existing</name>
     <Placemark>
-      <description><![CDATA[FIPS = 48295<br>State = Texas<br>County = Lipscomb<br>us_total = 5.139<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 890<br>vheart_att = 12<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 19<br>vasthma_er = <1<br>vtotal = 920<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lipscomb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -42,10 +49,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48421<br>State = Texas<br>County = Sherman<br>us_total = 1.977<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 300<br>vheart_att = 7<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 12<br>vasthma_er = <1<br>vtotal = 330<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Sherman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -53,10 +60,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48111<br>State = Texas<br>County = Dallam<br>us_total = 1.56<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 500<br>vheart_att = 11<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 20<br>vasthma_er = <1<br>vtotal = 540<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Dallam<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -64,10 +71,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48195<br>State = Texas<br>County = Hansford<br>us_total = 2.406<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 680<br>vheart_att = 13<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 23<br>vasthma_er = <1<br>vtotal = 720<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hansford<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -75,10 +82,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48357<br>State = Texas<br>County = Ochiltree<br>us_total = 2.339<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,200<br>vheart_att = 24<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 45<br>vasthma_er = <1<br>vtotal = 1,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Ochiltree<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -86,10 +93,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48393<br>State = Texas<br>County = Roberts<br>us_total = 4.826<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 230<br>vheart_att = 4<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 6<br>vasthma_er = <1<br>vtotal = 240<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Roberts<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -97,10 +104,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48211<br>State = Texas<br>County = Hemphill<br>us_total = 4.104<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 770<br>vheart_att = 14<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 22<br>vasthma_er = <1<br>vtotal = 810<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hemphill<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -108,10 +115,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48233<br>State = Texas<br>County = Hutchinson<br>us_total = 2.967<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,700<br>vheart_att = 76<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hutchinson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -119,10 +126,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48205<br>State = Texas<br>County = Hartley<br>us_total = 1.568<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 510<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 29<br>vasthma_er = <1<br>vtotal = 560<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hartley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -130,10 +137,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48341<br>State = Texas<br>County = Moore<br>us_total = 2.246<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 2,400<br>vheart_att = 48<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 98<br>vasthma_er = <1<br>vtotal = 2,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Moore<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -141,10 +148,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48375<br>State = Texas<br>County = Potter<br>us_total = 2.263<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 43<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 3<br>vmort_pope = 15,000<br>vheart_att = 270<br>vasthma_at = 2<br>vhosp_adm = 32<br>vbronc_chr = 560<br>vasthma_er = 1<br>vtotal = 16,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Potter<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -152,10 +159,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48065<br>State = Texas<br>County = Carson<br>us_total = 3.242<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,200<br>vheart_att = 22<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 36<br>vasthma_er = <1<br>vtotal = 1,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Carson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -163,10 +170,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48179<br>State = Texas<br>County = Gray<br>us_total = 3.66<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 7<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,700<br>vheart_att = 82<br>vasthma_at = <1<br>vhosp_adm = 10<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 4,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Gray<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -174,10 +181,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48483<br>State = Texas<br>County = Wheeler<br>us_total = 4.209<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,200<br>vheart_att = 19<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 29<br>vasthma_er = <1<br>vtotal = 1,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Wheeler<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -185,10 +192,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48359<br>State = Texas<br>County = Oldham<br>us_total = 3.603<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 380<br>vheart_att = 6<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 10<br>vasthma_er = <1<br>vtotal = 400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Oldham<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -196,10 +203,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48381<br>State = Texas<br>County = Randall<br>us_total = 2.284<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 34<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 14,000<br>vheart_att = 280<br>vasthma_at = 2<br>vhosp_adm = 32<br>vbronc_chr = 550<br>vasthma_er = <1<br>vtotal = 15,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Randall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -207,10 +214,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48011<br>State = Texas<br>County = Armstrong<br><br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Armstrong<br><br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -218,10 +225,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48087<br>State = Texas<br>County = Collingsworth<br>us_total = 4.583<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 760<br>vheart_att = 12<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 18<br>vasthma_er = <1<br>vtotal = 790<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Collingsworth<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -229,10 +236,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48129<br>State = Texas<br>County = Donley<br>us_total = 4.581<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,000<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 25<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Donley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -240,10 +247,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48117<br>State = Texas<br>County = Deaf Smith<br>us_total = 2.124<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,000<br>vheart_att = 38<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 71<br>vasthma_er = <1<br>vtotal = 2,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Deaf Smith<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -251,10 +258,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48369<br>State = Texas<br>County = Parmer<br>us_total = 1.635<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 820<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 29<br>vasthma_er = <1<br>vtotal = 870<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Parmer<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -262,10 +269,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48069<br>State = Texas<br>County = Castro<br>us_total = 2.287<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 870<br>vheart_att = 19<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 32<br>vasthma_er = <1<br>vtotal = 930<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Castro<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -273,10 +280,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48437<br>State = Texas<br>County = Swisher<br>us_total = 2.519<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,100<br>vheart_att = 21<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 36<br>vasthma_er = <1<br>vtotal = 1,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Swisher<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -284,10 +291,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48045<br>State = Texas<br>County = Briscoe<br>us_total = 4.18<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 370<br>vheart_att = 6<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 9<br>vasthma_er = <1<br>vtotal = 390<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Briscoe<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -295,10 +302,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48075<br>State = Texas<br>County = Childress<br>us_total = 3.45<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,600<br>vheart_att = 27<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 53<br>vasthma_er = <1<br>vtotal = 1,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Childress<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -306,10 +313,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48191<br>State = Texas<br>County = Hall<br>us_total = 4.182<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 850<br>vheart_att = 13<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 20<br>vasthma_er = <1<br>vtotal = 890<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -317,10 +324,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48197<br>State = Texas<br>County = Hardeman<br>us_total = 5.312<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,300<br>vheart_att = 21<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 30<br>vasthma_er = <1<br>vtotal = 1,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hardeman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -328,10 +335,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48487<br>State = Texas<br>County = Wilbarger<br>us_total = 4.443<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,500<br>vheart_att = 65<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 3,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Wilbarger<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -339,10 +346,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48345<br>State = Texas<br>County = Motley<br>us_total = 4.732<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 350<br>vheart_att = 6<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 7<br>vasthma_er = <1<br>vtotal = 370<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Motley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -350,10 +357,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48101<br>State = Texas<br>County = Cottle<br>us_total = 6.13<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 600<br>vheart_att = 9<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 12<br>vasthma_er = <1<br>vtotal = 620<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Cottle<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -361,10 +368,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48153<br>State = Texas<br>County = Floyd<br>us_total = 3.406<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,300<br>vheart_att = 23<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 37<br>vasthma_er = <1<br>vtotal = 1,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Floyd<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -372,10 +379,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48189<br>State = Texas<br>County = Hale<br>us_total = 2.594<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 14<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,000<br>vheart_att = 100<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 180<br>vasthma_er = <1<br>vtotal = 5,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hale<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -383,10 +390,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48279<br>State = Texas<br>County = Lamb<br>us_total = 3.53<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,700<br>vheart_att = 44<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 72<br>vasthma_er = <1<br>vtotal = 2,800<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lamb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -394,10 +401,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48017<br>State = Texas<br>County = Bailey<br>us_total = 1.785<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 630<br>vheart_att = 12<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 21<br>vasthma_er = <1<br>vtotal = 670<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bailey<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -405,10 +412,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48155<br>State = Texas<br>County = Foard<br>us_total = 5.628<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 490<br>vheart_att = 8<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 10<br>vasthma_er = <1<br>vtotal = 510<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Foard<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -416,10 +423,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48485<br>State = Texas<br>County = Wichita<br>us_total = 3.808<br>cat = 2<br>mort_pope = 4<br>heart_att = 5<br>asthma_att = 71<br>hosp_adm = 3<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 27,000<br>vheart_att = 530<br>vasthma_at = 4<br>vhosp_adm = 62<br>vbronc_chr = 1,000<br>vasthma_er = 2<br>vtotal = 29,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Wichita<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -427,10 +434,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48077<br>State = Texas<br>County = Clay<br>us_total = 4.92<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,100<br>vheart_att = 68<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 3,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Clay<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -438,10 +445,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48337<br>State = Texas<br>County = Montague<br>us_total = 7.488<br>cat = 3<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 11<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 8,600<br>vheart_att = 140<br>vasthma_at = <1<br>vhosp_adm = 16<br>vbronc_chr = 220<br>vasthma_er = <1<br>vtotal = 9,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Montague<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -449,10 +456,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48387<br>State = Texas<br>County = Red River<br>us_total = 8.148<br>cat = 3<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 6,400<br>vheart_att = 110<br>vasthma_at = <1<br>vhosp_adm = 13<br>vbronc_chr = 170<br>vasthma_er = <1<br>vtotal = 6,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Red River<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -460,10 +467,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48181<br>State = Texas<br>County = Grayson<br>us_total = 4.794<br>cat = 2<br>mort_pope = 4<br>heart_att = 5<br>asthma_att = 63<br>hosp_adm = 3<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 32,000<br>vheart_att = 580<br>vasthma_at = 3<br>vhosp_adm = 68<br>vbronc_chr = 1,000<br>vasthma_er = 1<br>vtotal = 34,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Grayson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -471,10 +478,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48097<br>State = Texas<br>County = Cooke<br>us_total = 5.848<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 26<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 13,000<br>vheart_att = 240<br>vasthma_at = 1<br>vhosp_adm = 28<br>vbronc_chr = 420<br>vasthma_er = <1<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Cooke<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -482,10 +489,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48277<br>State = Texas<br>County = Lamar<br>us_total = 5.596<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 27<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 16,000<br>vheart_att = 250<br>vasthma_at = 1<br>vhosp_adm = 29<br>vbronc_chr = 420<br>vasthma_er = <1<br>vtotal = 17,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lamar<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -493,10 +500,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48147<br>State = Texas<br>County = Fannin<br>us_total = 6.529<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 20<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 13,000<br>vheart_att = 210<br>vasthma_at = 1<br>vhosp_adm = 25<br>vbronc_chr = 370<br>vasthma_er = <1<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Fannin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -504,10 +511,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48269<br>State = Texas<br>County = King<br>us_total = 3.497<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 51<br>vheart_att = 1<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 2<br>vasthma_er = <1<br>vtotal = 55<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = King<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -515,10 +522,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48125<br>State = Texas<br>County = Dickens<br>us_total = 5.623<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 910<br>vheart_att = 12<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 23<br>vasthma_er = <1<br>vtotal = 950<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Dickens<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -526,10 +533,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48107<br>State = Texas<br>County = Crosby<br>us_total = 4.275<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,500<br>vheart_att = 23<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 37<br>vasthma_er = <1<br>vtotal = 1,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Crosby<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -537,10 +544,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48303<br>State = Texas<br>County = Lubbock<br>us_total = 1.698<br>cat = 1<br>mort_pope = 3<br>heart_att = 5<br>asthma_att = 69<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 25,000<br>vheart_att = 490<br>vasthma_at = 4<br>vhosp_adm = 57<br>vbronc_chr = 990<br>vasthma_er = 2<br>vtotal = 26,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lubbock<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -548,10 +555,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48009<br>State = Texas<br>County = Archer<br>us_total = 2.423<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,200<br>vheart_att = 34<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 60<br>vasthma_er = <1<br>vtotal = 1,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Archer<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -559,10 +566,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48219<br>State = Texas<br>County = Hockley<br>us_total = 2.495<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 7<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,100<br>vheart_att = 54<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 97<br>vasthma_er = <1<br>vtotal = 3,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hockley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -570,10 +577,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48275<br>State = Texas<br>County = Knox<br>us_total = 3.916<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 800<br>vheart_att = 13<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 19<br>vasthma_er = <1<br>vtotal = 840<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Knox<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -581,10 +588,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48023<br>State = Texas<br>County = Baylor<br>us_total = 4.705<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,000<br>vheart_att = 17<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 24<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Baylor<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -592,10 +599,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48079<br>State = Texas<br>County = Cochran<br>us_total = 2.988<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 500<br>vheart_att = 9<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 14<br>vasthma_er = <1<br>vtotal = 530<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Cochran<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -603,10 +610,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48037<br>State = Texas<br>County = Bowie<br>us_total = 5.232<br>cat = 2<br>mort_pope = 4<br>heart_att = 5<br>asthma_att = 54<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 3<br>vmort_pope = 28,000<br>vheart_att = 500<br>vasthma_at = 3<br>vhosp_adm = 58<br>vbronc_chr = 920<br>vasthma_er = 1<br>vtotal = 29,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bowie<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -614,10 +621,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48119<br>State = Texas<br>County = Delta<br>us_total = 5.951<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,900<br>vheart_att = 30<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 51<br>vasthma_er = <1<br>vtotal = 2,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Delta<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -625,10 +632,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48237<br>State = Texas<br>County = Jack<br>us_total = 5.843<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,100<br>vheart_att = 58<br>vasthma_at = <1<br>vhosp_adm = 7<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 3,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jack<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -636,10 +643,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48497<br>State = Texas<br>County = Wise<br>us_total = 3.56<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 30<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 11,000<br>vheart_att = 250<br>vasthma_at = 2<br>vhosp_adm = 29<br>vbronc_chr = 510<br>vasthma_er = <1<br>vtotal = 12,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Wise<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -647,10 +654,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48121<br>State = Texas<br>County = Denton<br>us_total = 1.415<br>cat = 1<br>mort_pope = 6<br>heart_att = 12<br>asthma_att = 248<br>hosp_adm = 7<br>bronc_chr = 8<br>asthma_er = 16<br>vmort_pope = 46,000<br>vheart_att = 1,400<br>vasthma_at = 13<br>vhosp_adm = 150<br>vbronc_chr = 3,500<br>vasthma_er = 6<br>vtotal = 52,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Denton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -658,10 +665,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48231<br>State = Texas<br>County = Hunt<br>us_total = 4.743<br>cat = 2<br>mort_pope = 3<br>heart_att = 4<br>asthma_att = 53<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 3<br>vmort_pope = 22,000<br>vheart_att = 420<br>vasthma_at = 3<br>vhosp_adm = 50<br>vbronc_chr = 810<br>vasthma_er = 1<br>vtotal = 24,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hunt<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -669,10 +676,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48085<br>State = Texas<br>County = Collin<br>us_total = 1.394<br>cat = 1<br>mort_pope = 7<br>heart_att = 15<br>asthma_att = 285<br>hosp_adm = 8<br>bronc_chr = 9<br>asthma_er = 18<br>vmort_pope = 53,000<br>vheart_att = 1,700<br>vasthma_at = 15<br>vhosp_adm = 190<br>vbronc_chr = 4,100<br>vasthma_er = 7<br>vtotal = 60,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Collin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -680,10 +687,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48449<br>State = Texas<br>County = Titus<br>us_total = 6.572<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 28<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 11,000<br>vheart_att = 180<br>vasthma_at = 2<br>vhosp_adm = 21<br>vbronc_chr = 360<br>vasthma_er = <1<br>vtotal = 11,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Titus<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -691,10 +698,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48207<br>State = Texas<br>County = Haskell<br>us_total = 4.717<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,500<br>vheart_att = 22<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 29<br>vasthma_er = <1<br>vtotal = 1,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Haskell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -702,10 +709,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48447<br>State = Texas<br>County = Throckmorton<br>us_total = 4.711<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 450<br>vheart_att = 8<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 11<br>vasthma_er = <1<br>vtotal = 470<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Throckmorton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -713,10 +720,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48503<br>State = Texas<br>County = Young<br>us_total = 4.407<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,600<br>vheart_att = 77<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 120<br>vasthma_er = <1<br>vtotal = 4,800<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Young<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -724,10 +731,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48263<br>State = Texas<br>County = Kent<br>us_total = 5.186<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 230<br>vheart_att = 4<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 5<br>vasthma_er = <1<br>vtotal = 240<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kent<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -735,10 +742,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48433<br>State = Texas<br>County = Stonewall<br>us_total = 5.666<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 470<br>vheart_att = 7<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 8<br>vasthma_er = <1<br>vtotal = 490<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Stonewall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -746,10 +753,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48159<br>State = Texas<br>County = Franklin<br>us_total = 5.502<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,300<br>vheart_att = 64<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 100<br>vasthma_er = <1<br>vtotal = 3,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Franklin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -757,10 +764,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48169<br>State = Texas<br>County = Garza<br>us_total = 3.754<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,000<br>vheart_att = 17<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 31<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Garza<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -768,10 +775,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48305<br>State = Texas<br>County = Lynn<br>us_total = 2.213<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 720<br>vheart_att = 15<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 25<br>vasthma_er = <1<br>vtotal = 770<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lynn<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -779,10 +786,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48445<br>State = Texas<br>County = Terry<br>us_total = 2.284<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,600<br>vheart_att = 28<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 48<br>vasthma_er = <1<br>vtotal = 1,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Terry<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -790,10 +797,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48501<br>State = Texas<br>County = Yoakum<br>us_total = 1.831<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 710<br>vheart_att = 15<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 28<br>vasthma_er = <1<br>vtotal = 760<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Yoakum<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -801,10 +808,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48223<br>State = Texas<br>County = Hopkins<br>us_total = 6.09<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 23<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 12,000<br>vheart_att = 210<br>vasthma_at = 1<br>vhosp_adm = 24<br>vbronc_chr = 360<br>vasthma_er = <1<br>vtotal = 12,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hopkins<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -812,10 +819,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48343<br>State = Texas<br>County = Morris<br>us_total = 7.855<br>cat = 3<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,800<br>vheart_att = 97<br>vasthma_at = <1<br>vhosp_adm = 11<br>vbronc_chr = 150<br>vasthma_er = <1<br>vtotal = 6,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Morris<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -823,10 +830,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48067<br>State = Texas<br>County = Cass<br>us_total = 6.04<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 15<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 10,000<br>vheart_att = 180<br>vasthma_at = <1<br>vhosp_adm = 21<br>vbronc_chr = 280<br>vasthma_er = <1<br>vtotal = 11,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Cass<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -834,10 +841,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48063<br>State = Texas<br>County = Camp<br>us_total = 8.966<br>cat = 3<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 12<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 6,200<br>vheart_att = 100<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 170<br>vasthma_er = <1<br>vtotal = 6,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Camp<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -845,10 +852,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48499<br>State = Texas<br>County = Wood<br>us_total = 7.065<br>cat = 3<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 23<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 18,000<br>vheart_att = 300<br>vasthma_at = 1<br>vhosp_adm = 37<br>vbronc_chr = 480<br>vasthma_er = <1<br>vtotal = 19,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Wood<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -856,10 +863,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48363<br>State = Texas<br>County = Palo Pinto<br>us_total = 6.037<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 16<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 9,500<br>vheart_att = 170<br>vasthma_at = <1<br>vhosp_adm = 20<br>vbronc_chr = 280<br>vasthma_er = <1<br>vtotal = 10,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Palo Pinto<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -867,10 +874,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48367<br>State = Texas<br>County = Parker<br>us_total = 2.995<br>cat = 1<br>mort_pope = 2<br>heart_att = 4<br>asthma_att = 46<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 3<br>vmort_pope = 18,000<br>vheart_att = 410<br>vasthma_at = 2<br>vhosp_adm = 46<br>vbronc_chr = 790<br>vasthma_er = 1<br>vtotal = 19,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Parker<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -878,10 +885,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48439<br>State = Texas<br>County = Tarrant<br>us_total = 1.757<br>cat = 1<br>mort_pope = 22<br>heart_att = 33<br>asthma_att = 597<br>hosp_adm = 18<br>bronc_chr = 18<br>asthma_er = 37<br>vmort_pope = 160,000<br>vheart_att = 3,700<br>vasthma_at = 31<br>vhosp_adm = 420<br>vbronc_chr = 8,200<br>vasthma_er = 14<br>vtotal = 180,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Tarrant<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -889,10 +896,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48113<br>State = Texas<br>County = Dallas<br>us_total = 1.471<br>cat = 1<br>mort_pope = 26<br>heart_att = 40<br>asthma_att = 764<br>hosp_adm = 22<br>bronc_chr = 23<br>asthma_er = 49<br>vmort_pope = 190,000<br>vheart_att = 4,400<br>vasthma_at = 40<br>vhosp_adm = 510<br>vbronc_chr = 10,000<br>vasthma_er = 18<br>vtotal = 210,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Dallas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -900,10 +907,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48397<br>State = Texas<br>County = Rockwall<br>us_total = 3.389<br>cat = 2<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 50<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 3<br>vmort_pope = 13,000<br>vheart_att = 370<br>vasthma_at = 3<br>vhosp_adm = 42<br>vbronc_chr = 800<br>vasthma_er = 1<br>vtotal = 14,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Rockwall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -911,10 +918,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48379<br>State = Texas<br>County = Rains<br>us_total = 6.717<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,500<br>vheart_att = 88<br>vasthma_at = <1<br>vhosp_adm = 11<br>vbronc_chr = 150<br>vasthma_er = <1<br>vtotal = 4,800<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Rains<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -922,10 +929,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48417<br>State = Texas<br>County = Shackelford<br>us_total = 4.608<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 830<br>vheart_att = 14<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 21<br>vasthma_er = <1<br>vtotal = 870<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Shackelford<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -933,10 +940,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48253<br>State = Texas<br>County = Jones<br>us_total = 2.168<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,500<br>vheart_att = 52<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 100<br>vasthma_er = <1<br>vtotal = 2,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jones<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -944,10 +951,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48151<br>State = Texas<br>County = Fisher<br>us_total = 4.642<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,100<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 23<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Fisher<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -955,10 +962,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48415<br>State = Texas<br>County = Scurry<br>us_total = 2.084<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,900<br>vheart_att = 42<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 76<br>vasthma_er = <1<br>vtotal = 2,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Scurry<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -966,10 +973,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48033<br>State = Texas<br>County = Borden<br>us_total = 0.656<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 25<br>vheart_att = 2<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 3<br>vasthma_er = <1<br>vtotal = 30<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Borden<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -977,10 +984,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48115<br>State = Texas<br>County = Dawson<br>us_total = 2.249<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,800<br>vheart_att = 35<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 65<br>vasthma_er = <1<br>vtotal = 1,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Dawson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -988,10 +995,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48429<br>State = Texas<br>County = Stephens<br>us_total = 3.943<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,200<br>vheart_att = 39<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 65<br>vasthma_er = <1<br>vtotal = 2,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Stephens<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -999,10 +1006,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48165<br>State = Texas<br>County = Gaines<br>us_total = 1.58<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,200<br>vheart_att = 23<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 46<br>vasthma_er = <1<br>vtotal = 1,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Gaines<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1010,10 +1017,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48459<br>State = Texas<br>County = Upshur<br>us_total = 5.424<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 23<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 12,000<br>vheart_att = 220<br>vasthma_at = 1<br>vhosp_adm = 26<br>vbronc_chr = 390<br>vasthma_er = <1<br>vtotal = 12,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Upshur<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1021,10 +1028,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48315<br>State = Texas<br>County = Marion<br>us_total = 6.234<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,100<br>vheart_att = 63<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 96<br>vasthma_er = <1<br>vtotal = 4,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Marion<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1032,10 +1039,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48257<br>State = Texas<br>County = Kaufman<br>us_total = 3.534<br>cat = 2<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 53<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 3<br>vmort_pope = 18,000<br>vheart_att = 390<br>vasthma_at = 3<br>vhosp_adm = 44<br>vbronc_chr = 800<br>vasthma_er = 1<br>vtotal = 19,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kaufman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1043,10 +1050,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48467<br>State = Texas<br>County = Van Zandt<br>us_total = 5.931<br>cat = 2<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 30<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 18,000<br>vheart_att = 310<br>vasthma_at = 2<br>vhosp_adm = 37<br>vbronc_chr = 520<br>vasthma_er = <1<br>vtotal = 19,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Van Zandt<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1054,10 +1061,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48203<br>State = Texas<br>County = Harrison<br>us_total = 4.116<br>cat = 2<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 32<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 15,000<br>vheart_att = 280<br>vasthma_at = 2<br>vhosp_adm = 32<br>vbronc_chr = 510<br>vasthma_er = <1<br>vtotal = 16,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Harrison<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1065,10 +1072,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48423<br>State = Texas<br>County = Smith<br>us_total = 3.289<br>cat = 2<br>mort_pope = 5<br>heart_att = 6<br>asthma_att = 82<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 5<br>vmort_pope = 36,000<br>vheart_att = 670<br>vasthma_at = 4<br>vhosp_adm = 80<br>vbronc_chr = 1,200<br>vasthma_er = 2<br>vtotal = 38,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Smith<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1076,10 +1083,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48183<br>State = Texas<br>County = Gregg<br>us_total = 4.644<br>cat = 2<br>mort_pope = 4<br>heart_att = 5<br>asthma_att = 77<br>hosp_adm = 3<br>bronc_chr = 2<br>asthma_er = 5<br>vmort_pope = 30,000<br>vheart_att = 590<br>vasthma_at = 4<br>vhosp_adm = 69<br>vbronc_chr = 1,100<br>vasthma_er = 2<br>vtotal = 32,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Gregg<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1087,10 +1094,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48251<br>State = Texas<br>County = Johnson<br>us_total = 2.619<br>cat = 1<br>mort_pope = 3<br>heart_att = 4<br>asthma_att = 66<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 21,000<br>vheart_att = 480<br>vasthma_at = 3<br>vhosp_adm = 55<br>vbronc_chr = 1,000<br>vasthma_er = 2<br>vtotal = 23,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Johnson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1098,10 +1105,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48221<br>State = Texas<br>County = Hood<br>us_total = 5.402<br>cat = 2<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 23<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 16,000<br>vheart_att = 290<br>vasthma_at = 1<br>vhosp_adm = 35<br>vbronc_chr = 490<br>vasthma_er = <1<br>vtotal = 16,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hood<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1109,10 +1116,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48139<br>State = Texas<br>County = Ellis<br>us_total = 2.889<br>cat = 1<br>mort_pope = 3<br>heart_att = 4<br>asthma_att = 66<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 22,000<br>vheart_att = 460<br>vasthma_at = 3<br>vhosp_adm = 53<br>vbronc_chr = 950<br>vasthma_er = 2<br>vtotal = 23,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Ellis<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1120,10 +1127,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48441<br>State = Texas<br>County = Taylor<br>us_total = 1.86<br>cat = 1<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 35<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 13,000<br>vheart_att = 260<br>vasthma_at = 2<br>vhosp_adm = 31<br>vbronc_chr = 500<br>vasthma_er = <1<br>vtotal = 14,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Taylor<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1131,10 +1138,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48227<br>State = Texas<br>County = Howard<br>us_total = 2.323<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,400<br>vheart_att = 76<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 140<br>vasthma_er = <1<br>vtotal = 4,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Howard<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1142,10 +1149,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48335<br>State = Texas<br>County = Mitchell<br>us_total = 2.28<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,300<br>vheart_att = 25<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 48<br>vasthma_er = <1<br>vtotal = 1,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Mitchell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1153,10 +1160,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48133<br>State = Texas<br>County = Eastland<br>us_total = 3.445<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,700<br>vheart_att = 63<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 99<br>vasthma_er = <1<br>vtotal = 3,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Eastland<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1164,10 +1171,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48059<br>State = Texas<br>County = Callahan<br>us_total = 2.56<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,000<br>vheart_att = 45<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 74<br>vasthma_er = <1<br>vtotal = 2,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Callahan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1175,10 +1182,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48317<br>State = Texas<br>County = Martin<br>us_total = 3.17<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 710<br>vheart_att = 13<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 23<br>vasthma_er = <1<br>vtotal = 760<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Martin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1186,10 +1193,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48003<br>State = Texas<br>County = Andrews<br>Yep it's dry, be careful these troopers are tough.<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Andrews<br>Yep it's dry, be careful these troopers are tough.<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1197,10 +1204,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48353<br>State = Texas<br>County = Nolan<br>us_total = 3.177<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,600<br>vheart_att = 47<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 78<br>vasthma_er = <1<br>vtotal = 2,800<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Nolan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1208,10 +1215,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48143<br>State = Texas<br>County = Erath<br>us_total = 4.484<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 20<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 8,900<br>vheart_att = 170<br>vasthma_at = 1<br>vhosp_adm = 21<br>vbronc_chr = 330<br>vasthma_er = <1<br>vtotal = 9,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Erath<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1219,10 +1226,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48401<br>State = Texas<br>County = Rusk<br>us_total = 4.646<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 23<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 13,000<br>vheart_att = 240<br>vasthma_at = 1<br>vhosp_adm = 28<br>vbronc_chr = 430<br>vasthma_er = <1<br>vtotal = 14,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Rusk<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1230,10 +1237,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48365<br>State = Texas<br>County = Panola<br>us_total = 4.06<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 10<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,300<br>vheart_att = 100<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 170<br>vasthma_er = <1<br>vtotal = 5,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Panola<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1241,10 +1248,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48213<br>State = Texas<br>County = Henderson<br>us_total = 4.213<br>cat = 2<br>mort_pope = 3<br>heart_att = 3<br>asthma_att = 32<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 20,000<br>vheart_att = 330<br>vasthma_at = 2<br>vhosp_adm = 40<br>vbronc_chr = 570<br>vasthma_er = <1<br>vtotal = 21,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Henderson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1252,10 +1259,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48349<br>State = Texas<br>County = Navarro<br>us_total = 4.584<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 29<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 13,000<br>vheart_att = 230<br>vasthma_at = 2<br>vhosp_adm = 27<br>vbronc_chr = 420<br>vasthma_er = <1<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Navarro<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1263,10 +1270,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48425<br>State = Texas<br>County = Somervell<br>us_total = 5.8<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,500<br>vheart_att = 50<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 87<br>vasthma_er = <1<br>vtotal = 2,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Somervell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1274,10 +1281,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48217<br>State = Texas<br>County = Hill<br>us_total = 4.67<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 18<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 9,500<br>vheart_att = 170<br>vasthma_at = <1<br>vhosp_adm = 20<br>vbronc_chr = 290<br>vasthma_er = <1<br>vtotal = 10,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hill<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1285,10 +1292,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48093<br>State = Texas<br>County = Comanche<br>us_total = 3.705<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,900<br>vheart_att = 54<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 82<br>vasthma_er = <1<br>vtotal = 3,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Comanche<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1296,10 +1303,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48035<br>State = Texas<br>County = Bosque<br>us_total = 6.645<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 6,900<br>vheart_att = 110<br>vasthma_at = <1<br>vhosp_adm = 13<br>vbronc_chr = 180<br>vasthma_er = <1<br>vtotal = 7,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bosque<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1307,10 +1314,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48073<br>State = Texas<br>County = Cherokee<br>us_total = 3.625<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 23<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 9,900<br>vheart_att = 190<br>vasthma_at = 1<br>vhosp_adm = 22<br>vbronc_chr = 340<br>vasthma_er = <1<br>vtotal = 11,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Cherokee<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1318,10 +1325,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48431<br>State = Texas<br>County = Sterling<br>us_total = 2.673<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 180<br>vheart_att = 4<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 7<br>vasthma_er = <1<br>vtotal = 190<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Sterling<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1329,10 +1336,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48173<br>State = Texas<br>County = Glasscock<br>us_total = 3.21<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 200<br>vheart_att = 5<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 8<br>vasthma_er = <1<br>vtotal = 220<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Glasscock<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1340,10 +1347,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48329<br>State = Texas<br>County = Midland<br>us_total = 2.211<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 43<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 3<br>vmort_pope = 15,000<br>vheart_att = 330<br>vasthma_at = 2<br>vhosp_adm = 38<br>vbronc_chr = 610<br>vasthma_er = <1<br>vtotal = 16,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Midland<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1351,10 +1358,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48081<br>State = Texas<br>County = Coke<br>us_total = 5.275<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,100<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 22<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Coke<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1362,10 +1369,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48495<br>State = Texas<br>County = Winkler<br>us_total = 3.049<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,100<br>vheart_att = 19<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 33<br>vasthma_er = <1<br>vtotal = 1,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Winkler<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1373,10 +1380,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48135<br>State = Texas<br>County = Ector<br>us_total = 2.445<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 49<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 3<br>vmort_pope = 17,000<br>vheart_att = 320<br>vasthma_at = 3<br>vhosp_adm = 37<br>vbronc_chr = 640<br>vasthma_er = 1<br>vtotal = 18,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Ector<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1384,10 +1391,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48399<br>State = Texas<br>County = Runnels<br>us_total = 2.949<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,800<br>vheart_att = 32<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 48<br>vasthma_er = <1<br>vtotal = 1,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Runnels<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1395,10 +1402,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48083<br>State = Texas<br>County = Coleman<br>us_total = 3.703<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,900<br>vheart_att = 31<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 45<br>vasthma_er = <1<br>vtotal = 2,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Coleman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1406,10 +1413,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48049<br>State = Texas<br>County = Brown<br>us_total = 2.731<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 11<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 6,000<br>vheart_att = 110<br>vasthma_at = <1<br>vhosp_adm = 13<br>vbronc_chr = 190<br>vasthma_er = <1<br>vtotal = 6,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Brown<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1417,10 +1424,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48001<br>State = Texas<br>County = Anderson<br>us_total = 2.116<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 12<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 7,300<br>vheart_att = 120<br>vasthma_at = <1<br>vhosp_adm = 14<br>vbronc_chr = 260<br>vasthma_er = <1<br>vtotal = 7,800<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Anderson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1428,10 +1435,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48193<br>State = Texas<br>County = Hamilton<br>us_total = 8.487<br>cat = 3<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,100<br>vheart_att = 52<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 76<br>vasthma_er = <1<br>vtotal = 4,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hamilton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1439,10 +1446,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48161<br>State = Texas<br>County = Freestone<br>us_total = 3.122<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 7<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,400<br>vheart_att = 71<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Freestone<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1450,10 +1457,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48109<br>State = Texas<br>County = Culberson<br>us_total = 0.573<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 75<br>vheart_att = 2<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 3<br>vasthma_er = <1<br>vtotal = 81<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Culberson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1461,10 +1468,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48389<br>State = Texas<br>County = Reeves<br>us_total = 1.018<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 630<br>vheart_att = 13<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 21<br>vasthma_er = <1<br>vtotal = 670<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Reeves<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1472,10 +1479,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48301<br>State = Texas<br>County = Loving<br>us_total = 0.944<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4<br>vheart_att = <1<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = <1<br>vasthma_er = <1<br>vtotal = 4<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Loving<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1483,10 +1490,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48229<br>State = Texas<br>County = Hudspeth<br>us_total = 0.631<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 110<br>vheart_att = 3<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 6<br>vasthma_er = <1<br>vtotal = 120<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hudspeth<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1494,10 +1501,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48141<br>State = Texas<br>County = El Paso<br>us_total = 0.702<br>cat = 1<br>mort_pope = 4<br>heart_att = 6<br>asthma_att = 119<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 7<br>vmort_pope = 27,000<br>vheart_att = 690<br>vasthma_at = 6<br>vhosp_adm = 80<br>vbronc_chr = 1,400<br>vasthma_er = 2<br>vtotal = 29,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = El Paso<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1505,10 +1512,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48419<br>State = Texas<br>County = Shelby<br>us_total = 4.338<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 12<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 6,500<br>vheart_att = 100<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 190<br>vasthma_er = <1<br>vtotal = 6,800<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Shelby<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1516,10 +1523,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48309<br>State = Texas<br>County = McLennan<br>us_total = 2.657<br>cat = 1<br>mort_pope = 5<br>heart_att = 6<br>asthma_att = 87<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 5<br>vmort_pope = 34,000<br>vheart_att = 630<br>vasthma_at = 4<br>vhosp_adm = 74<br>vbronc_chr = 1,200<br>vasthma_er = 2<br>vtotal = 36,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = McLennan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1527,10 +1534,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48347<br>State = Texas<br>County = Nacogdoches<br>us_total = 2.9<br>cat = 1<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 25<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 10,000<br>vheart_att = 180<br>vasthma_at = 1<br>vhosp_adm = 21<br>vbronc_chr = 340<br>vasthma_er = <1<br>vtotal = 11,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Nacogdoches<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1538,10 +1545,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48293<br>State = Texas<br>County = Limestone<br>us_total = 5.043<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 11<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 6,500<br>vheart_att = 100<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 180<br>vasthma_er = <1<br>vtotal = 6,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Limestone<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1549,10 +1556,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48333<br>State = Texas<br>County = Mills<br>us_total = 5.188<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,500<br>vheart_att = 25<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 35<br>vasthma_er = <1<br>vtotal = 1,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Mills<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1560,10 +1567,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48099<br>State = Texas<br>County = Coryell<br>us_total = 2.145<br>cat = 1<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 41<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 8,800<br>vheart_att = 210<br>vasthma_at = 2<br>vhosp_adm = 25<br>vbronc_chr = 570<br>vasthma_er = <1<br>vtotal = 9,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Coryell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1571,10 +1578,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48451<br>State = Texas<br>County = Tom Green<br>us_total = 2.089<br>cat = 1<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 26<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 12,000<br>vheart_att = 230<br>vasthma_at = 1<br>vhosp_adm = 27<br>vbronc_chr = 410<br>vasthma_er = <1<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Tom Green<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1582,10 +1589,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48475<br>State = Texas<br>County = Ward<br>us_total = 2.438<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,300<br>vheart_att = 26<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 43<br>vasthma_er = <1<br>vtotal = 1,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Ward<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1593,10 +1600,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48405<br>State = Texas<br>County = San Augustine<br>us_total = 4.519<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,300<br>vheart_att = 34<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 49<br>vasthma_er = <1<br>vtotal = 2,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = San Augustine<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1604,10 +1611,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48103<br>State = Texas<br>County = Crane<br>us_total = 3.475<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 700<br>vheart_att = 12<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 21<br>vasthma_er = <1<br>vtotal = 740<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Crane<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1615,10 +1622,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48461<br>State = Texas<br>County = Upton<br>us_total = 3.525<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 600<br>vheart_att = 10<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 16<br>vasthma_er = <1<br>vtotal = 630<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Upton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1626,10 +1633,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48383<br>State = Texas<br>County = Reagan<br>us_total = 3.746<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 570<br>vheart_att = 10<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 18<br>vasthma_er = <1<br>vtotal = 600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Reagan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1637,10 +1644,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48289<br>State = Texas<br>County = Leon<br>us_total = 3.016<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,900<br>vheart_att = 51<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 78<br>vasthma_er = <1<br>vtotal = 3,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Leon<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1648,10 +1655,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48403<br>State = Texas<br>County = Sabine<br>us_total = 4.1<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,600<br>vheart_att = 45<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 64<br>vasthma_er = <1<br>vtotal = 2,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Sabine<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1659,10 +1666,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48225<br>State = Texas<br>County = Houston<br>us_total = 3.059<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,100<br>vheart_att = 63<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 100<br>vasthma_er = <1<br>vtotal = 4,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Houston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1670,10 +1677,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48095<br>State = Texas<br>County = Concho<br>us_total = 2.764<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 650<br>vheart_att = 10<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 21<br>vasthma_er = <1<br>vtotal = 690<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Concho<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1681,10 +1688,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48235<br>State = Texas<br>County = Irion<br>us_total = 2.745<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 280<br>vheart_att = 6<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 9<br>vasthma_er = <1<br>vtotal = 300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Irion<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1692,10 +1699,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48005<br>State = Texas<br>County = Angelina<br>us_total = 2.12<br>cat = 1<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 24<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 9,700<br>vheart_att = 180<br>vasthma_at = 1<br>vhosp_adm = 21<br>vbronc_chr = 330<br>vasthma_er = <1<br>vtotal = 10,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Angelina<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1703,10 +1710,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48145<br>State = Texas<br>County = Falls<br>us_total = 5.774<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,600<br>vheart_att = 89<br>vasthma_at = <1<br>vhosp_adm = 11<br>vbronc_chr = 150<br>vasthma_er = <1<br>vtotal = 5,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Falls<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1714,10 +1721,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48307<br>State = Texas<br>County = McCulloch<br>us_total = 3.62<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,600<br>vheart_att = 28<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 43<br>vasthma_er = <1<br>vtotal = 1,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = McCulloch<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1725,10 +1732,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48411<br>State = Texas<br>County = San Saba<br>us_total = 3.666<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,200<br>vheart_att = 23<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 35<br>vasthma_er = <1<br>vtotal = 1,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = San Saba<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1736,10 +1743,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48281<br>State = Texas<br>County = Lampasas<br>us_total = 4.331<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 11<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,000<br>vheart_att = 96<br>vasthma_at = <1<br>vhosp_adm = 11<br>vbronc_chr = 180<br>vasthma_er = <1<br>vtotal = 5,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lampasas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1747,10 +1754,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48455<br>State = Texas<br>County = Trinity<br>us_total = 4.041<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,400<br>vheart_att = 59<br>vasthma_at = <1<br>vhosp_adm = 7<br>vbronc_chr = 89<br>vasthma_er = <1<br>vtotal = 3,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Trinity<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1758,10 +1765,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48371<br>State = Texas<br>County = Pecos<br>us_total = 0.746<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 670<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 30<br>vasthma_er = <1<br>vtotal = 720<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Pecos<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1769,10 +1776,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48395<br>State = Texas<br>County = Robertson<br>us_total = 4.386<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,900<br>vheart_att = 66<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 4,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Robertson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1780,10 +1787,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48027<br>State = Texas<br>County = Bell<br>us_total = 1.9<br>cat = 1<br>mort_pope = 4<br>heart_att = 5<br>asthma_att = 110<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 7<br>vmort_pope = 27,000<br>vheart_att = 560<br>vasthma_at = 6<br>vhosp_adm = 66<br>vbronc_chr = 1,200<br>vasthma_er = 3<br>vtotal = 29,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1791,10 +1798,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48351<br>State = Texas<br>County = Newton<br>us_total = 2.782<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,200<br>vheart_att = 46<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 80<br>vasthma_er = <1<br>vtotal = 2,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Newton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1802,10 +1809,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48241<br>State = Texas<br>County = Jasper<br>us_total = 2.676<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 11<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,300<br>vheart_att = 98<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 170<br>vasthma_er = <1<br>vtotal = 5,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jasper<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1813,10 +1820,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48373<br>State = Texas<br>County = Polk<br>us_total = 2.463<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 13<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 6,800<br>vheart_att = 150<br>vasthma_at = <1<br>vhosp_adm = 18<br>vbronc_chr = 250<br>vasthma_er = <1<br>vtotal = 7,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Polk<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1824,10 +1831,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48331<br>State = Texas<br>County = Milam<br>us_total = 4.39<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 13<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 6,200<br>vheart_att = 120<br>vasthma_at = <1<br>vhosp_adm = 14<br>vbronc_chr = 200<br>vasthma_er = <1<br>vtotal = 6,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Milam<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1835,10 +1842,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48243<br>State = Texas<br>County = Jeff Davis<br>us_total = 0.927<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 120<br>vheart_att = 4<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 5<br>vasthma_er = <1<br>vtotal = 130<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jeff Davis<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1846,10 +1853,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48313<br>State = Texas<br>County = Madison<br>us_total = 3.575<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,900<br>vheart_att = 47<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 91<br>vasthma_er = <1<br>vtotal = 3,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Madison<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1857,10 +1864,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48413<br>State = Texas<br>County = Schleicher<br>us_total = 2.72<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 420<br>vheart_att = 8<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 13<br>vasthma_er = <1<br>vtotal = 440<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Schleicher<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1868,10 +1875,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48327<br>State = Texas<br>County = Menard<br>us_total = 4.83<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 620<br>vheart_att = 10<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 13<br>vasthma_er = <1<br>vtotal = 650<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Menard<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1879,10 +1886,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48105<br>State = Texas<br>County = Crockett<br>us_total = 1.785<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 380<br>vheart_att = 8<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 13<br>vasthma_er = <1<br>vtotal = 400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Crockett<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1890,10 +1897,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48457<br>State = Texas<br>County = Tyler<br>us_total = 3.163<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,800<br>vheart_att = 70<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 120<br>vasthma_er = <1<br>vtotal = 4,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Tyler<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1901,10 +1908,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style100</styleUrl>
+      <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48471<br>State = Texas<br>County = Walker<br>us_total = 1.984<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 20<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 7,900<br>vheart_att = 150<br>vasthma_at = 1<br>vhosp_adm = 18<br>vbronc_chr = 340<br>vasthma_er = <1<br>vtotal = 8,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Walker<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1912,10 +1919,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48053<br>State = Texas<br>County = Burnet<br>us_total = 4.909<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 17<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 12,000<br>vheart_att = 210<br>vasthma_at = <1<br>vhosp_adm = 25<br>vbronc_chr = 330<br>vasthma_er = <1<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Burnet<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1923,10 +1930,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48041<br>State = Texas<br>County = Brazos<br>us_total = 1.732<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 73<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 17,000<br>vheart_att = 370<br>vasthma_at = 4<br>vhosp_adm = 45<br>vbronc_chr = 960<br>vasthma_er = 2<br>vtotal = 18,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Brazos<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1934,10 +1941,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48319<br>State = Texas<br>County = Mason<br>us_total = 3.947<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 920<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 23<br>vasthma_er = <1<br>vtotal = 960<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Mason<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1945,10 +1952,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48299<br>State = Texas<br>County = Llano<br>us_total = 6.957<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 8,200<br>vheart_att = 140<br>vasthma_at = <1<br>vhosp_adm = 18<br>vbronc_chr = 180<br>vasthma_er = <1<br>vtotal = 8,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Llano<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1956,10 +1963,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48491<br>State = Texas<br>County = Williamson<br>us_total = 1.429<br>cat = 1<br>mort_pope = 4<br>heart_att = 7<br>asthma_att = 122<br>hosp_adm = 4<br>bronc_chr = 4<br>asthma_er = 8<br>vmort_pope = 27,000<br>vheart_att = 740<br>vasthma_at = 6<br>vhosp_adm = 85<br>vbronc_chr = 1,700<br>vasthma_er = 3<br>vtotal = 30,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Williamson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1967,10 +1974,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48407<br>State = Texas<br>County = San Jacinto<br>us_total = 2.953<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 4,200<br>vheart_att = 97<br>vasthma_at = <1<br>vhosp_adm = 11<br>vbronc_chr = 170<br>vasthma_er = <1<br>vtotal = 4,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = San Jacinto<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1978,10 +1985,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48185<br>State = Texas<br>County = Grimes<br>us_total = 3.231<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 4,800<br>vheart_att = 90<br>vasthma_at = <1<br>vhosp_adm = 10<br>vbronc_chr = 170<br>vasthma_er = <1<br>vtotal = 5,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Grimes<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1989,10 +1996,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48051<br>State = Texas<br>County = Burleson<br>us_total = 3.127<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,000<br>vheart_att = 60<br>vasthma_at = <1<br>vhosp_adm = 7<br>vbronc_chr = 100<br>vasthma_er = <1<br>vtotal = 3,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Burleson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2000,10 +2007,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48267<br>State = Texas<br>County = Kimble<br>us_total = 3.018<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 810<br>vheart_att = 16<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 24<br>vasthma_er = <1<br>vtotal = 850<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kimble<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2011,10 +2018,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48435<br>State = Texas<br>County = Sutton<br>us_total = 2.034<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 470<br>vheart_att = 10<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 18<br>vasthma_er = <1<br>vtotal = 510<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Sutton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2022,10 +2029,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48043<br>State = Texas<br>County = Brewster<br>us_total = 0.458<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 250<br>vheart_att = 6<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 11<br>vasthma_er = <1<br>vtotal = 270<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Brewster<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2033,10 +2040,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48443<br>State = Texas<br>County = Terrell<br>us_total = 1.657<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 92<br>vheart_att = 2<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 2<br>vasthma_er = <1<br>vtotal = 96<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Terrell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2044,10 +2051,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48377<br>State = Texas<br>County = Presidio<br>us_total = 0.234<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 93<br>vheart_att = 3<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 5<br>vasthma_er = <1<br>vtotal = 100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Presidio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2055,10 +2062,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48453<br>State = Texas<br>County = Travis<br>us_total = 0.765<br>cat = 1<br>mort_pope = 6<br>heart_att = 10<br>asthma_att = 189<br>hosp_adm = 6<br>bronc_chr = 6<br>asthma_er = 12<br>vmort_pope = 41,000<br>vheart_att = 1,100<br>vasthma_at = 10<br>vhosp_adm = 130<br>vbronc_chr = 2,900<br>vasthma_er = 4<br>vtotal = 46,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Travis<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2066,10 +2073,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48339<br>State = Texas<br>County = Montgomery<br>us_total = 1.367<br>cat = 1<br>mort_pope = 4<br>heart_att = 6<br>asthma_att = 102<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 6<br>vmort_pope = 29,000<br>vheart_att = 700<br>vasthma_at = 5<br>vhosp_adm = 80<br>vbronc_chr = 1,500<br>vasthma_er = 2<br>vtotal = 32,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Montgomery<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2077,10 +2084,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48287<br>State = Texas<br>County = Lee<br>us_total = 4.188<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,800<br>vheart_att = 73<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 4,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lee<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2088,10 +2095,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48199<br>State = Texas<br>County = Hardin<br>us_total = 2.819<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 18<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 8,000<br>vheart_att = 160<br>vasthma_at = <1<br>vhosp_adm = 18<br>vbronc_chr = 290<br>vasthma_er = <1<br>vtotal = 8,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hardin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2099,10 +2106,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48171<br>State = Texas<br>County = Gillespie<br>us_total = 4.991<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 7,100<br>vheart_att = 140<br>vasthma_at = <1<br>vhosp_adm = 18<br>vbronc_chr = 200<br>vasthma_er = <1<br>vtotal = 7,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Gillespie<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2110,10 +2117,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48031<br>State = Texas<br>County = Blanco<br>us_total = 2.849<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,500<br>vheart_att = 44<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 76<br>vasthma_er = <1<br>vtotal = 1,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Blanco<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2121,10 +2128,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48291<br>State = Texas<br>County = Liberty<br>us_total = 2.328<br>cat = 1<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 25<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 9,800<br>vheart_att = 180<br>vasthma_at = 1<br>vhosp_adm = 21<br>vbronc_chr = 380<br>vasthma_er = <1<br>vtotal = 10,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Liberty<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2132,10 +2139,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48021<br>State = Texas<br>County = Bastrop<br>us_total = 2.878<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 38<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 11,000<br>vheart_att = 280<br>vasthma_at = 2<br>vhosp_adm = 32<br>vbronc_chr = 590<br>vasthma_er = <1<br>vtotal = 12,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bastrop<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2143,10 +2150,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48477<br>State = Texas<br>County = Washington<br>us_total = 3.872<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 14<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 7,100<br>vheart_att = 140<br>vasthma_at = <1<br>vhosp_adm = 17<br>vbronc_chr = 230<br>vasthma_er = <1<br>vtotal = 7,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Washington<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2154,10 +2161,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48209<br>State = Texas<br>County = Hays<br>us_total = 1.554<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 47<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 3<br>vmort_pope = 12,000<br>vheart_att = 310<br>vasthma_at = 2<br>vhosp_adm = 36<br>vbronc_chr = 720<br>vasthma_er = 1<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hays<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2165,10 +2172,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48137<br>State = Texas<br>County = Edwards<br>us_total = 0.699<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 74<br>vheart_att = 4<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 6<br>vasthma_er = <1<br>vtotal = 85<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Edwards<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2176,10 +2183,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48465<br>State = Texas<br>County = Val Verde<br>us_total = 1.393<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 3,500<br>vheart_att = 60<br>vasthma_at = <1<br>vhosp_adm = 7<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 3,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Val Verde<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2187,10 +2194,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48265<br>State = Texas<br>County = Kerr<br>us_total = 4.373<br>cat = 2<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 15<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 12,000<br>vheart_att = 220<br>vasthma_at = <1<br>vhosp_adm = 27<br>vbronc_chr = 310<br>vasthma_er = <1<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kerr<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2198,10 +2205,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48473<br>State = Texas<br>County = Waller<br>us_total = 2.594<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 15<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,200<br>vheart_att = 110<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 210<br>vasthma_er = <1<br>vtotal = 5,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Waller<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2209,10 +2216,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48361<br>State = Texas<br>County = Orange<br>us_total = 3.82<br>cat = 2<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 38<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 18,000<br>vheart_att = 330<br>vasthma_at = 2<br>vhosp_adm = 37<br>vbronc_chr = 590<br>vasthma_er = <1<br>vtotal = 19,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Orange<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2220,10 +2227,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48245<br>State = Texas<br>County = Jefferson<br>us_total = 2.4<br>cat = 1<br>mort_pope = 5<br>heart_att = 6<br>asthma_att = 74<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 4<br>vmort_pope = 33,000<br>vheart_att = 600<br>vasthma_at = 4<br>vhosp_adm = 70<br>vbronc_chr = 1,100<br>vasthma_er = 2<br>vtotal = 35,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jefferson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2231,10 +2238,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48149<br>State = Texas<br>County = Fayette<br>us_total = 5.732<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 10<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 7,600<br>vheart_att = 130<br>vasthma_at = <1<br>vhosp_adm = 16<br>vbronc_chr = 190<br>vasthma_er = <1<br>vtotal = 8,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Fayette<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2242,10 +2249,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48201<br>State = Texas<br>County = Harris<br>us_total = 0.586<br>cat = 1<br>mort_pope = 17<br>heart_att = 26<br>asthma_att = 521<br>hosp_adm = 15<br>bronc_chr = 15<br>asthma_er = 32<br>vmort_pope = 120,000<br>vheart_att = 3,000<br>vasthma_at = 27<br>vhosp_adm = 340<br>vbronc_chr = 6,800<br>vasthma_er = 12<br>vtotal = 140,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Harris<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2253,10 +2260,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48259<br>State = Texas<br>County = Kendall<br>us_total = 2.679<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 11<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 4,500<br>vheart_att = 120<br>vasthma_at = <1<br>vhosp_adm = 13<br>vbronc_chr = 200<br>vasthma_er = <1<br>vtotal = 4,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kendall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2264,10 +2271,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48015<br>State = Texas<br>County = Austin<br>us_total = 3.619<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 12<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,300<br>vheart_att = 110<br>vasthma_at = <1<br>vhosp_adm = 13<br>vbronc_chr = 190<br>vasthma_er = <1<br>vtotal = 5,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Austin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2275,10 +2282,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48385<br>State = Texas<br>County = Real<br>us_total = 3.218<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 580<br>vheart_att = 9<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 13<br>vasthma_er = <1<br>vtotal = 600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Real<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2286,10 +2293,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48055<br>State = Texas<br>County = Caldwell<br>us_total = 3.909<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 24<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 7,900<br>vheart_att = 170<br>vasthma_at = 1<br>vhosp_adm = 20<br>vbronc_chr = 350<br>vasthma_er = <1<br>vtotal = 8,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Caldwell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2297,10 +2304,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48091<br>State = Texas<br>County = Comal<br>us_total = 2.773<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 36<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 2<br>vmort_pope = 16,000<br>vheart_att = 370<br>vasthma_at = 2<br>vhosp_adm = 44<br>vbronc_chr = 670<br>vasthma_er = <1<br>vtotal = 17,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Comal<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2308,10 +2315,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48089<br>State = Texas<br>County = Colorado<br>us_total = 3.486<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 7<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,100<br>vheart_att = 73<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 4,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Colorado<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2319,10 +2326,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48019<br>State = Texas<br>County = Bandera<br>us_total = 2.583<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 7<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,000<br>vheart_att = 82<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bandera<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2330,10 +2337,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48071<br>State = Texas<br>County = Chambers<br>us_total = 2.659<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 13<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 4,200<br>vheart_att = 100<br>vasthma_at = <1<br>vhosp_adm = 11<br>vbronc_chr = 200<br>vasthma_er = <1<br>vtotal = 4,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Chambers<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2341,10 +2348,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48187<br>State = Texas<br>County = Guadalupe<br>us_total = 2.51<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 41<br>hosp_adm = 2<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 15,000<br>vheart_att = 330<br>vasthma_at = 2<br>vhosp_adm = 39<br>vbronc_chr = 640<br>vasthma_er = <1<br>vtotal = 16,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Guadalupe<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2352,10 +2359,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48157<br>State = Texas<br>County = Fort Bend<br>us_total = 1.178<br>cat = 1<br>mort_pope = 4<br>heart_att = 9<br>asthma_att = 154<br>hosp_adm = 5<br>bronc_chr = 5<br>asthma_er = 9<br>vmort_pope = 30,000<br>vheart_att = 1,000<br>vasthma_at = 8<br>vhosp_adm = 110<br>vbronc_chr = 2,300<br>vasthma_er = 3<br>vtotal = 34,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Fort Bend<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2363,10 +2370,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48177<br>State = Texas<br>County = Gonzales<br>us_total = 4.501<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 11<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 4,900<br>vheart_att = 91<br>vasthma_at = <1<br>vhosp_adm = 11<br>vbronc_chr = 160<br>vasthma_er = <1<br>vtotal = 5,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Gonzales<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2374,10 +2381,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48029<br>State = Texas<br>County = Bexar<br>us_total = 0.981<br>cat = 1<br>mort_pope = 11<br>heart_att = 17<br>asthma_att = 282<br>hosp_adm = 9<br>bronc_chr = 9<br>asthma_er = 16<br>vmort_pope = 84,000<br>vheart_att = 1,900<br>vasthma_at = 15<br>vhosp_adm = 220<br>vbronc_chr = 3,800<br>vasthma_er = 6<br>vtotal = 90,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bexar<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2385,10 +2392,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48325<br>State = Texas<br>County = Medina<br>us_total = 2.217<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 14<br>hosp_adm = 1<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,300<br>vheart_att = 110<br>vasthma_at = <1<br>vhosp_adm = 13<br>vbronc_chr = 220<br>vasthma_er = <1<br>vtotal = 5,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Medina<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2396,10 +2403,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48285<br>State = Texas<br>County = Lavaca<br>us_total = 3.737<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,100<br>vheart_att = 70<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 100<br>vasthma_er = <1<br>vtotal = 4,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Lavaca<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2407,10 +2414,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48481<br>State = Texas<br>County = Wharton<br>us_total = 2.92<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 16<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 6,600<br>vheart_att = 130<br>vasthma_at = <1<br>vhosp_adm = 16<br>vbronc_chr = 240<br>vasthma_er = <1<br>vtotal = 7,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Wharton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2418,10 +2425,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48463<br>State = Texas<br>County = Uvalde<br>us_total = 1.501<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,100<br>vheart_att = 44<br>vasthma_at = <1<br>vhosp_adm = 5<br>vbronc_chr = 79<br>vasthma_er = <1<br>vtotal = 2,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Uvalde<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2429,10 +2436,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48271<br>State = Texas<br>County = Kinney<br>us_total = 2.419<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 1<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 460<br>vheart_att = 8<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 12<br>vasthma_er = <1<br>vtotal = 480<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kinney<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2440,10 +2447,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48039<br>State = Texas<br>County = Brazoria<br>us_total = 1.355<br>cat = 1<br>mort_pope = 3<br>heart_att = 4<br>asthma_att = 72<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 4<br>vmort_pope = 21,000<br>vheart_att = 470<br>vasthma_at = 4<br>vhosp_adm = 54<br>vbronc_chr = 1,000<br>vasthma_er = 2<br>vtotal = 23,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Brazoria<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2451,10 +2458,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48167<br>State = Texas<br>County = Galveston<br>us_total = 2.346<br>cat = 1<br>mort_pope = 5<br>heart_att = 7<br>asthma_att = 97<br>hosp_adm = 4<br>bronc_chr = 3<br>asthma_er = 6<br>vmort_pope = 37,000<br>vheart_att = 780<br>vasthma_at = 5<br>vhosp_adm = 88<br>vbronc_chr = 1,500<br>vasthma_er = 2<br>vtotal = 40,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Galveston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2462,10 +2469,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48167<br>State = Texas<br>County = Galveston<br>us_total = 2.346<br>cat = 1<br>mort_pope = 5<br>heart_att = 7<br>asthma_att = 97<br>hosp_adm = 4<br>bronc_chr = 3<br>asthma_er = 6<br>vmort_pope = 37,000<br>vheart_att = 780<br>vasthma_at = 5<br>vhosp_adm = 88<br>vbronc_chr = 1,500<br>vasthma_er = 2<br>vtotal = 40,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Galveston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2473,10 +2480,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48167<br>State = Texas<br>County = Galveston<br>us_total = 2.346<br>cat = 1<br>mort_pope = 5<br>heart_att = 7<br>asthma_att = 97<br>hosp_adm = 4<br>bronc_chr = 3<br>asthma_er = 6<br>vmort_pope = 37,000<br>vheart_att = 780<br>vasthma_at = 5<br>vhosp_adm = 88<br>vbronc_chr = 1,500<br>vasthma_er = 2<br>vtotal = 40,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Galveston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2484,10 +2491,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48493<br>State = Texas<br>County = Wilson<br>us_total = 2.408<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 15<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 5,100<br>vheart_att = 130<br>vasthma_at = <1<br>vhosp_adm = 15<br>vbronc_chr = 250<br>vasthma_er = <1<br>vtotal = 5,500<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Wilson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2495,10 +2502,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48123<br>State = Texas<br>County = DeWitt<br>us_total = 3.434<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 4,000<br>vheart_att = 69<br>vasthma_at = <1<br>vhosp_adm = 8<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 4,300<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = DeWitt<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2506,10 +2513,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48239<br>State = Texas<br>County = Jackson<br>us_total = 3.667<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,900<br>vheart_att = 48<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 81<br>vasthma_er = <1<br>vtotal = 3,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jackson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2517,10 +2524,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48013<br>State = Texas<br>County = Atascosa<br>us_total = 2.174<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 17<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 5,000<br>vheart_att = 110<br>vasthma_at = <1<br>vhosp_adm = 13<br>vbronc_chr = 230<br>vasthma_er = <1<br>vtotal = 5,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Atascosa<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2528,10 +2535,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48321<br>State = Texas<br>County = Matagorda<br>us_total = 3.511<br>cat = 2<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 18<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 7,100<br>vheart_att = 140<br>vasthma_at = <1<br>vhosp_adm = 16<br>vbronc_chr = 250<br>vasthma_er = <1<br>vtotal = 7,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Matagorda<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2539,10 +2546,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48255<br>State = Texas<br>County = Karnes<br>us_total = 3.806<br>cat = 2<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 5<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 3,500<br>vheart_att = 56<br>vasthma_at = <1<br>vhosp_adm = 7<br>vbronc_chr = 110<br>vasthma_er = <1<br>vtotal = 3,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Karnes<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2550,10 +2557,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48469<br>State = Texas<br>County = Victoria<br>us_total = 2.447<br>cat = 1<br>mort_pope = 2<br>heart_att = 2<br>asthma_att = 30<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 11,000<br>vheart_att = 240<br>vasthma_at = 2<br>vhosp_adm = 27<br>vbronc_chr = 430<br>vasthma_er = <1<br>vtotal = 12,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Victoria<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2561,10 +2568,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48507<br>State = Texas<br>County = Zavala<br>us_total = 1.889<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,100<br>vheart_att = 21<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 38<br>vasthma_er = <1<br>vtotal = 1,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Zavala<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2572,10 +2579,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48163<br>State = Texas<br>County = Frio<br>us_total = 2.706<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 6<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,400<br>vheart_att = 47<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 95<br>vasthma_er = <1<br>vtotal = 2,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Frio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2583,10 +2590,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48323<br>State = Texas<br>County = Maverick<br>us_total = 1.25<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 16<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 3,200<br>vheart_att = 83<br>vasthma_at = <1<br>vhosp_adm = 10<br>vbronc_chr = 160<br>vasthma_er = <1<br>vtotal = 3,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Maverick<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2594,10 +2601,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48175<br>State = Texas<br>County = Goliad<br>us_total = 3.785<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,500<br>vheart_att = 32<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 51<br>vasthma_er = <1<br>vtotal = 1,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Goliad<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2605,10 +2612,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48297<br>State = Texas<br>County = Live Oak<br>us_total = 3.667<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,500<br>vheart_att = 49<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 79<br>vasthma_er = <1<br>vtotal = 2,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Live Oak<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2616,10 +2623,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48025<br>State = Texas<br>County = Bee<br>us_total = 2.66<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 12<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 5,200<br>vheart_att = 97<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 220<br>vasthma_er = <1<br>vtotal = 5,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Bee<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2627,10 +2634,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48283<br>State = Texas<br>County = La Salle<br>us_total = 2.166<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 700<br>vheart_att = 12<br>vasthma_at = <1<br>vhosp_adm = 1<br>vbronc_chr = 23<br>vasthma_er = <1<br>vtotal = 740<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = La Salle<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2638,10 +2645,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48311<br>State = Texas<br>County = McMullen<br>us_total = 3.494<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 190<br>vheart_att = 3<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 4<br>vasthma_er = <1<br>vtotal = 200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = McMullen<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2649,10 +2656,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48127<br>State = Texas<br>County = Dimmit<br>us_total = 1.757<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 930<br>vheart_att = 19<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 34<br>vasthma_er = <1<br>vtotal = 1,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Dimmit<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2660,10 +2667,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48391<br>State = Texas<br>County = Refugio<br>us_total = 4.906<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 4<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,100<br>vheart_att = 38<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 62<br>vasthma_er = <1<br>vtotal = 2,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Refugio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2671,10 +2678,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48057<br>State = Texas<br>County = Calhoun<br>us_total = 2.933<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 3,300<br>vheart_att = 75<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2682,10 +2689,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48057<br>State = Texas<br>County = Calhoun<br>us_total = 2.933<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 3,300<br>vheart_att = 75<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2693,10 +2700,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48057<br>State = Texas<br>County = Calhoun<br>us_total = 2.933<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 3,300<br>vheart_att = 75<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2704,10 +2711,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48057<br>State = Texas<br>County = Calhoun<br>us_total = 2.933<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 3,300<br>vheart_att = 75<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2715,10 +2722,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48057<br>State = Texas<br>County = Calhoun<br>us_total = 2.933<br>cat = 1<br>mort_pope = 0<br>heart_att = 1<br>asthma_att = 9<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 3,300<br>vheart_att = 75<br>vasthma_at = <1<br>vhosp_adm = 9<br>vbronc_chr = 130<br>vasthma_er = <1<br>vtotal = 3,600<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2726,10 +2733,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48479<br>State = Texas<br>County = Webb<br>us_total = 1.005<br>cat = 1<br>mort_pope = 2<br>heart_att = 3<br>asthma_att = 81<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 5<br>vmort_pope = 11,000<br>vheart_att = 310<br>vasthma_at = 4<br>vhosp_adm = 37<br>vbronc_chr = 710<br>vasthma_er = 2<br>vtotal = 13,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Webb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2737,10 +2744,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48409<br>State = Texas<br>County = San Patricio<br>us_total = 1.994<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 24<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 7,300<br>vheart_att = 160<br>vasthma_at = 1<br>vhosp_adm = 18<br>vbronc_chr = 310<br>vasthma_er = <1<br>vtotal = 7,900<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = San Patricio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2748,10 +2755,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48007<br>State = Texas<br>County = Aransas<br>us_total = 5.997<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 12<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 8,700<br>vheart_att = 170<br>vasthma_at = <1<br>vhosp_adm = 21<br>vbronc_chr = 260<br>vasthma_er = <1<br>vtotal = 9,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Aransas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2759,21 +2766,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48007<br>State = Texas<br>County = Aransas<br>us_total = 5.997<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 12<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 8,700<br>vheart_att = 170<br>vasthma_at = <1<br>vhosp_adm = 21<br>vbronc_chr = 260<br>vasthma_er = <1<br>vtotal = 9,200<br>]]></description>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-96.940230,28.046227,0.000000 -96.872686,28.131695,0.000000 -96.837689,28.102133,0.000000 -96.854070,28.049696,0.000000 -97.049872,27.841258,0.000000 -97.024696,27.914682,0.000000 -96.949652,27.984823,0.000000 -96.973266,28.001149,0.000000 -96.940230,28.046227,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-      <styleUrl>#style1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[FIPS = 48007<br>State = Texas<br>County = Aransas<br>us_total = 5.997<br>cat = 2<br>mort_pope = 1<br>heart_att = 2<br>asthma_att = 12<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 8,700<br>vheart_att = 170<br>vasthma_at = <1<br>vhosp_adm = 21<br>vbronc_chr = 260<br>vasthma_er = <1<br>vtotal = 9,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Aransas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2781,10 +2777,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48131<br>State = Texas<br>County = Duval<br>us_total = 2.467<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,700<br>vheart_att = 28<br>vasthma_at = <1<br>vhosp_adm = 3<br>vbronc_chr = 48<br>vasthma_er = <1<br>vtotal = 1,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Duval<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2792,10 +2788,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48249<br>State = Texas<br>County = Jim Wells<br>us_total = 2.581<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 17<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 1<br>vmort_pope = 5,600<br>vheart_att = 120<br>vasthma_at = <1<br>vhosp_adm = 14<br>vbronc_chr = 220<br>vasthma_er = <1<br>vtotal = 6,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jim Wells<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2803,21 +2799,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48355<br>State = Texas<br>County = Nueces<br>us_total = 1.629<br>cat = 1<br>mort_pope = 4<br>heart_att = 6<br>asthma_att = 82<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 5<br>vmort_pope = 29,000<br>vheart_att = 610<br>vasthma_at = 4<br>vhosp_adm = 70<br>vbronc_chr = 1,200<br>vasthma_er = 2<br>vtotal = 31,000<br>]]></description>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-97.331727,27.562637,0.000000 -97.838647,27.557242,0.000000 -97.875650,27.593004,0.000000 -97.879640,27.617960,0.000000 -97.948268,27.640962,0.000000 -97.939304,27.884824,0.000000 -97.804712,28.000863,0.000000 -97.819757,27.976323,0.000000 -97.821901,27.952898,0.000000 -97.806542,27.930030,0.000000 -97.795342,27.945446,0.000000 -97.784486,27.947521,0.000000 -97.757416,27.940050,0.000000 -97.643439,27.894774,0.000000 -97.592840,27.866021,0.000000 -97.509320,27.839692,0.000000 -97.499806,27.843545,0.000000 -97.480084,27.820585,0.000000 -97.318063,27.712535,0.000000 -97.309480,27.708173,0.000000 -97.250061,27.689143,0.000000 -97.331727,27.562637,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-      <styleUrl>#style1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[FIPS = 48355<br>State = Texas<br>County = Nueces<br>us_total = 1.629<br>cat = 1<br>mort_pope = 4<br>heart_att = 6<br>asthma_att = 82<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 5<br>vmort_pope = 29,000<br>vheart_att = 610<br>vasthma_at = 4<br>vhosp_adm = 70<br>vbronc_chr = 1,200<br>vasthma_er = 2<br>vtotal = 31,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Nueces<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2825,21 +2810,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48273<br>State = Texas<br>County = Kleberg<br>us_total = 2.835<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 14<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 4,800<br>vheart_att = 99<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 200<br>vasthma_er = <1<br>vtotal = 5,100<br>]]></description>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-97.785018,27.288040,0.000000 -97.930148,27.246578,0.000000 -97.956859,27.238802,0.000000 -97.984974,27.214903,0.000000 -97.984868,27.262858,0.000000 -98.062415,27.263853,0.000000 -98.062635,27.638053,0.000000 -97.948268,27.640962,0.000000 -97.879640,27.617960,0.000000 -97.875650,27.593004,0.000000 -97.838647,27.557242,0.000000 -97.331727,27.562637,0.000000 -97.412528,27.321345,0.000000 -97.500703,27.319988,0.000000 -97.507808,27.439532,0.000000 -97.528651,27.344420,0.000000 -97.600383,27.300455,0.000000 -97.750349,27.419983,0.000000 -97.680279,27.294693,0.000000 -97.785018,27.288040,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-      <styleUrl>#style1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[FIPS = 48273<br>State = Texas<br>County = Kleberg<br>us_total = 2.835<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 14<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 1<br>vmort_pope = 4,800<br>vheart_att = 99<br>vasthma_at = <1<br>vhosp_adm = 12<br>vbronc_chr = 200<br>vasthma_er = <1<br>vtotal = 5,100<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kleberg<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2847,10 +2821,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48247<br>State = Texas<br>County = Jim Hogg<br>us_total = 4.994<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 2<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,300<br>vheart_att = 19<br>vasthma_at = <1<br>vhosp_adm = 2<br>vbronc_chr = 30<br>vasthma_er = <1<br>vtotal = 1,400<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Jim Hogg<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2858,10 +2832,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48505<br>State = Texas<br>County = Zapata<br>us_total = 3.703<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,600<br>vheart_att = 48<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 89<br>vasthma_er = <1<br>vtotal = 2,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Zapata<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2869,10 +2843,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48047<br>State = Texas<br>County = Brooks<br>us_total = 3.987<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 3<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 1,600<br>vheart_att = 29<br>vasthma_at = <1<br>vhosp_adm = 4<br>vbronc_chr = 48<br>vasthma_er = <1<br>vtotal = 1,700<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Brooks<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2880,21 +2854,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48261<br>State = Texas<br>County = Kenedy<br>us_total = 3.446<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 75<br>vheart_att = 2<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 3<br>vasthma_er = <1<br>vtotal = 80<br>]]></description>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-97.964032,26.613095,0.000000 -97.991789,26.617330,0.000000 -97.990903,26.786808,0.000000 -97.984974,27.214903,0.000000 -97.956859,27.238802,0.000000 -97.930148,27.246578,0.000000 -97.785018,27.288040,0.000000 -97.548425,27.230530,0.000000 -97.427481,27.265455,0.000000 -97.503767,27.081869,0.000000 -97.479260,26.996838,0.000000 -97.568832,26.978189,0.000000 -97.558317,26.846387,0.000000 -97.495838,26.794117,0.000000 -97.451958,26.601327,0.000000 -97.866655,26.597750,0.000000 -97.964032,26.613095,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-      <styleUrl>#style1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[FIPS = 48261<br>State = Texas<br>County = Kenedy<br>us_total = 3.446<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 75<br>vheart_att = 2<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 3<br>vasthma_er = <1<br>vtotal = 80<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kenedy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2902,10 +2865,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48261<br>State = Texas<br>County = Kenedy<br>us_total = 3.446<br>cat = 2<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 0<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 75<br>vheart_att = 2<br>vasthma_at = <1<br>vhosp_adm = <1<br>vbronc_chr = 3<br>vasthma_er = <1<br>vtotal = 80<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Kenedy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2913,10 +2876,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48427<br>State = Texas<br>County = Starr<br>us_total = 1.538<br>cat = 1<br>mort_pope = 1<br>heart_att = 1<br>asthma_att = 31<br>hosp_adm = 1<br>bronc_chr = 1<br>asthma_er = 2<br>vmort_pope = 4,600<br>vheart_att = 130<br>vasthma_at = 2<br>vhosp_adm = 16<br>vbronc_chr = 280<br>vasthma_er = <1<br>vtotal = 5,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Starr<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2924,10 +2887,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48215<br>State = Texas<br>County = Hidalgo<br>us_total = 0.611<br>cat = 1<br>mort_pope = 3<br>heart_att = 5<br>asthma_att = 125<br>hosp_adm = 3<br>bronc_chr = 3<br>asthma_er = 8<br>vmort_pope = 21,000<br>vheart_att = 550<br>vasthma_at = 6<br>vhosp_adm = 66<br>vbronc_chr = 1,200<br>vasthma_er = 3<br>vtotal = 23,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Hidalgo<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2935,10 +2898,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48489<br>State = Texas<br>County = Willacy<br>us_total = 1.868<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,000<br>vheart_att = 49<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 92<br>vasthma_er = <1<br>vtotal = 2,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Willacy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2946,10 +2909,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48489<br>State = Texas<br>County = Willacy<br>us_total = 1.868<br>cat = 1<br>mort_pope = 0<br>heart_att = 0<br>asthma_att = 8<br>hosp_adm = 0<br>bronc_chr = 0<br>asthma_er = 0<br>vmort_pope = 2,000<br>vheart_att = 49<br>vasthma_at = <1<br>vhosp_adm = 6<br>vbronc_chr = 92<br>vasthma_er = <1<br>vtotal = 2,200<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Willacy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2957,21 +2920,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Unknown</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[FIPS = 48061<br>State = Texas<br>County = Cameron<br>us_total = 0.912<br>cat = 1<br>mort_pope = 2<br>heart_att = 4<br>asthma_att = 88<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 5<br>vmort_pope = 18,000<br>vheart_att = 450<br>vasthma_at = 5<br>vhosp_adm = 53<br>vbronc_chr = 900<br>vasthma_er = 2<br>vtotal = 20,000<br>]]></description>
-      <Polygon>
-        <outerBoundaryIs>
-          <LinearRing>
-            <coordinates>-97.251504,26.419652,0.000000 -97.232361,26.418490,0.000000 -97.195243,26.259593,0.000000 -97.172048,26.078077,0.000000 -97.179586,26.072277,0.000000 -97.209167,26.250894,0.000000 -97.226563,26.348901,0.000000 -97.251504,26.419652,0.000000</coordinates>
-          </LinearRing>
-        </outerBoundaryIs>
-      </Polygon>
-      <styleUrl>#style1</styleUrl>
-    </Placemark>
-    <Placemark>
-      <description><![CDATA[FIPS = 48061<br>State = Texas<br>County = Cameron<br>us_total = 0.912<br>cat = 1<br>mort_pope = 2<br>heart_att = 4<br>asthma_att = 88<br>hosp_adm = 2<br>bronc_chr = 2<br>asthma_er = 5<br>vmort_pope = 18,000<br>vheart_att = 450<br>vasthma_at = 5<br>vhosp_adm = 53<br>vbronc_chr = 900<br>vasthma_er = 2<br>vtotal = 20,000<br>]]></description>
+      <description><![CDATA[State = Texas<br>County = Cameron<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2979,7 +2931,7 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#style1</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
   </Folder>
 </Document>
