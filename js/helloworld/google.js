@@ -11,7 +11,7 @@ define(
 
                 var map = new google.maps.Map( mapCanvas, myOptions );	
                 var ctaLayer = new google.maps.KmlLayer({
-                    url: 'https://raw.github.com/SteveMunLeeuw/HeyImInADryCounty/master/texasCountyLevel.kml'
+                    url: 'https://raw.github.com/SteveMunLeeuw/HeyImInADryCounty/master/texasCountyLevel.kml?a=2'
                 });
                 ctaLayer.setMap(map);
 
