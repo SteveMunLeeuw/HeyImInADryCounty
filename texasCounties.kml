@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-
   <Style id="County_Unknown">
     <LineStyle>
       <color>650300fc</color>
@@ -40,7 +39,7 @@
 
   <Folder>
     <name>texas_counties</name>
-    <!--<Placemark>
+    <Placemark>
       <description><![CDATA[State = Texas<br>County = Lipscomb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
@@ -2932,6 +2931,6 @@
         </outerBoundaryIs>
       </Polygon>
       <styleUrl>#County_Wet</styleUrl>
-    </Placemark>-->
+    </Placemark>
   </Folder>
 </Document>
