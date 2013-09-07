@@ -6,7 +6,7 @@
       <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>5078D2F0</color>
+      <color>44ffff99</color>
       <outline>1</outline>
       <fill>1</fill>
     </PolyStyle>
@@ -17,18 +17,29 @@
       <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>501423FF</color>
+      <color>44ff3333</color>
       <outline>1</outline>
       <fill>1</fill>
     </PolyStyle>
   </Style>
-  <Style id="County_Wet">
+	<Style id="County_PartiallyWet">
+		<LineStyle>
+			<color>65ff0000</color>
+			<width>1</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>4433ccff</color>
+			<outline>1</outline>
+			<fill>1</fill>
+		</PolyStyle>
+	</Style>
+	<Style id="County_Wet">
     <LineStyle>
       <color>65ff0000</color>
       <width>1</width>
     </LineStyle>
     <PolyStyle>
-      <color>5014B446</color>
+      <color>ff007db3</color>
       <outline>1</outline>
       <fill>1</fill>
     </PolyStyle>
@@ -40,7 +51,7 @@
   <Folder>
     <name>texas_counties</name>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lipscomb<br>]]></description>
+      <description><![CDATA[Lipscomb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -48,10 +59,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Sherman<br>]]></description>
+      <description><![CDATA[Sherman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -62,7 +73,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Dallam<br>]]></description>
+      <description><![CDATA[Dallam<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -70,10 +81,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hansford<br>]]></description>
+      <description><![CDATA[Hansford<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -84,7 +95,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Ochiltree<br>]]></description>
+      <description><![CDATA[Ochiltree<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -95,7 +106,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Roberts<br>]]></description>
+      <description><![CDATA[Roberts<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -106,7 +117,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hemphill<br>]]></description>
+      <description><![CDATA[Hemphill<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -117,7 +128,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hutchinson<br>]]></description>
+      <description><![CDATA[Hutchinson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -125,10 +136,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hartley<br>]]></description>
+      <description><![CDATA[Hartley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -136,10 +147,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Moore<br>]]></description>
+      <description><![CDATA[Moore<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -147,10 +158,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Potter<br>]]></description>
+      <description><![CDATA[Potter<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -158,10 +169,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Carson<br>]]></description>
+      <description><![CDATA[Carson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -169,10 +180,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Gray<br>]]></description>
+      <description><![CDATA[Gray<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -180,10 +191,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Wheeler<br>]]></description>
+      <description><![CDATA[Wheeler<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -194,7 +205,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Oldham<br>]]></description>
+      <description><![CDATA[Oldham<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -202,10 +213,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Randall<br>]]></description>
+      <description><![CDATA[Randall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -213,10 +224,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Armstrong<br><br>]]></description>
+      <description><![CDATA[Armstrong<br><br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -227,7 +238,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Collingsworth<br>]]></description>
+      <description><![CDATA[Collingsworth<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -238,7 +249,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Donley<br>]]></description>
+      <description><![CDATA[Donley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -246,10 +257,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Deaf Smith<br>]]></description>
+      <description><![CDATA[Deaf Smith<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -257,10 +268,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Parmer<br>]]></description>
+      <description><![CDATA[Parmer<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -271,7 +282,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Castro<br>]]></description>
+      <description><![CDATA[Castro<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -279,10 +290,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Swisher<br>]]></description>
+      <description><![CDATA[Swisher<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -290,10 +301,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Briscoe<br>]]></description>
+      <description><![CDATA[Briscoe<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -301,10 +312,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Childress<br>]]></description>
+      <description><![CDATA[Childress<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -315,7 +326,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hall<br>]]></description>
+      <description><![CDATA[Hall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -323,10 +334,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hardeman<br>]]></description>
+      <description><![CDATA[Hardeman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -334,10 +345,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Wilbarger<br>]]></description>
+      <description><![CDATA[Wilbarger<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -348,7 +359,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Motley<br>]]></description>
+      <description><![CDATA[Motley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -359,7 +370,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Cottle<br>]]></description>
+      <description><![CDATA[Cottle<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -370,7 +381,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Floyd<br>]]></description>
+      <description><![CDATA[Floyd<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -378,10 +389,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hale<br>]]></description>
+      <description><![CDATA[Hale<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -389,10 +400,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lamb<br>]]></description>
+      <description><![CDATA[Lamb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -400,10 +411,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bailey<br>]]></description>
+      <description><![CDATA[Bailey<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -414,7 +425,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Foard<br>]]></description>
+      <description><![CDATA[Foard<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -422,10 +433,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Wichita<br>]]></description>
+      <description><![CDATA[Wichita<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -433,10 +444,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Clay<br>]]></description>
+      <description><![CDATA[Clay<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -444,10 +455,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Montague<br>]]></description>
+      <description><![CDATA[Montague<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -455,10 +466,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Red River<br>]]></description>
+      <description><![CDATA[Red River<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -466,10 +477,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Grayson<br>]]></description>
+      <description><![CDATA[Grayson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -477,10 +488,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Cooke<br>]]></description>
+      <description><![CDATA[Cooke<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -488,10 +499,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lamar<br>]]></description>
+      <description><![CDATA[Lamar<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -499,10 +510,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Fannin<br>]]></description>
+      <description><![CDATA[Fannin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -510,10 +521,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = King<br>]]></description>
+      <description><![CDATA[King<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -521,10 +532,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Dickens<br>]]></description>
+      <description><![CDATA[Dickens<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -532,10 +543,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Crosby<br>]]></description>
+      <description><![CDATA[Crosby<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -546,7 +557,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lubbock<br>]]></description>
+      <description><![CDATA[Lubbock<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -554,10 +565,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Archer<br>]]></description>
+      <description><![CDATA[Archer<br>Beer, Wine, Liquor to go, no bars.<br>Holiday is dry...ironically.<br>Megargel, Scotland and Windthorst are wet.]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -565,10 +576,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hockley<br>]]></description>
+      <description><![CDATA[Hockley<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -576,10 +587,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Knox<br>]]></description>
+      <description><![CDATA[Knox<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -587,10 +598,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Baylor<br>]]></description>
+      <description><![CDATA[Baylor<br>Justice of the Peace District 1 is Dry, I couldn't find the area, but the seat is in Seymour, which allows sales of beer to go.]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -598,10 +609,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Cochran<br>]]></description>
+      <description><![CDATA[Cochran<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -609,10 +620,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bowie<br>]]></description>
+      <description><![CDATA[Bowie<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -620,10 +631,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Delta<br>]]></description>
+      <description><![CDATA[Delta<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -634,7 +645,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jack<br>]]></description>
+      <description><![CDATA[Jack<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -642,10 +653,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Wise<br>]]></description>
+      <description><![CDATA[Wise<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -653,10 +664,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Denton<br>]]></description>
+      <description><![CDATA[Denton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -664,10 +675,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hunt<br>]]></description>
+      <description><![CDATA[Hunt<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -675,10 +686,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Collin<br>]]></description>
+      <description><![CDATA[Collin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -686,10 +697,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Titus<br>]]></description>
+      <description><![CDATA[Titus<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -697,10 +708,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Haskell<br>]]></description>
+      <description><![CDATA[Haskell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -708,10 +719,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Throckmorton<br>]]></description>
+      <description><![CDATA[Throckmorton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -722,7 +733,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Young<br>]]></description>
+      <description><![CDATA[Young<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -730,10 +741,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kent<br>]]></description>
+      <description><![CDATA[Kent<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -744,7 +755,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Stonewall<br>]]></description>
+      <description><![CDATA[Stonewall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -752,10 +763,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Franklin<br>]]></description>
+      <description><![CDATA[Franklin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -766,7 +777,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Garza<br>]]></description>
+      <description><![CDATA[Garza<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -774,10 +785,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lynn<br>]]></description>
+      <description><![CDATA[Lynn<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -788,7 +799,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Terry<br>]]></description>
+      <description><![CDATA[Terry<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -796,10 +807,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Yoakum<br>]]></description>
+      <description><![CDATA[Yoakum<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -810,7 +821,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hopkins<br>]]></description>
+      <description><![CDATA[Hopkins<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -818,10 +829,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Morris<br>]]></description>
+      <description><![CDATA[Morris<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -832,7 +843,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Cass<br>]]></description>
+      <description><![CDATA[Cass<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -840,10 +851,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Camp<br>]]></description>
+      <description><![CDATA[Camp<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -851,10 +862,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Wood<br>]]></description>
+      <description><![CDATA[Wood<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -865,7 +876,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Palo Pinto<br>]]></description>
+      <description><![CDATA[Palo Pinto<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -873,10 +884,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Parker<br>]]></description>
+      <description><![CDATA[Parker<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -884,10 +895,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Tarrant<br>]]></description>
+      <description><![CDATA[Tarrant<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -895,10 +906,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Dallas<br>]]></description>
+      <description><![CDATA[Dallas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -906,10 +917,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Rockwall<br>]]></description>
+      <description><![CDATA[Rockwall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -917,10 +928,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Rains<br>]]></description>
+      <description><![CDATA[Rains<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -928,10 +939,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Shackelford<br>]]></description>
+      <description><![CDATA[Shackelford<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -939,10 +950,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jones<br>]]></description>
+      <description><![CDATA[Jones<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -950,10 +961,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Fisher<br>]]></description>
+      <description><![CDATA[Fisher<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -964,7 +975,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Scurry<br>]]></description>
+      <description><![CDATA[Scurry<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -975,7 +986,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Borden<br>]]></description>
+      <description><![CDATA[Borden<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -986,7 +997,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Dawson<br>]]></description>
+      <description><![CDATA[Dawson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -994,10 +1005,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Stephens<br>]]></description>
+      <description><![CDATA[Stephens<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1005,10 +1016,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Gaines<br>]]></description>
+      <description><![CDATA[Gaines<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1019,7 +1030,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Upshur<br>]]></description>
+      <description><![CDATA[Upshur<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1027,10 +1038,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Marion<br>]]></description>
+      <description><![CDATA[Marion<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1038,10 +1049,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kaufman<br>]]></description>
+      <description><![CDATA[Kaufman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1049,10 +1060,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Van Zandt<br>]]></description>
+      <description><![CDATA[Van Zandt<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1060,10 +1071,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Harrison<br>]]></description>
+      <description><![CDATA[Harrison<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1071,10 +1082,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Smith<br>]]></description>
+      <description><![CDATA[Smith<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1082,10 +1093,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Gregg<br>]]></description>
+      <description><![CDATA[Gregg<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1093,10 +1104,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Johnson<br>]]></description>
+      <description><![CDATA[Johnson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1104,10 +1115,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hood<br>]]></description>
+      <description><![CDATA[Hood<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1115,10 +1126,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Ellis<br>]]></description>
+      <description><![CDATA[Ellis<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1126,10 +1137,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Taylor<br>]]></description>
+      <description><![CDATA[Taylor<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1137,10 +1148,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Howard<br>]]></description>
+      <description><![CDATA[Howard<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1148,10 +1159,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Mitchell<br>]]></description>
+      <description><![CDATA[Mitchell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1162,7 +1173,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Eastland<br>]]></description>
+      <description><![CDATA[Eastland<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1170,10 +1181,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Callahan<br>]]></description>
+      <description><![CDATA[Callahan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1181,10 +1192,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Martin<br>]]></description>
+      <description><![CDATA[Martin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1195,7 +1206,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Andrews<br>]]></description>
+      <description><![CDATA[Andrews<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1206,7 +1217,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Nolan<br>]]></description>
+      <description><![CDATA[Nolan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1217,7 +1228,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Erath<br>]]></description>
+      <description><![CDATA[Erath<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1225,10 +1236,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Rusk<br>]]></description>
+      <description><![CDATA[Rusk<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1239,7 +1250,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Panola<br>]]></description>
+      <description><![CDATA[Panola<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1250,7 +1261,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Henderson<br>]]></description>
+      <description><![CDATA[Henderson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1258,10 +1269,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Navarro<br>]]></description>
+      <description><![CDATA[Navarro<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1269,10 +1280,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Somervell<br>]]></description>
+      <description><![CDATA[Somervell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1280,10 +1291,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hill<br>]]></description>
+      <description><![CDATA[Hill<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1291,10 +1302,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Comanche<br>]]></description>
+      <description><![CDATA[Comanche<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1302,10 +1313,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bosque<br>]]></description>
+      <description><![CDATA[Bosque<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1313,10 +1324,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Cherokee<br>]]></description>
+      <description><![CDATA[Cherokee<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1324,10 +1335,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Sterling<br>]]></description>
+      <description><![CDATA[Sterling<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1338,7 +1349,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Glasscock<br>]]></description>
+      <description><![CDATA[Glasscock<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1346,10 +1357,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Midland<br>]]></description>
+      <description><![CDATA[Midland<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1360,7 +1371,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Coke<br>]]></description>
+      <description><![CDATA[Coke<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1368,10 +1379,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Winkler<br>]]></description>
+      <description><![CDATA[Winkler<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1379,10 +1390,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Ector<br>]]></description>
+      <description><![CDATA[Ector<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1393,7 +1404,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Runnels<br>]]></description>
+      <description><![CDATA[Runnels<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1401,10 +1412,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Coleman<br>]]></description>
+      <description><![CDATA[Coleman<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1412,10 +1423,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Brown<br>]]></description>
+      <description><![CDATA[Brown<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1423,10 +1434,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Anderson<br>]]></description>
+      <description><![CDATA[Anderson<br>Beer, Wine, Liquor to go, no bars, but you can get a drink in a restaurant.<br>Elkhart and Frankston are dry.]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1434,10 +1445,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hamilton<br>]]></description>
+      <description><![CDATA[Hamilton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1445,10 +1456,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Freestone<br>]]></description>
+      <description><![CDATA[Freestone<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1456,10 +1467,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Culberson<br>]]></description>
+      <description><![CDATA[Culberson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1470,7 +1481,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Reeves<br>]]></description>
+      <description><![CDATA[Reeves<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1478,10 +1489,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Loving<br>]]></description>
+      <description><![CDATA[Loving<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1489,10 +1500,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hudspeth<br>]]></description>
+      <description><![CDATA[Hudspeth<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1503,7 +1514,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = El Paso<br>]]></description>
+      <description><![CDATA[El Paso<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1514,7 +1525,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Shelby<br>]]></description>
+      <description><![CDATA[Shelby<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1522,10 +1533,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = McLennan<br>]]></description>
+      <description><![CDATA[McLennan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1533,10 +1544,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Nacogdoches<br>]]></description>
+      <description><![CDATA[Nacogdoches<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1544,10 +1555,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Limestone<br>]]></description>
+      <description><![CDATA[Limestone<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1555,10 +1566,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Mills<br>]]></description>
+      <description><![CDATA[Mills<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1566,10 +1577,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Coryell<br>]]></description>
+      <description><![CDATA[Coryell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1577,10 +1588,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Tom Green<br>]]></description>
+      <description><![CDATA[Tom Green<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1588,10 +1599,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Ward<br>]]></description>
+      <description><![CDATA[Ward<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1599,10 +1610,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = San Augustine<br>]]></description>
+      <description><![CDATA[San Augustine<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1610,10 +1621,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Crane<br>]]></description>
+      <description><![CDATA[Crane<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1621,10 +1632,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Upton<br>]]></description>
+      <description><![CDATA[Upton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1632,10 +1643,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Reagan<br>]]></description>
+      <description><![CDATA[Reagan<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1643,10 +1654,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Leon<br>]]></description>
+      <description><![CDATA[Leon<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1654,10 +1665,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Sabine<br>]]></description>
+      <description><![CDATA[Sabine<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1665,10 +1676,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Houston<br>]]></description>
+      <description><![CDATA[Houston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1676,10 +1687,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Concho<br>]]></description>
+      <description><![CDATA[Concho<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1687,10 +1698,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Irion<br>]]></description>
+      <description><![CDATA[Irion<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1698,10 +1709,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Angelina<br>]]></description>
+      <description><![CDATA[Angelina<br>Beer, Wine, Liquor to go, no bars, but you can get a drink in a restaurant.<br>Burke only allows a drink if you're in a restaurant]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1709,10 +1720,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Falls<br>]]></description>
+      <description><![CDATA[Falls<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1720,10 +1731,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = McCulloch<br>]]></description>
+      <description><![CDATA[McCulloch<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1731,10 +1742,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = San Saba<br>]]></description>
+      <description><![CDATA[San Saba<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1745,7 +1756,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lampasas<br>]]></description>
+      <description><![CDATA[Lampasas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1753,10 +1764,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Trinity<br>]]></description>
+      <description><![CDATA[Trinity<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1764,10 +1775,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Pecos<br>]]></description>
+      <description><![CDATA[Pecos<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1775,10 +1786,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Robertson<br>]]></description>
+      <description><![CDATA[Robertson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1786,10 +1797,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bell<br>]]></description>
+      <description><![CDATA[Bell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1797,10 +1808,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Newton<br>]]></description>
+      <description><![CDATA[Newton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1808,10 +1819,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jasper<br>]]></description>
+      <description><![CDATA[Jasper<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1819,10 +1830,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Polk<br>]]></description>
+      <description><![CDATA[Polk<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1830,10 +1841,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Milam<br>]]></description>
+      <description><![CDATA[Milam<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1841,10 +1852,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jeff Davis<br>]]></description>
+      <description><![CDATA[Jeff Davis<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1852,10 +1863,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Madison<br>]]></description>
+      <description><![CDATA[Madison<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1863,10 +1874,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Schleicher<br>]]></description>
+      <description><![CDATA[Schleicher<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1874,10 +1885,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Menard<br>]]></description>
+      <description><![CDATA[Menard<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1885,10 +1896,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Crockett<br>]]></description>
+      <description><![CDATA[Crockett<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1896,10 +1907,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Tyler<br>]]></description>
+      <description><![CDATA[Tyler<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1910,7 +1921,7 @@
       <styleUrl>#County_Dry</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Walker<br>]]></description>
+      <description><![CDATA[Walker<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1918,10 +1929,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Burnet<br>]]></description>
+      <description><![CDATA[Burnet<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1929,10 +1940,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Brazos<br>]]></description>
+      <description><![CDATA[Brazos<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1943,7 +1954,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Mason<br>]]></description>
+      <description><![CDATA[Mason<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1951,10 +1962,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Llano<br>]]></description>
+      <description><![CDATA[Llano<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1962,10 +1973,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Williamson<br>]]></description>
+      <description><![CDATA[Williamson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1973,10 +1984,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = San Jacinto<br>]]></description>
+      <description><![CDATA[San Jacinto<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1984,10 +1995,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Grimes<br>]]></description>
+      <description><![CDATA[Grimes<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -1995,10 +2006,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Burleson<br>]]></description>
+      <description><![CDATA[Burleson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2006,10 +2017,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kimble<br>]]></description>
+      <description><![CDATA[Kimble<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2017,10 +2028,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Sutton<br>]]></description>
+      <description><![CDATA[Sutton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2031,7 +2042,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Brewster<br>]]></description>
+      <description><![CDATA[Brewster<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2042,7 +2053,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Terrell<br>]]></description>
+      <description><![CDATA[Terrell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2050,10 +2061,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Presidio<br>]]></description>
+      <description><![CDATA[Presidio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2064,7 +2075,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Travis<br>]]></description>
+      <description><![CDATA[Travis<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2072,10 +2083,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Montgomery<br>]]></description>
+      <description><![CDATA[Montgomery<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2083,10 +2094,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lee<br>]]></description>
+      <description><![CDATA[Lee<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2094,10 +2105,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hardin<br>]]></description>
+      <description><![CDATA[Hardin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2105,10 +2116,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Gillespie<br>]]></description>
+      <description><![CDATA[Gillespie<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2116,10 +2127,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Blanco<br>]]></description>
+      <description><![CDATA[Blanco<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2127,10 +2138,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Liberty<br>]]></description>
+      <description><![CDATA[Liberty<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2138,10 +2149,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bastrop<br>]]></description>
+      <description><![CDATA[Bastrop<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2149,10 +2160,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Washington<br>]]></description>
+      <description><![CDATA[Washington<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2163,7 +2174,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hays<br>]]></description>
+      <description><![CDATA[Hays<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2171,10 +2182,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Edwards<br>]]></description>
+      <description><![CDATA[Edwards<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2182,10 +2193,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Val Verde<br>]]></description>
+      <description><![CDATA[Val Verde<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2196,7 +2207,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kerr<br>]]></description>
+      <description><![CDATA[Kerr<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2204,10 +2215,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Waller<br>]]></description>
+      <description><![CDATA[Waller<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2215,10 +2226,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Orange<br>]]></description>
+      <description><![CDATA[Orange<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2226,10 +2237,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jefferson<br>]]></description>
+      <description><![CDATA[Jefferson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2237,10 +2248,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Fayette<br>]]></description>
+      <description><![CDATA[Fayette<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2251,7 +2262,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Harris<br>]]></description>
+      <description><![CDATA[Harris<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2259,10 +2270,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kendall<br>]]></description>
+      <description><![CDATA[Kendall<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2273,7 +2284,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Austin<br>]]></description>
+      <description><![CDATA[Austin<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2284,7 +2295,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Real<br>]]></description>
+      <description><![CDATA[Real<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2292,10 +2303,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Caldwell<br>]]></description>
+      <description><![CDATA[Caldwell<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2303,10 +2314,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Comal<br>]]></description>
+      <description><![CDATA[Comal<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2317,7 +2328,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Colorado<br>]]></description>
+      <description><![CDATA[Colorado<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2328,7 +2339,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bandera<br>]]></description>
+      <description><![CDATA[Bandera<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2336,10 +2347,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Chambers<br>]]></description>
+      <description><![CDATA[Chambers<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2347,10 +2358,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Guadalupe<br>]]></description>
+      <description><![CDATA[Guadalupe<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2361,7 +2372,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Fort Bend<br>]]></description>
+      <description><![CDATA[Fort Bend<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2372,7 +2383,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Gonzales<br>]]></description>
+      <description><![CDATA[Gonzales<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2383,7 +2394,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bexar<br>]]></description>
+      <description><![CDATA[Bexar<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2394,7 +2405,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Medina<br>]]></description>
+      <description><![CDATA[Medina<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2402,10 +2413,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Lavaca<br>]]></description>
+      <description><![CDATA[Lavaca<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2413,10 +2424,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Wharton<br>]]></description>
+      <description><![CDATA[Wharton<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2427,7 +2438,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Uvalde<br>]]></description>
+      <description><![CDATA[Uvalde<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2435,10 +2446,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kinney<br>]]></description>
+      <description><![CDATA[Kinney<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2449,7 +2460,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Brazoria<br>]]></description>
+      <description><![CDATA[Brazoria<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2457,10 +2468,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Galveston<br>]]></description>
+      <description><![CDATA[Galveston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2468,10 +2479,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Galveston<br>]]></description>
+      <description><![CDATA[Galveston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2479,10 +2490,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Galveston<br>]]></description>
+      <description><![CDATA[Galveston<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2490,10 +2501,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Wilson<br>]]></description>
+      <description><![CDATA[Wilson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2501,10 +2512,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = DeWitt<br>]]></description>
+      <description><![CDATA[DeWitt<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2512,10 +2523,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jackson<br>]]></description>
+      <description><![CDATA[Jackson<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2523,10 +2534,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Atascosa<br>]]></description>
+      <description><![CDATA[Atascosa<br>Only Christine is dry]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2534,10 +2545,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Matagorda<br>]]></description>
+      <description><![CDATA[Matagorda<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2545,10 +2556,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Karnes<br>]]></description>
+      <description><![CDATA[Karnes<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2556,10 +2567,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Victoria<br>]]></description>
+      <description><![CDATA[Victoria<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2570,7 +2581,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Zavala<br>]]></description>
+      <description><![CDATA[Zavala<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2581,7 +2592,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Frio<br>]]></description>
+      <description><![CDATA[Frio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2589,10 +2600,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Maverick<br>]]></description>
+      <description><![CDATA[Maverick<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2600,10 +2611,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Goliad<br>]]></description>
+      <description><![CDATA[Goliad<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2614,7 +2625,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Live Oak<br>]]></description>
+      <description><![CDATA[Live Oak<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2622,10 +2633,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Bee<br>]]></description>
+      <description><![CDATA[Bee<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2633,10 +2644,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = La Salle<br>]]></description>
+      <description><![CDATA[La Salle<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2647,7 +2658,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = McMullen<br>]]></description>
+      <description><![CDATA[McMullen<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2655,10 +2666,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Dimmit<br>]]></description>
+      <description><![CDATA[Dimmit<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2669,7 +2680,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Refugio<br>]]></description>
+      <description><![CDATA[Refugio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2677,10 +2688,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
+      <description><![CDATA[Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2688,10 +2699,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
+      <description><![CDATA[Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2699,10 +2710,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
+      <description><![CDATA[Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2710,10 +2721,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
+      <description><![CDATA[Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2721,10 +2732,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Calhoun<br>]]></description>
+      <description><![CDATA[Calhoun<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2732,10 +2743,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Webb<br>]]></description>
+      <description><![CDATA[Webb<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2746,7 +2757,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = San Patricio<br>]]></description>
+      <description><![CDATA[San Patricio<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2754,10 +2765,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Aransas<br>]]></description>
+      <description><![CDATA[Aransas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2768,7 +2779,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Aransas<br>]]></description>
+      <description><![CDATA[Aransas<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2776,10 +2787,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Duval<br>]]></description>
+      <description><![CDATA[Duval<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2790,7 +2801,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jim Wells<br>]]></description>
+      <description><![CDATA[Jim Wells<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2798,10 +2809,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Nueces<br>]]></description>
+      <description><![CDATA[Nueces<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2812,7 +2823,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kleberg<br>]]></description>
+      <description><![CDATA[Kleberg<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2823,7 +2834,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Jim Hogg<br>]]></description>
+      <description><![CDATA[Jim Hogg<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2834,7 +2845,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Zapata<br>]]></description>
+      <description><![CDATA[Zapata<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2845,7 +2856,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Brooks<br>]]></description>
+      <description><![CDATA[Brooks<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2856,7 +2867,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kenedy<br>]]></description>
+      <description><![CDATA[Kenedy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2867,7 +2878,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Kenedy<br>]]></description>
+      <description><![CDATA[Kenedy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2875,10 +2886,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Starr<br>]]></description>
+      <description><![CDATA[Starr<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2889,7 +2900,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Hidalgo<br>]]></description>
+      <description><![CDATA[Hidalgo<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2900,7 +2911,7 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Willacy<br>]]></description>
+      <description><![CDATA[Willacy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2908,10 +2919,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Willacy<br>]]></description>
+      <description><![CDATA[Willacy<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
@@ -2919,10 +2930,10 @@
           </LinearRing>
         </outerBoundaryIs>
       </Polygon>
-      <styleUrl>#County_Unknown</styleUrl>
+      <styleUrl>#County_PartiallyWet</styleUrl>
     </Placemark>
     <Placemark>
-      <description><![CDATA[State = Texas<br>County = Cameron<br>]]></description>
+      <description><![CDATA[Cameron<br>]]></description>
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
