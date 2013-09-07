@@ -6647,5 +6647,2900 @@
         </MultiGeometry>
       </MultiGeometry>
     </Placemark>
+
+    <Placemark>
+      <description><![CDATA[Lipscomb<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.007273,36.493913,0.000000 -100.001551,36.492555,0.000000 -99.997554,36.057591,0.000000 -100.541014,36.058176,0.000000 -100.549839,36.489479,0.000000 -100.007273,36.493913,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Sherman<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.168032,36.054661,0.000000 -102.165674,36.490234,0.000000 -102.034658,36.492981,0.000000 -101.620756,36.492031,0.000000 -101.619944,36.054746,0.000000 -102.168032,36.054661,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Dallam<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.168032,36.054661,0.000000 -103.024048,36.056062,0.000000 -103.027287,36.491592,0.000000 -102.997401,36.492370,0.000000 -102.165674,36.490234,0.000000 -102.168032,36.054661,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hansford<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.619944,36.054746,0.000000 -101.620756,36.492031,0.000000 -101.090102,36.488050,0.000000 -101.082746,36.056299,0.000000 -101.619944,36.054746,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Ochiltree<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.082746,36.056299,0.000000 -101.090102,36.488050,0.000000 -100.957341,36.489638,0.000000 -100.549839,36.489479,0.000000 -100.541014,36.058176,0.000000 -101.082746,36.056299,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Roberts<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.094159,35.624696,0.000000 -101.082746,36.056299,0.000000 -100.541014,36.058176,0.000000 -100.543594,35.625323,0.000000 -101.086239,35.624769,0.000000 -101.094159,35.624696,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hemphill<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.000392,35.618856,0.000000 -100.543594,35.625323,0.000000 -100.541014,36.058176,0.000000 -99.997554,36.057591,0.000000 -99.998123,35.883838,0.000000 -100.000392,35.618856,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hutchinson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.094159,35.624696,0.000000 -101.622712,35.625448,0.000000 -101.619944,36.054746,0.000000 -101.082746,36.056299,0.000000 -101.094159,35.624696,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hartley<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.022294,35.623648,0.000000 -103.022612,35.742327,0.000000 -103.024048,36.056062,0.000000 -102.168032,36.054661,0.000000 -102.160907,35.625026,0.000000 -103.022294,35.623648,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Moore<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.160907,35.625026,0.000000 -102.168032,36.054661,0.000000 -101.619944,36.054746,0.000000 -101.622712,35.625448,0.000000 -102.160907,35.625026,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Potter<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.151789,35.181198,0.000000 -102.160907,35.625026,0.000000 -101.622712,35.625448,0.000000 -101.626280,35.182360,0.000000 -102.151789,35.181198,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Carson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.086239,35.624769,0.000000 -101.087842,35.181747,0.000000 -101.626280,35.182360,0.000000 -101.622712,35.625448,0.000000 -101.094159,35.624696,0.000000 -101.086239,35.624769,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Gray<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.087842,35.181747,0.000000 -101.086239,35.624769,0.000000 -100.543594,35.625323,0.000000 -100.536511,35.181919,0.000000 -101.087842,35.181747,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Wheeler<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.536511,35.181919,0.000000 -100.543594,35.625323,0.000000 -100.000392,35.618856,0.000000 -99.994743,35.424622,0.000000 -99.997570,35.182235,0.000000 -100.536511,35.181919,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Oldham<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.026151,35.177266,0.000000 -103.022294,35.623648,0.000000 -102.160907,35.625026,0.000000 -102.151789,35.181198,0.000000 -102.163035,35.180992,0.000000 -103.026151,35.177266,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Randall<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.994342,34.752519,0.000000 -102.169936,34.748945,0.000000 -102.163035,35.180992,0.000000 -102.151789,35.181198,0.000000 -101.626280,35.182360,0.000000 -101.628425,34.753181,0.000000 -101.994342,34.752519,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Armstrong<br><br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.088442,34.748545,0.000000 -101.470581,34.749820,0.000000 -101.628425,34.753181,0.000000 -101.626280,35.182360,0.000000 -101.087842,35.181747,0.000000 -101.088442,34.748545,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Collingsworth<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.545227,34.746879,0.000000 -100.536511,35.181919,0.000000 -99.997570,35.182235,0.000000 -99.996455,35.031051,0.000000 -99.999260,34.747243,0.000000 -100.418803,34.746037,0.000000 -100.545227,34.746879,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Donley<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.545227,34.746879,0.000000 -100.944087,34.747068,0.000000 -101.088442,34.748545,0.000000 -101.087842,35.181747,0.000000 -100.536511,35.181919,0.000000 -100.545227,34.746879,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Deaf Smith<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.518141,34.753330,0.000000 -103.022657,34.745333,0.000000 -103.025251,34.964780,0.000000 -103.026151,35.177266,0.000000 -102.163035,35.180992,0.000000 -102.169936,34.748945,0.000000 -102.518141,34.753330,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Parmer<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.029646,34.307820,0.000000 -103.022657,34.745333,0.000000 -102.518141,34.753330,0.000000 -102.522071,34.308820,0.000000 -102.609968,34.308243,0.000000 -103.029646,34.307820,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Castro<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.522071,34.308820,0.000000 -102.518141,34.753330,0.000000 -102.169936,34.748945,0.000000 -101.994342,34.752519,0.000000 -101.992991,34.310442,0.000000 -102.086399,34.308355,0.000000 -102.522071,34.308820,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Swisher<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.468912,34.309600,0.000000 -101.561797,34.308845,0.000000 -101.992991,34.310442,0.000000 -101.994342,34.752519,0.000000 -101.628425,34.753181,0.000000 -101.470581,34.749820,0.000000 -101.468912,34.309600,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Briscoe<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.048392,34.312331,0.000000 -101.468912,34.309600,0.000000 -101.470581,34.749820,0.000000 -101.088442,34.748545,0.000000 -100.944087,34.747068,0.000000 -100.947191,34.315923,0.000000 -101.048392,34.312331,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Childress<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.998154,34.312509,0.000000 -100.420928,34.315385,0.000000 -100.418803,34.746037,0.000000 -99.999260,34.747243,0.000000 -99.996475,34.562384,0.000000 -99.998154,34.312509,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hall<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.420928,34.315385,0.000000 -100.519381,34.314077,0.000000 -100.947191,34.315923,0.000000 -100.944087,34.747068,0.000000 -100.545227,34.746879,0.000000 -100.418803,34.746037,0.000000 -100.420928,34.315385,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hardeman<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.999825,34.229355,0.000000 -99.998154,34.312509,0.000000 -99.996475,34.562384,0.000000 -99.945120,34.579635,0.000000 -99.932287,34.579173,0.000000 -99.880977,34.548242,0.000000 -99.830308,34.501846,0.000000 -99.778060,34.444064,0.000000 -99.685277,34.377521,0.000000 -99.601817,34.368634,0.000000 -99.585589,34.384934,0.000000 -99.578220,34.408989,0.000000 -99.554232,34.415256,0.000000 -99.502504,34.404145,0.000000 -99.479806,34.383600,0.000000 -99.475210,34.075022,0.000000 -99.490797,34.066454,0.000000 -99.546829,34.062139,0.000000 -99.560692,34.061738,0.000000 -99.648700,34.095672,0.000000 -99.720251,34.095865,0.000000 -99.773521,34.090528,0.000000 -99.999825,34.229355,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Wilbarger<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.953279,33.833267,0.000000 -99.471347,33.827703,0.000000 -99.475210,34.075022,0.000000 -99.479806,34.383600,0.000000 -99.438743,34.364783,0.000000 -99.410323,34.369186,0.000000 -99.394522,34.396822,0.000000 -99.393157,34.429071,0.000000 -99.364569,34.450272,0.000000 -99.205849,34.332075,0.000000 -99.196663,34.305206,0.000000 -99.204956,34.255731,0.000000 -99.190840,34.223822,0.000000 -99.176512,34.212817,0.000000 -99.128300,34.201556,0.000000 -99.078784,34.208446,0.000000 -98.996545,34.209584,0.000000 -98.952857,34.194654,0.000000 -98.953279,33.833267,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Motley<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.046427,33.836446,0.000000 -101.048392,34.312331,0.000000 -100.947191,34.315923,0.000000 -100.519381,34.314077,0.000000 -100.526735,33.840436,0.000000 -101.046427,33.836446,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Cottle<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.999825,34.229355,0.000000 -100.032060,34.238895,0.000000 -100.055392,34.227977,0.000000 -100.060088,33.841167,0.000000 -100.526735,33.840436,0.000000 -100.519381,34.314077,0.000000 -100.420928,34.315385,0.000000 -99.998154,34.312509,0.000000 -99.999825,34.229355,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Floyd<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.562827,33.835168,0.000000 -101.561797,34.308845,0.000000 -101.468912,34.309600,0.000000 -101.048392,34.312331,0.000000 -101.046427,33.836446,0.000000 -101.562827,33.835168,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hale<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.081446,33.833361,0.000000 -102.086399,34.308355,0.000000 -101.992991,34.310442,0.000000 -101.561797,34.308845,0.000000 -101.562827,33.835168,0.000000 -102.081446,33.833361,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Lamb<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.606165,33.830458,0.000000 -102.609968,34.308243,0.000000 -102.522071,34.308820,0.000000 -102.086399,34.308355,0.000000 -102.081446,33.833361,0.000000 -102.606165,33.830458,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bailey<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.033259,33.826182,0.000000 -103.029646,34.307820,0.000000 -102.609968,34.308243,0.000000 -102.606165,33.830458,0.000000 -103.033259,33.826182,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Foard<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.471347,33.827703,0.000000 -99.469232,33.731750,0.000000 -99.520885,33.771990,0.000000 -99.579840,33.801320,0.000000 -99.650498,33.817925,0.000000 -99.693583,33.824867,0.000000 -99.838950,33.833341,0.000000 -99.999829,33.832546,0.000000 -100.060088,33.841167,0.000000 -100.055392,34.227977,0.000000 -100.032060,34.238895,0.000000 -99.999825,34.229355,0.000000 -99.773521,34.090528,0.000000 -99.720251,34.095865,0.000000 -99.648700,34.095672,0.000000 -99.560692,34.061738,0.000000 -99.546829,34.062139,0.000000 -99.490797,34.066454,0.000000 -99.475210,34.075022,0.000000 -99.471347,33.827703,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Wichita<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.953279,33.833267,0.000000 -98.952857,34.194654,0.000000 -98.891689,34.160910,0.000000 -98.778877,34.132053,0.000000 -98.705632,34.130806,0.000000 -98.682553,34.150089,0.000000 -98.626330,34.158528,0.000000 -98.607584,34.151490,0.000000 -98.576668,34.142022,0.000000 -98.557914,34.105428,0.000000 -98.499852,34.066508,0.000000 -98.448519,34.054469,0.000000 -98.421671,34.065925,0.000000 -98.418611,33.834011,0.000000 -98.953279,33.833267,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Clay<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.416024,33.470567,0.000000 -98.418611,33.834011,0.000000 -98.421671,34.065925,0.000000 -98.384583,34.115873,0.000000 -98.350730,34.142213,0.000000 -98.320814,34.139512,0.000000 -98.277325,34.122965,0.000000 -98.173164,34.115462,0.000000 -98.137183,34.138525,0.000000 -98.115186,34.149080,0.000000 -98.094441,34.134649,0.000000 -98.111005,34.069915,0.000000 -98.086522,34.005410,0.000000 -98.055874,33.989896,0.000000 -98.023806,33.987081,0.000000 -97.982995,34.001382,0.000000 -97.950539,33.971258,0.000000 -97.948067,33.959849,0.000000 -97.950997,33.932616,0.000000 -97.976694,33.902603,0.000000 -97.979595,33.469640,0.000000 -98.416024,33.470567,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Montague<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.979595,33.469640,0.000000 -97.976694,33.902603,0.000000 -97.955049,33.883579,0.000000 -97.870062,33.855214,0.000000 -97.852857,33.857171,0.000000 -97.790516,33.890557,0.000000 -97.756670,33.932197,0.000000 -97.704568,33.971645,0.000000 -97.671371,33.988711,0.000000 -97.600484,33.969536,0.000000 -97.592656,33.917985,0.000000 -97.575971,33.902631,0.000000 -97.554890,33.904005,0.000000 -97.477831,33.907808,0.000000 -97.478170,33.434705,0.000000 -97.919375,33.436716,0.000000 -97.979595,33.469640,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Red River<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.302029,33.383118,0.000000 -95.302188,33.886730,0.000000 -95.286662,33.887009,0.000000 -95.263850,33.897907,0.000000 -95.251223,33.905129,0.000000 -95.251521,33.936550,0.000000 -95.234271,33.964969,0.000000 -95.148544,33.943653,0.000000 -95.128196,33.940976,0.000000 -94.968927,33.866323,0.000000 -94.940109,33.840932,0.000000 -94.918456,33.816305,0.000000 -94.908766,33.803587,0.000000 -94.858097,33.749430,0.000000 -94.783371,33.733775,0.000000 -94.741865,33.701377,0.000000 -94.745319,33.337096,0.000000 -94.819426,33.381474,0.000000 -94.855956,33.386761,0.000000 -95.000072,33.397230,0.000000 -95.117057,33.392706,0.000000 -95.302029,33.383118,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Grayson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.376077,33.406120,0.000000 -96.830889,33.397272,0.000000 -96.831033,33.420946,0.000000 -96.938163,33.425219,0.000000 -96.936488,33.947950,0.000000 -96.929850,33.961873,0.000000 -96.898736,33.950128,0.000000 -96.883133,33.924692,0.000000 -96.879219,33.884105,0.000000 -96.861297,33.861781,0.000000 -96.749102,33.831841,0.000000 -96.711953,33.833973,0.000000 -96.693657,33.848007,0.000000 -96.677979,33.904425,0.000000 -96.666512,33.913644,0.000000 -96.584760,33.896246,0.000000 -96.614439,33.863001,0.000000 -96.601469,33.843059,0.000000 -96.487641,33.778232,0.000000 -96.419730,33.788429,0.000000 -96.371083,33.740498,0.000000 -96.376077,33.406120,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Cooke<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.938163,33.425219,0.000000 -97.380235,33.434331,0.000000 -97.478170,33.434705,0.000000 -97.477831,33.907808,0.000000 -97.463060,33.902483,0.000000 -97.457361,33.890532,0.000000 -97.453035,33.836315,0.000000 -97.410416,33.820812,0.000000 -97.363616,33.831127,0.000000 -97.342100,33.862018,0.000000 -97.314382,33.895941,0.000000 -97.211627,33.905790,0.000000 -97.188059,33.899306,0.000000 -97.164460,33.863250,0.000000 -97.168886,33.847896,0.000000 -97.195307,33.836262,0.000000 -97.208613,33.819752,0.000000 -97.189455,33.752874,0.000000 -97.152764,33.728774,0.000000 -97.115852,33.726039,0.000000 -97.090789,33.731776,0.000000 -97.083754,33.742518,0.000000 -97.087958,33.807675,0.000000 -97.082465,33.851204,0.000000 -97.071188,33.856830,0.000000 -97.025884,33.840664,0.000000 -97.006138,33.850616,0.000000 -96.987995,33.876525,0.000000 -96.968471,33.937421,0.000000 -96.936488,33.947950,0.000000 -96.938163,33.425219,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Lamar<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.302029,33.383118,0.000000 -95.348242,33.392742,0.000000 -95.400848,33.424922,0.000000 -95.614936,33.485669,0.000000 -95.721407,33.493324,0.000000 -95.767116,33.493648,0.000000 -95.851744,33.466683,0.000000 -95.846806,33.841138,0.000000 -95.764497,33.879106,0.000000 -95.760942,33.893541,0.000000 -95.747109,33.903498,0.000000 -95.633733,33.920208,0.000000 -95.546556,33.904138,0.000000 -95.451841,33.865859,0.000000 -95.330272,33.871025,0.000000 -95.302188,33.886730,0.000000 -95.302029,33.383118,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Fannin<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.376077,33.406120,0.000000 -96.371083,33.740498,0.000000 -96.347851,33.705632,0.000000 -96.316539,33.701905,0.000000 -96.187286,33.758684,0.000000 -96.169074,33.769457,0.000000 -96.141677,33.820420,0.000000 -96.014324,33.844307,0.000000 -95.977648,33.858051,0.000000 -95.959017,33.865139,0.000000 -95.943323,33.890072,0.000000 -95.933328,33.890629,0.000000 -95.846806,33.841138,0.000000 -95.851744,33.466683,0.000000 -95.853048,33.410726,0.000000 -96.286680,33.353184,0.000000 -96.375245,33.340535,0.000000 -96.376077,33.406120,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[King<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.519322,33.390217,0.000000 -100.526735,33.840436,0.000000 -100.060088,33.841167,0.000000 -99.999829,33.832546,0.000000 -99.988282,33.395491,0.000000 -100.519322,33.390217,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Dickens<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.519322,33.390217,0.000000 -100.765661,33.396123,0.000000 -101.045457,33.392096,0.000000 -101.046427,33.836446,0.000000 -100.526735,33.840436,0.000000 -100.519322,33.390217,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Crosby<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.562771,33.390319,0.000000 -101.562827,33.835168,0.000000 -101.046427,33.836446,0.000000 -101.045457,33.392096,0.000000 -101.562771,33.390319,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Lubbock<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.073545,33.389512,0.000000 -102.081446,33.833361,0.000000 -101.562827,33.835168,0.000000 -101.562771,33.390319,0.000000 -102.073545,33.389512,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Archer<br>Beer, Wine, Liquor to go, no bars.<br>Holiday is dry...ironically.<br>Megargel, Scotland and Windthorst are wet.]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.416933,33.398242,0.000000 -98.953020,33.398460,0.000000 -98.953279,33.833267,0.000000 -98.418611,33.834011,0.000000 -98.416024,33.470567,0.000000 -98.416933,33.398242,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hockley<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.073545,33.389512,0.000000 -102.588038,33.383173,0.000000 -102.606165,33.830458,0.000000 -102.081446,33.833361,0.000000 -102.073545,33.389512,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Knox<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.988282,33.395491,0.000000 -99.999829,33.832546,0.000000 -99.838950,33.833341,0.000000 -99.693583,33.824867,0.000000 -99.650498,33.817925,0.000000 -99.579840,33.801320,0.000000 -99.520885,33.771990,0.000000 -99.469232,33.731750,0.000000 -99.468179,33.399268,0.000000 -99.988282,33.395491,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Baylor<br>Justice of the Peace District 1 is Dry, I couldn't find the area, but the seat is in Seymour, which allows sales of beer to go.]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.953020,33.398460,0.000000 -99.468179,33.399268,0.000000 -99.469232,33.731750,0.000000 -99.471347,33.827703,0.000000 -98.953279,33.833267,0.000000 -98.953020,33.398460,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Cochran<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.592448,33.383128,0.000000 -103.043101,33.377831,0.000000 -103.038736,33.565843,0.000000 -103.033259,33.826182,0.000000 -102.606165,33.830458,0.000000 -102.588038,33.383173,0.000000 -102.592448,33.383128,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bowie<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.745319,33.337096,0.000000 -94.741865,33.701377,0.000000 -94.691197,33.690400,0.000000 -94.601153,33.665721,0.000000 -94.562402,33.642944,0.000000 -94.562356,33.635651,0.000000 -94.525261,33.621137,0.000000 -94.500816,33.623163,0.000000 -94.476691,33.632082,0.000000 -94.428670,33.597259,0.000000 -94.395465,33.560421,0.000000 -94.370959,33.547802,0.000000 -94.328951,33.573255,0.000000 -94.299020,33.579973,0.000000 -94.237433,33.592543,0.000000 -94.159710,33.593894,0.000000 -94.086846,33.584076,0.000000 -94.061623,33.577335,0.000000 -94.036116,33.556035,0.000000 -94.036692,33.270453,0.000000 -94.068630,33.298151,0.000000 -94.095685,33.304105,0.000000 -94.161292,33.309746,0.000000 -94.215249,33.294251,0.000000 -94.229188,33.276719,0.000000 -94.230103,33.256707,0.000000 -94.257127,33.248040,0.000000 -94.374799,33.255248,0.000000 -94.411437,33.265699,0.000000 -94.427109,33.285154,0.000000 -94.477793,33.291706,0.000000 -94.568783,33.264156,0.000000 -94.584576,33.250316,0.000000 -94.617605,33.249595,0.000000 -94.641036,33.260722,0.000000 -94.660987,33.282617,0.000000 -94.695718,33.322052,0.000000 -94.724085,33.317440,0.000000 -94.745319,33.337096,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Delta<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.855589,33.226831,0.000000 -95.853048,33.410726,0.000000 -95.851744,33.466683,0.000000 -95.767116,33.493648,0.000000 -95.721407,33.493324,0.000000 -95.614936,33.485669,0.000000 -95.400848,33.424922,0.000000 -95.348242,33.392742,0.000000 -95.302029,33.383118,0.000000 -95.302037,33.382660,0.000000 -95.313824,33.369935,0.000000 -95.346830,33.360802,0.000000 -95.411667,33.371613,0.000000 -95.461076,33.354447,0.000000 -95.509921,33.346806,0.000000 -95.594114,33.355991,0.000000 -95.653686,33.313175,0.000000 -95.675582,33.304894,0.000000 -95.710641,33.307125,0.000000 -95.752069,33.293183,0.000000 -95.792400,33.248212,0.000000 -95.855589,33.226831,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jack<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.419840,33.007333,0.000000 -98.416933,33.398242,0.000000 -98.416024,33.470567,0.000000 -97.979595,33.469640,0.000000 -97.919375,33.436716,0.000000 -97.917123,33.002459,0.000000 -98.052260,33.003023,0.000000 -98.419840,33.007333,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Wise<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.917123,33.002459,0.000000 -97.919375,33.436716,0.000000 -97.478170,33.434705,0.000000 -97.380235,33.434331,0.000000 -97.389823,32.996634,0.000000 -97.540233,32.998606,0.000000 -97.917123,33.002459,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Denton<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.838811,32.994999,0.000000 -97.028332,32.990525,0.000000 -97.389823,32.996634,0.000000 -97.380235,33.434331,0.000000 -96.938163,33.425219,0.000000 -96.831033,33.420946,0.000000 -96.830889,33.397272,0.000000 -96.838811,32.994999,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hunt<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.864897,32.986778,0.000000 -95.937188,32.986187,0.000000 -95.972467,32.895401,0.000000 -95.967599,32.872899,0.000000 -95.940842,32.850988,0.000000 -96.079313,32.846724,0.000000 -96.293814,32.851630,0.000000 -96.290266,32.985769,0.000000 -96.286680,33.353184,0.000000 -95.853048,33.410726,0.000000 -95.855589,33.226831,0.000000 -95.864897,32.986778,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Collin<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.838811,32.994999,0.000000 -96.830889,33.397272,0.000000 -96.376077,33.406120,0.000000 -96.375245,33.340535,0.000000 -96.286680,33.353184,0.000000 -96.290266,32.985769,0.000000 -96.517792,32.989295,0.000000 -96.838811,32.994999,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Titus<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.813983,32.988377,0.000000 -94.879697,33.022341,0.000000 -94.924178,33.063531,0.000000 -94.951186,33.078400,0.000000 -95.038789,33.080417,0.000000 -95.128109,33.036861,0.000000 -95.117057,33.392706,0.000000 -95.000072,33.397230,0.000000 -94.855956,33.386761,0.000000 -94.819426,33.381474,0.000000 -94.813983,32.988377,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Haskell<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.988894,32.959079,0.000000 -99.988282,33.395491,0.000000 -99.468179,33.399268,0.000000 -99.465662,32.961017,0.000000 -99.605635,32.959766,0.000000 -99.988894,32.959079,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Throckmorton<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.096123,32.955049,0.000000 -99.465662,32.961017,0.000000 -99.468179,33.399268,0.000000 -98.953020,33.398460,0.000000 -98.952862,32.956100,0.000000 -99.096123,32.955049,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Young<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.566932,32.951913,0.000000 -98.952862,32.956100,0.000000 -98.953020,33.398460,0.000000 -98.416933,33.398242,0.000000 -98.419840,33.007333,0.000000 -98.419833,32.953158,0.000000 -98.566932,32.951913,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kent<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.041861,32.955233,0.000000 -101.045457,33.392096,0.000000 -100.765661,33.396123,0.000000 -100.519322,33.390217,0.000000 -100.523041,32.957423,0.000000 -100.659168,32.957175,0.000000 -101.041861,32.955233,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Stonewall<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.523041,32.957423,0.000000 -100.519322,33.390217,0.000000 -99.988282,33.395491,0.000000 -99.988894,32.959079,0.000000 -100.149085,32.958524,0.000000 -100.523041,32.957423,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Franklin<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.148678,33.014179,0.000000 -95.168538,32.967165,0.000000 -95.309732,32.968044,0.000000 -95.302037,33.382660,0.000000 -95.302029,33.383118,0.000000 -95.117057,33.392706,0.000000 -95.128109,33.036861,0.000000 -95.148678,33.014179,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Garza<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.173586,32.952589,0.000000 -101.560760,32.956601,0.000000 -101.562771,33.390319,0.000000 -101.045457,33.392096,0.000000 -101.041861,32.955233,0.000000 -101.173586,32.952589,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Lynn<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.686490,32.955269,0.000000 -102.071484,32.956210,0.000000 -102.073545,33.389512,0.000000 -101.562771,33.390319,0.000000 -101.560760,32.956601,0.000000 -101.686490,32.955269,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Terry<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.195567,32.954348,0.000000 -102.588698,32.952030,0.000000 -102.592448,33.383128,0.000000 -102.588038,33.383173,0.000000 -102.073545,33.389512,0.000000 -102.071484,32.956210,0.000000 -102.195567,32.954348,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Yoakum<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.588698,32.952030,0.000000 -103.049331,32.953639,0.000000 -103.043101,33.377831,0.000000 -102.592448,33.383128,0.000000 -102.588698,32.952030,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hopkins<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.309732,32.968044,0.000000 -95.661110,32.969185,0.000000 -95.663536,32.984772,0.000000 -95.864897,32.986778,0.000000 -95.855589,33.226831,0.000000 -95.792400,33.248212,0.000000 -95.752069,33.293183,0.000000 -95.710641,33.307125,0.000000 -95.675582,33.304894,0.000000 -95.653686,33.313175,0.000000 -95.594114,33.355991,0.000000 -95.509921,33.346806,0.000000 -95.461076,33.354447,0.000000 -95.411667,33.371613,0.000000 -95.346830,33.360802,0.000000 -95.313824,33.369935,0.000000 -95.302037,33.382660,0.000000 -95.309732,32.968044,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Morris<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.655028,32.884521,0.000000 -94.703179,32.884490,0.000000 -94.731416,32.912244,0.000000 -94.813983,32.988377,0.000000 -94.819426,33.381474,0.000000 -94.745319,33.337096,0.000000 -94.724085,33.317440,0.000000 -94.695718,33.322052,0.000000 -94.660987,33.282617,0.000000 -94.655028,32.884521,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Cass<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.038932,33.023422,0.000000 -94.041785,32.882485,0.000000 -94.655028,32.884521,0.000000 -94.660987,33.282617,0.000000 -94.641036,33.260722,0.000000 -94.617605,33.249595,0.000000 -94.584576,33.250316,0.000000 -94.568783,33.264156,0.000000 -94.477793,33.291706,0.000000 -94.427109,33.285154,0.000000 -94.411437,33.265699,0.000000 -94.374799,33.255248,0.000000 -94.257127,33.248040,0.000000 -94.230103,33.256707,0.000000 -94.229188,33.276719,0.000000 -94.215249,33.294251,0.000000 -94.161292,33.309746,0.000000 -94.095685,33.304105,0.000000 -94.068630,33.298151,0.000000 -94.036692,33.270453,0.000000 -94.038932,33.023422,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Camp<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.731416,32.912244,0.000000 -95.149328,32.914383,0.000000 -95.148678,33.014179,0.000000 -95.128109,33.036861,0.000000 -95.038789,33.080417,0.000000 -94.951186,33.078400,0.000000 -94.924178,33.063531,0.000000 -94.879697,33.022341,0.000000 -94.813983,32.988377,0.000000 -94.731416,32.912244,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Wood<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.591217,32.691205,0.000000 -95.627763,32.720881,0.000000 -95.661110,32.969185,0.000000 -95.309732,32.968044,0.000000 -95.168538,32.967165,0.000000 -95.148678,33.014179,0.000000 -95.149328,32.914383,0.000000 -95.154505,32.570812,0.000000 -95.192074,32.544133,0.000000 -95.215344,32.564728,0.000000 -95.324310,32.601193,0.000000 -95.390902,32.599358,0.000000 -95.506446,32.618124,0.000000 -95.524901,32.648491,0.000000 -95.591217,32.691205,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Palo Pinto<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.575239,32.520862,0.000000 -98.566932,32.951913,0.000000 -98.419833,32.953158,0.000000 -98.419840,33.007333,0.000000 -98.052260,33.003023,0.000000 -98.060431,32.558339,0.000000 -98.063016,32.519197,0.000000 -98.469729,32.521767,0.000000 -98.575239,32.520862,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Parker<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.060431,32.558339,0.000000 -98.052260,33.003023,0.000000 -97.917123,33.002459,0.000000 -97.540233,32.998606,0.000000 -97.546191,32.559775,0.000000 -97.617605,32.555373,0.000000 -98.060431,32.558339,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Tarrant<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.031473,32.557044,0.000000 -97.089718,32.556728,0.000000 -97.546191,32.559775,0.000000 -97.540233,32.998606,0.000000 -97.389823,32.996634,0.000000 -97.028332,32.990525,0.000000 -97.031473,32.557044,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Dallas<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.031473,32.557044,0.000000 -97.028332,32.990525,0.000000 -96.838811,32.994999,0.000000 -96.517792,32.989295,0.000000 -96.519645,32.822758,0.000000 -96.518371,32.553393,0.000000 -96.535828,32.552558,0.000000 -97.031473,32.557044,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Rockwall<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.293814,32.851630,0.000000 -96.294501,32.825222,0.000000 -96.519645,32.822758,0.000000 -96.517792,32.989295,0.000000 -96.290266,32.985769,0.000000 -96.293814,32.851630,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Rains<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.627763,32.720881,0.000000 -95.664820,32.721842,0.000000 -95.713962,32.751515,0.000000 -95.781194,32.780464,0.000000 -95.857711,32.779174,0.000000 -95.912979,32.808520,0.000000 -95.940842,32.850988,0.000000 -95.967599,32.872899,0.000000 -95.972467,32.895401,0.000000 -95.937188,32.986187,0.000000 -95.864897,32.986778,0.000000 -95.663536,32.984772,0.000000 -95.661110,32.969185,0.000000 -95.627763,32.720881,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Shackelford<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.098853,32.523041,0.000000 -99.114081,32.522705,0.000000 -99.616521,32.518682,0.000000 -99.605635,32.959766,0.000000 -99.465662,32.961017,0.000000 -99.096123,32.955049,0.000000 -99.098853,32.523041,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jones<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.626852,32.518717,0.000000 -99.629003,32.524191,0.000000 -100.151524,32.520592,0.000000 -100.149085,32.958524,0.000000 -99.988894,32.959079,0.000000 -99.605635,32.959766,0.000000 -99.616521,32.518682,0.000000 -99.626852,32.518717,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Fisher<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.151524,32.520592,0.000000 -100.663719,32.521939,0.000000 -100.659168,32.957175,0.000000 -100.523041,32.957423,0.000000 -100.149085,32.958524,0.000000 -100.151524,32.520592,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Scurry<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.663719,32.521939,0.000000 -101.178669,32.523222,0.000000 -101.173586,32.952589,0.000000 -101.041861,32.955233,0.000000 -100.659168,32.957175,0.000000 -100.663719,32.521939,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Borden<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.178669,32.523222,0.000000 -101.690370,32.522675,0.000000 -101.686490,32.955269,0.000000 -101.560760,32.956601,0.000000 -101.173586,32.952589,0.000000 -101.178669,32.523222,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Dawson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.690370,32.522675,0.000000 -102.205934,32.522468,0.000000 -102.195567,32.954348,0.000000 -102.071484,32.956210,0.000000 -101.686490,32.955269,0.000000 -101.690370,32.522675,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Stephens<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.575239,32.520862,0.000000 -99.098853,32.523041,0.000000 -99.096123,32.955049,0.000000 -98.952862,32.956100,0.000000 -98.566932,32.951913,0.000000 -98.575239,32.520862,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Gaines<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.060018,32.515545,0.000000 -103.049331,32.953639,0.000000 -102.588698,32.952030,0.000000 -102.195567,32.954348,0.000000 -102.205934,32.522468,0.000000 -103.060018,32.515545,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Upshur<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.154505,32.570812,0.000000 -95.149328,32.914383,0.000000 -94.731416,32.912244,0.000000 -94.703179,32.884490,0.000000 -94.704744,32.795641,0.000000 -94.702456,32.658253,0.000000 -94.742336,32.665581,0.000000 -94.767926,32.658096,0.000000 -94.828598,32.589262,0.000000 -94.991094,32.535888,0.000000 -95.154505,32.570812,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Marion<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.041785,32.882485,0.000000 -94.040383,32.694958,0.000000 -94.082376,32.691048,0.000000 -94.179051,32.697871,0.000000 -94.227789,32.710848,0.000000 -94.296692,32.732121,0.000000 -94.388425,32.693807,0.000000 -94.505861,32.692704,0.000000 -94.704744,32.795641,0.000000 -94.703179,32.884490,0.000000 -94.655028,32.884521,0.000000 -94.041785,32.882485,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kaufman<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.448970,32.364321,0.000000 -96.440334,32.411927,0.000000 -96.506652,32.535255,0.000000 -96.535828,32.552558,0.000000 -96.518371,32.553393,0.000000 -96.519645,32.822758,0.000000 -96.294501,32.825222,0.000000 -96.293814,32.851630,0.000000 -96.079313,32.846724,0.000000 -96.072804,32.360552,0.000000 -96.448970,32.364321,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Van Zandt<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.072804,32.360552,0.000000 -96.079313,32.846724,0.000000 -95.940842,32.850988,0.000000 -95.912979,32.808520,0.000000 -95.857711,32.779174,0.000000 -95.781194,32.780464,0.000000 -95.713962,32.751515,0.000000 -95.664820,32.721842,0.000000 -95.627763,32.720881,0.000000 -95.591217,32.691205,0.000000 -95.588602,32.483181,0.000000 -95.556329,32.447260,0.000000 -95.487441,32.386605,0.000000 -95.448850,32.358149,0.000000 -96.072804,32.360552,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Harrison<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.040383,32.694958,0.000000 -94.035418,32.389381,0.000000 -94.349509,32.328167,0.000000 -94.436883,32.360804,0.000000 -94.484065,32.385934,0.000000 -94.572890,32.398903,0.000000 -94.604400,32.391285,0.000000 -94.651132,32.399891,0.000000 -94.700329,32.428671,0.000000 -94.702456,32.658253,0.000000 -94.704744,32.795641,0.000000 -94.505861,32.692704,0.000000 -94.388425,32.693807,0.000000 -94.296692,32.732121,0.000000 -94.227789,32.710848,0.000000 -94.179051,32.697871,0.000000 -94.082376,32.691048,0.000000 -94.040383,32.694958,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Smith<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.989156,32.142925,0.000000 -95.463445,32.139729,0.000000 -95.476880,32.151222,0.000000 -95.480925,32.233062,0.000000 -95.450917,32.283868,0.000000 -95.448850,32.358149,0.000000 -95.487441,32.386605,0.000000 -95.556329,32.447260,0.000000 -95.588602,32.483181,0.000000 -95.591217,32.691205,0.000000 -95.524901,32.648491,0.000000 -95.506446,32.618124,0.000000 -95.390902,32.599358,0.000000 -95.324310,32.601193,0.000000 -95.215344,32.564728,0.000000 -95.192074,32.544133,0.000000 -95.154505,32.570812,0.000000 -94.991094,32.535888,0.000000 -94.990659,32.369806,0.000000 -94.989156,32.142925,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Gregg<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.990659,32.369806,0.000000 -94.991094,32.535888,0.000000 -94.828598,32.589262,0.000000 -94.767926,32.658096,0.000000 -94.742336,32.665581,0.000000 -94.702456,32.658253,0.000000 -94.700329,32.428671,0.000000 -94.651132,32.399891,0.000000 -94.604400,32.391285,0.000000 -94.572890,32.398903,0.000000 -94.582862,32.364240,0.000000 -94.598915,32.359987,0.000000 -94.672107,32.370762,0.000000 -94.990659,32.369806,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Johnson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.613804,32.210263,0.000000 -97.614224,32.323328,0.000000 -97.617605,32.555373,0.000000 -97.546191,32.559775,0.000000 -97.089718,32.556728,0.000000 -97.085305,32.275827,0.000000 -97.463843,32.189670,0.000000 -97.465170,32.181949,0.000000 -97.613804,32.210263,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hood<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.942969,32.239987,0.000000 -98.063016,32.519197,0.000000 -98.060431,32.558339,0.000000 -97.617605,32.555373,0.000000 -97.614224,32.323328,0.000000 -97.783487,32.323581,0.000000 -97.942969,32.239987,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Ellis<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.085305,32.275827,0.000000 -97.089718,32.556728,0.000000 -97.031473,32.557044,0.000000 -96.535828,32.552558,0.000000 -96.506652,32.535255,0.000000 -96.440334,32.411927,0.000000 -96.448970,32.364321,0.000000 -96.397309,32.329856,0.000000 -96.898522,32.086155,0.000000 -96.939295,32.066746,0.000000 -97.085305,32.275827,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Taylor<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.628323,32.084436,0.000000 -99.710519,32.084677,0.000000 -100.157187,32.084484,0.000000 -100.151524,32.520592,0.000000 -99.629003,32.524191,0.000000 -99.626852,32.518717,0.000000 -99.628323,32.084436,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Howard<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.266952,32.091142,0.000000 -101.694764,32.090537,0.000000 -101.690370,32.522675,0.000000 -101.178669,32.523222,0.000000 -101.172864,32.092619,0.000000 -101.266952,32.091142,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Mitchell<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.669855,32.088069,0.000000 -100.815298,32.085286,0.000000 -101.172864,32.092619,0.000000 -101.178669,32.523222,0.000000 -100.663719,32.521939,0.000000 -100.669855,32.088069,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Eastland<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.121640,32.083450,0.000000 -99.114081,32.522705,0.000000 -99.098853,32.523041,0.000000 -98.575239,32.520862,0.000000 -98.469729,32.521767,0.000000 -98.469032,32.303030,0.000000 -98.552240,32.260375,0.000000 -98.731382,32.174100,0.000000 -98.766798,32.159448,0.000000 -98.924271,32.082196,0.000000 -99.121640,32.083450,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Callahan<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.194098,32.083990,0.000000 -99.628323,32.084436,0.000000 -99.626852,32.518717,0.000000 -99.616521,32.518682,0.000000 -99.114081,32.522705,0.000000 -99.121640,32.083450,0.000000 -99.194098,32.083990,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Martin<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.774768,32.088392,0.000000 -102.211778,32.087044,0.000000 -102.205934,32.522468,0.000000 -101.690370,32.522675,0.000000 -101.694764,32.090537,0.000000 -101.774768,32.088392,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Andrews<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.060018,32.515545,0.000000 -102.205934,32.522468,0.000000 -102.211778,32.087044,0.000000 -102.291232,32.085003,0.000000 -102.794910,32.086402,0.000000 -103.055641,32.085117,0.000000 -103.060018,32.515545,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Nolan<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.157187,32.084484,0.000000 -100.235053,32.084345,0.000000 -100.669855,32.088069,0.000000 -100.663719,32.521939,0.000000 -100.151524,32.520592,0.000000 -100.157187,32.084484,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Erath<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.005317,32.021799,0.000000 -98.204357,31.917976,0.000000 -98.252050,31.983488,0.000000 -98.326308,31.945397,0.000000 -98.552240,32.260375,0.000000 -98.469032,32.303030,0.000000 -98.469729,32.521767,0.000000 -98.063016,32.519197,0.000000 -97.942969,32.239987,0.000000 -97.865001,32.095380,0.000000 -98.005317,32.021799,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Rusk<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.987370,31.851551,0.000000 -94.989193,31.934743,0.000000 -94.979176,31.956671,0.000000 -94.986035,31.976612,0.000000 -94.989156,32.142925,0.000000 -94.990659,32.369806,0.000000 -94.672107,32.370762,0.000000 -94.598915,32.359987,0.000000 -94.582862,32.364240,0.000000 -94.572890,32.398903,0.000000 -94.484065,32.385934,0.000000 -94.507442,32.314956,0.000000 -94.525807,32.284810,0.000000 -94.575217,32.205028,0.000000 -94.600434,32.064697,0.000000 -94.595338,31.971752,0.000000 -94.508261,31.971643,0.000000 -94.507888,31.921839,0.000000 -94.473547,31.886810,0.000000 -94.457213,31.849459,0.000000 -94.987370,31.851551,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Panola<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.508261,31.971643,0.000000 -94.595338,31.971752,0.000000 -94.600434,32.064697,0.000000 -94.575217,32.205028,0.000000 -94.525807,32.284810,0.000000 -94.507442,32.314956,0.000000 -94.484065,32.385934,0.000000 -94.436883,32.360804,0.000000 -94.349509,32.328167,0.000000 -94.035418,32.389381,0.000000 -94.034955,32.199609,0.000000 -94.035256,31.994679,0.000000 -94.004585,31.978109,0.000000 -94.508261,31.971643,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Henderson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.430896,32.083653,0.000000 -96.049691,32.015788,0.000000 -96.063410,32.033609,0.000000 -96.145903,32.162837,0.000000 -96.203797,32.221363,0.000000 -96.296430,32.304711,0.000000 -96.385239,32.332664,0.000000 -96.397309,32.329856,0.000000 -96.448970,32.364321,0.000000 -96.072804,32.360552,0.000000 -95.448850,32.358149,0.000000 -95.450917,32.283868,0.000000 -95.480925,32.233062,0.000000 -95.476880,32.151222,0.000000 -95.463445,32.139729,0.000000 -95.430896,32.083653,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Navarro<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.502214,31.806249,0.000000 -96.722001,31.824748,0.000000 -96.898522,32.086155,0.000000 -96.397309,32.329856,0.000000 -96.385239,32.332664,0.000000 -96.296430,32.304711,0.000000 -96.203797,32.221363,0.000000 -96.145903,32.162837,0.000000 -96.063410,32.033609,0.000000 -96.049691,32.015788,0.000000 -96.502214,31.806249,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Somervell<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.865001,32.095380,0.000000 -97.942969,32.239987,0.000000 -97.783487,32.323581,0.000000 -97.614224,32.323328,0.000000 -97.613804,32.210263,0.000000 -97.627209,32.215104,0.000000 -97.865001,32.095380,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hill<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.276616,31.754241,0.000000 -97.312254,31.767878,0.000000 -97.426029,31.933875,0.000000 -97.486616,32.033768,0.000000 -97.494658,32.053100,0.000000 -97.478110,32.097879,0.000000 -97.457174,32.160794,0.000000 -97.465170,32.181949,0.000000 -97.463843,32.189670,0.000000 -97.085305,32.275827,0.000000 -96.939295,32.066746,0.000000 -96.898522,32.086155,0.000000 -96.722001,31.824748,0.000000 -96.934142,31.720758,0.000000 -97.038121,31.866383,0.000000 -97.276616,31.754241,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Comanche<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.461287,31.691423,0.000000 -98.495605,31.727018,0.000000 -98.671489,31.704606,0.000000 -98.924271,32.082196,0.000000 -98.766798,32.159448,0.000000 -98.731382,32.174100,0.000000 -98.552240,32.260375,0.000000 -98.326308,31.945397,0.000000 -98.252050,31.983488,0.000000 -98.204357,31.917976,0.000000 -98.158540,31.844711,0.000000 -98.461287,31.691423,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bosque<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.759785,31.679142,0.000000 -98.005317,32.021799,0.000000 -97.865001,32.095380,0.000000 -97.627209,32.215104,0.000000 -97.613804,32.210263,0.000000 -97.465170,32.181949,0.000000 -97.457174,32.160794,0.000000 -97.478110,32.097879,0.000000 -97.494658,32.053100,0.000000 -97.486616,32.033768,0.000000 -97.426029,31.933875,0.000000 -97.312254,31.767878,0.000000 -97.276616,31.754241,0.000000 -97.602508,31.592824,0.000000 -97.692164,31.710170,0.000000 -97.759785,31.679142,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Cherokee<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.873869,31.531641,0.000000 -94.999534,31.439080,0.000000 -95.042511,31.447852,0.000000 -95.102945,31.478855,0.000000 -95.107188,31.488638,0.000000 -95.098757,31.512487,0.000000 -95.143613,31.571107,0.000000 -95.177198,31.585352,0.000000 -95.217589,31.575665,0.000000 -95.244827,31.579110,0.000000 -95.264603,31.590458,0.000000 -95.267266,31.600164,0.000000 -95.265389,31.622926,0.000000 -95.287325,31.680494,0.000000 -95.337620,31.732842,0.000000 -95.440698,31.844848,0.000000 -95.449763,31.951592,0.000000 -95.450092,31.984014,0.000000 -95.426234,32.013630,0.000000 -95.425006,32.044619,0.000000 -95.430896,32.083653,0.000000 -95.463445,32.139729,0.000000 -94.989156,32.142925,0.000000 -94.986035,31.976612,0.000000 -94.979176,31.956671,0.000000 -94.989193,31.934743,0.000000 -94.987370,31.851551,0.000000 -94.979480,31.787713,0.000000 -94.945283,31.653698,0.000000 -94.916046,31.579267,0.000000 -94.891662,31.547994,0.000000 -94.873869,31.531641,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Sterling<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.269755,31.653725,0.000000 -101.266952,32.091142,0.000000 -101.172864,32.092619,0.000000 -100.815298,32.085286,0.000000 -100.825953,31.702592,0.000000 -100.861469,31.701866,0.000000 -100.865434,31.569978,0.000000 -101.271609,31.566550,0.000000 -101.269755,31.653725,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Glasscock<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.269755,31.653725,0.000000 -101.772140,31.651921,0.000000 -101.774768,32.088392,0.000000 -101.694764,32.090537,0.000000 -101.266952,32.091142,0.000000 -101.269755,31.653725,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Midland<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.772140,31.651921,0.000000 -102.290259,31.653476,0.000000 -102.291232,32.085003,0.000000 -102.211778,32.087044,0.000000 -101.774768,32.088392,0.000000 -101.772140,31.651921,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Coke<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.232308,31.697643,0.000000 -100.825953,31.702592,0.000000 -100.815298,32.085286,0.000000 -100.669855,32.088069,0.000000 -100.235053,32.084345,0.000000 -100.232308,31.697643,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Winkler<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.800325,31.653295,0.000000 -103.344565,31.657538,0.000000 -103.332549,32.004281,0.000000 -103.058414,32.002023,0.000000 -103.055641,32.085117,0.000000 -102.794910,32.086402,0.000000 -102.800325,31.653295,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Ector<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.800325,31.653295,0.000000 -102.794910,32.086402,0.000000 -102.291232,32.085003,0.000000 -102.290259,31.653476,0.000000 -102.303779,31.655937,0.000000 -102.766930,31.652299,0.000000 -102.800325,31.653295,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Runnels<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.113750,31.585589,0.000000 -100.231986,31.587235,0.000000 -100.232308,31.697643,0.000000 -100.235053,32.084345,0.000000 -100.157187,32.084484,0.000000 -99.710519,32.084677,0.000000 -99.716095,31.577984,0.000000 -99.723084,31.577543,0.000000 -100.113750,31.585589,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Coleman<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.205018,31.472383,0.000000 -99.230111,31.485795,0.000000 -99.247331,31.481347,0.000000 -99.278727,31.451889,0.000000 -99.471490,31.428778,0.000000 -99.507968,31.428488,0.000000 -99.518123,31.434921,0.000000 -99.538243,31.481104,0.000000 -99.573607,31.492197,0.000000 -99.600449,31.491838,0.000000 -99.613938,31.476828,0.000000 -99.628991,31.471857,0.000000 -99.672886,31.499833,0.000000 -99.723084,31.577543,0.000000 -99.716095,31.577984,0.000000 -99.710519,32.084677,0.000000 -99.628323,32.084436,0.000000 -99.194098,32.083990,0.000000 -99.205018,31.472383,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Brown<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.205018,31.472383,0.000000 -99.194098,32.083990,0.000000 -99.121640,32.083450,0.000000 -98.924271,32.082196,0.000000 -98.671489,31.704606,0.000000 -98.761578,31.691494,0.000000 -98.783780,31.611435,0.000000 -98.986402,31.487503,0.000000 -99.095763,31.451926,0.000000 -99.205018,31.472383,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Anderson<br>Beer, Wine, Liquor to go, no bars, but you can get a drink in a restaurant.<br>Elkhart and Frankston are dry.]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.734456,31.516635,0.000000 -95.758985,31.540865,0.000000 -95.752241,31.556595,0.000000 -95.719487,31.565851,0.000000 -95.711644,31.602092,0.000000 -95.712728,31.632277,0.000000 -95.727362,31.650648,0.000000 -95.741774,31.653024,0.000000 -95.756568,31.648105,0.000000 -95.758047,31.609797,0.000000 -95.770568,31.607075,0.000000 -95.789535,31.625145,0.000000 -95.791481,31.659926,0.000000 -95.866015,31.697408,0.000000 -95.975943,31.793634,0.000000 -96.052133,31.955179,0.000000 -96.053819,31.964824,0.000000 -96.053842,31.986273,0.000000 -96.049691,32.015788,0.000000 -95.430896,32.083653,0.000000 -95.425006,32.044619,0.000000 -95.426234,32.013630,0.000000 -95.450092,31.984014,0.000000 -95.449763,31.951592,0.000000 -95.440698,31.844848,0.000000 -95.337620,31.732842,0.000000 -95.287325,31.680494,0.000000 -95.265389,31.622926,0.000000 -95.267266,31.600164,0.000000 -95.656085,31.544678,0.000000 -95.656871,31.530091,0.000000 -95.734456,31.516635,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hamilton<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.179541,31.464944,0.000000 -98.259850,31.424227,0.000000 -98.461287,31.691423,0.000000 -98.158540,31.844711,0.000000 -98.204357,31.917976,0.000000 -98.005317,32.021799,0.000000 -97.759785,31.679142,0.000000 -98.179541,31.464944,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Freestone<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.234453,31.420410,0.000000 -96.502214,31.806249,0.000000 -96.049691,32.015788,0.000000 -96.053842,31.986273,0.000000 -96.053819,31.964824,0.000000 -96.052133,31.955179,0.000000 -95.975943,31.793634,0.000000 -95.866015,31.697408,0.000000 -95.791481,31.659926,0.000000 -95.789535,31.625145,0.000000 -96.234453,31.420410,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Culberson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-104.915386,30.681778,0.000000 -104.917066,30.815795,0.000000 -104.902104,30.815088,0.000000 -104.901960,30.981170,0.000000 -104.916006,30.983751,0.000000 -104.922305,32.004382,0.000000 -104.851068,32.003265,0.000000 -104.019297,32.007404,0.000000 -104.103681,31.109588,0.000000 -104.915386,30.681778,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Reeves<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-104.103681,31.109588,0.000000 -104.019297,32.007404,0.000000 -103.981377,32.006015,0.000000 -103.945280,31.986749,0.000000 -103.825789,31.895495,0.000000 -103.823972,31.868628,0.000000 -103.794466,31.781076,0.000000 -103.777024,31.765688,0.000000 -103.749038,31.743346,0.000000 -103.688626,31.754021,0.000000 -103.631022,31.695642,0.000000 -103.602898,31.656830,0.000000 -103.551489,31.650711,0.000000 -103.537359,31.647507,0.000000 -103.506527,31.631583,0.000000 -103.499965,31.604394,0.000000 -103.485429,31.492059,0.000000 -103.483987,31.458765,0.000000 -103.463463,31.443419,0.000000 -103.447090,31.437076,0.000000 -103.377973,31.427312,0.000000 -103.249666,31.399611,0.000000 -103.189750,31.376676,0.000000 -103.076259,31.367990,0.000000 -103.017655,31.378268,0.000000 -103.586110,30.770901,0.000000 -104.103681,31.109588,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Loving<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.344565,31.657538,0.000000 -103.602898,31.656830,0.000000 -103.631022,31.695642,0.000000 -103.688626,31.754021,0.000000 -103.749038,31.743346,0.000000 -103.777024,31.765688,0.000000 -103.794466,31.781076,0.000000 -103.823972,31.868628,0.000000 -103.825789,31.895495,0.000000 -103.945280,31.986749,0.000000 -103.981377,32.006015,0.000000 -103.729444,32.006229,0.000000 -103.332549,32.004281,0.000000 -103.344565,31.657538,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hudspeth<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-104.987426,30.641467,0.000000 -104.998039,30.684475,0.000000 -105.061060,30.688011,0.000000 -105.214844,30.812224,0.000000 -105.258692,30.797791,0.000000 -105.314289,30.816645,0.000000 -105.390821,30.853217,0.000000 -105.409575,30.902645,0.000000 -105.554897,30.998419,0.000000 -105.603734,31.086559,0.000000 -105.770250,31.170909,0.000000 -105.998887,31.393940,0.000000 -105.963981,31.408619,0.000000 -105.962463,31.475468,0.000000 -106.000871,31.478439,0.000000 -106.003240,32.001658,0.000000 -104.922305,32.004382,0.000000 -104.916006,30.983751,0.000000 -104.901960,30.981170,0.000000 -104.902104,30.815088,0.000000 -104.917066,30.815795,0.000000 -104.915386,30.681778,0.000000 -104.987426,30.641467,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[El Paso<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-105.998887,31.393940,0.000000 -106.213286,31.478246,0.000000 -106.383581,31.733873,0.000000 -106.539515,31.786305,0.000000 -106.614987,31.817834,0.000000 -106.644079,31.895205,0.000000 -106.650062,31.980330,0.000000 -106.623626,32.001089,0.000000 -106.378387,32.000747,0.000000 -106.003240,32.001658,0.000000 -106.000871,31.478439,0.000000 -105.962463,31.475468,0.000000 -105.963981,31.408619,0.000000 -105.998887,31.393940,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Shelby<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-93.832805,31.590360,0.000000 -93.915640,31.611120,0.000000 -93.987710,31.569299,0.000000 -94.096524,31.627215,0.000000 -94.395559,31.657222,0.000000 -94.409163,31.686238,0.000000 -94.412863,31.733947,0.000000 -94.440047,31.824396,0.000000 -94.457213,31.849459,0.000000 -94.473547,31.886810,0.000000 -94.507888,31.921839,0.000000 -94.508261,31.971643,0.000000 -94.004585,31.978109,0.000000 -93.977401,31.946327,0.000000 -93.899450,31.894623,0.000000 -93.881452,31.871589,0.000000 -93.877591,31.850282,0.000000 -93.834515,31.802188,0.000000 -93.792453,31.711568,0.000000 -93.819774,31.618268,0.000000 -93.832805,31.590360,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[McLennan<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.421127,31.329921,0.000000 -97.602508,31.592824,0.000000 -97.276616,31.754241,0.000000 -97.038121,31.866383,0.000000 -96.934142,31.720758,0.000000 -96.802330,31.527164,0.000000 -97.274758,31.283966,0.000000 -97.340625,31.251757,0.000000 -97.421127,31.329921,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Nacogdoches<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.329660,31.223191,0.000000 -94.345674,31.231784,0.000000 -94.440083,31.316576,0.000000 -94.485434,31.383305,0.000000 -94.545724,31.428792,0.000000 -94.679439,31.462219,0.000000 -94.725727,31.461215,0.000000 -94.758526,31.469159,0.000000 -94.821035,31.491729,0.000000 -94.873869,31.531641,0.000000 -94.891662,31.547994,0.000000 -94.916046,31.579267,0.000000 -94.945283,31.653698,0.000000 -94.979480,31.787713,0.000000 -94.987370,31.851551,0.000000 -94.457213,31.849459,0.000000 -94.440047,31.824396,0.000000 -94.412863,31.733947,0.000000 -94.409163,31.686238,0.000000 -94.395559,31.657222,0.000000 -94.344685,31.606671,0.000000 -94.315692,31.590118,0.000000 -94.302607,31.562025,0.000000 -94.303088,31.509477,0.000000 -94.321589,31.407090,0.000000 -94.336839,31.266096,0.000000 -94.329660,31.223191,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Limestone<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.318981,31.367502,0.000000 -96.596681,31.230137,0.000000 -96.802330,31.527164,0.000000 -96.934142,31.720758,0.000000 -96.722001,31.824748,0.000000 -96.502214,31.806249,0.000000 -96.234453,31.420410,0.000000 -96.318981,31.367502,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Mills<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.566266,31.235458,0.000000 -98.581823,31.263968,0.000000 -98.601225,31.287501,0.000000 -98.625419,31.313372,0.000000 -98.654106,31.327417,0.000000 -98.779720,31.382278,0.000000 -98.969091,31.455853,0.000000 -98.990942,31.467462,0.000000 -98.986402,31.487503,0.000000 -98.783780,31.611435,0.000000 -98.761578,31.691494,0.000000 -98.671489,31.704606,0.000000 -98.495605,31.727018,0.000000 -98.461287,31.691423,0.000000 -98.259850,31.424227,0.000000 -98.260536,31.417389,0.000000 -98.566266,31.235458,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Coryell<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.908412,31.073850,0.000000 -98.179541,31.464944,0.000000 -97.759785,31.679142,0.000000 -97.692164,31.710170,0.000000 -97.602508,31.592824,0.000000 -97.421127,31.329921,0.000000 -97.908412,31.073850,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Tom Green<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.114120,31.088453,0.000000 -100.686154,31.085940,0.000000 -100.692640,31.533308,0.000000 -101.272082,31.528666,0.000000 -101.271609,31.566550,0.000000 -100.865434,31.569978,0.000000 -100.861469,31.701866,0.000000 -100.825953,31.702592,0.000000 -100.232308,31.697643,0.000000 -100.231986,31.587235,0.000000 -100.113750,31.585589,0.000000 -100.114120,31.088453,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Ward<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.017655,31.378268,0.000000 -103.076259,31.367990,0.000000 -103.189750,31.376676,0.000000 -103.249666,31.399611,0.000000 -103.377973,31.427312,0.000000 -103.447090,31.437076,0.000000 -103.463463,31.443419,0.000000 -103.483987,31.458765,0.000000 -103.485429,31.492059,0.000000 -103.499965,31.604394,0.000000 -103.506527,31.631583,0.000000 -103.537359,31.647507,0.000000 -103.551489,31.650711,0.000000 -103.602898,31.656830,0.000000 -103.344565,31.657538,0.000000 -102.800325,31.653295,0.000000 -102.766930,31.652299,0.000000 -102.769274,31.297483,0.000000 -102.827145,31.267254,0.000000 -102.992279,31.359314,0.000000 -103.017655,31.378268,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[San Augustine<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.040008,31.138498,0.000000 -94.139857,31.098054,0.000000 -94.183544,31.123229,0.000000 -94.224569,31.171123,0.000000 -94.300492,31.211181,0.000000 -94.329660,31.223191,0.000000 -94.336839,31.266096,0.000000 -94.321589,31.407090,0.000000 -94.303088,31.509477,0.000000 -94.302607,31.562025,0.000000 -94.315692,31.590118,0.000000 -94.344685,31.606671,0.000000 -94.395559,31.657222,0.000000 -94.096524,31.627215,0.000000 -93.987710,31.569299,0.000000 -93.989182,31.470152,0.000000 -94.048448,31.402903,0.000000 -94.049165,31.327476,0.000000 -94.040008,31.138498,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Crane<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-102.303135,31.087015,0.000000 -102.388053,31.086138,0.000000 -102.425438,31.121419,0.000000 -102.426034,31.177138,0.000000 -102.436029,31.207068,0.000000 -102.506541,31.255288,0.000000 -102.655166,31.313960,0.000000 -102.769274,31.297483,0.000000 -102.766930,31.652299,0.000000 -102.303779,31.655937,0.000000 -102.303135,31.087015,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Upton<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.773192,31.088061,0.000000 -102.303135,31.087015,0.000000 -102.303779,31.655937,0.000000 -102.290259,31.653476,0.000000 -101.772140,31.651921,0.000000 -101.773192,31.088061,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Reagan<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.773192,31.088061,0.000000 -101.772140,31.651921,0.000000 -101.269755,31.653725,0.000000 -101.271609,31.566550,0.000000 -101.272082,31.528666,0.000000 -101.276912,31.086653,0.000000 -101.773192,31.088061,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Leon<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.766867,31.103382,0.000000 -95.977376,31.096119,0.000000 -96.061561,31.068967,0.000000 -96.176484,31.000296,0.000000 -96.242518,30.981066,0.000000 -96.242373,30.995689,0.000000 -96.251346,31.055880,0.000000 -96.276112,31.086879,0.000000 -96.288641,31.128435,0.000000 -96.325761,31.265389,0.000000 -96.318981,31.367502,0.000000 -96.234453,31.420410,0.000000 -95.789535,31.625145,0.000000 -95.770568,31.607075,0.000000 -95.758047,31.609797,0.000000 -95.756568,31.648105,0.000000 -95.741774,31.653024,0.000000 -95.727362,31.650648,0.000000 -95.712728,31.632277,0.000000 -95.711644,31.602092,0.000000 -95.719487,31.565851,0.000000 -95.752241,31.556595,0.000000 -95.758985,31.540865,0.000000 -95.734456,31.516635,0.000000 -95.725445,31.483856,0.000000 -95.696177,31.387699,0.000000 -95.687754,31.374578,0.000000 -95.700303,31.300119,0.000000 -95.722612,31.273556,0.000000 -95.780220,31.134519,0.000000 -95.766867,31.103382,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Sabine<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-93.917957,31.159337,0.000000 -94.040008,31.138498,0.000000 -94.049165,31.327476,0.000000 -94.048448,31.402903,0.000000 -93.989182,31.470152,0.000000 -93.987710,31.569299,0.000000 -93.915640,31.611120,0.000000 -93.832805,31.590360,0.000000 -93.810702,31.559241,0.000000 -93.750618,31.490736,0.000000 -93.661251,31.372577,0.000000 -93.590721,31.229873,0.000000 -93.594116,31.180387,0.000000 -93.917957,31.159337,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Houston<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.440421,31.059821,0.000000 -95.627885,30.933377,0.000000 -95.766867,31.103382,0.000000 -95.780220,31.134519,0.000000 -95.722612,31.273556,0.000000 -95.700303,31.300119,0.000000 -95.687754,31.374578,0.000000 -95.696177,31.387699,0.000000 -95.725445,31.483856,0.000000 -95.734456,31.516635,0.000000 -95.656871,31.530091,0.000000 -95.656085,31.544678,0.000000 -95.267266,31.600164,0.000000 -95.264603,31.590458,0.000000 -95.244827,31.579110,0.000000 -95.217589,31.575665,0.000000 -95.177198,31.585352,0.000000 -95.143613,31.571107,0.000000 -95.098757,31.512487,0.000000 -95.107188,31.488638,0.000000 -95.102945,31.478855,0.000000 -95.042511,31.447852,0.000000 -94.999534,31.439080,0.000000 -94.995475,31.426557,0.000000 -94.960486,31.393442,0.000000 -94.962660,31.384400,0.000000 -95.440421,31.059821,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Concho<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.600837,31.087795,0.000000 -100.114120,31.088453,0.000000 -100.113750,31.585589,0.000000 -99.723084,31.577543,0.000000 -99.672886,31.499833,0.000000 -99.628991,31.471857,0.000000 -99.613938,31.476828,0.000000 -99.600449,31.491838,0.000000 -99.600837,31.087795,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Irion<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.686154,31.085940,0.000000 -100.961758,31.085266,0.000000 -101.276912,31.086653,0.000000 -101.272082,31.528666,0.000000 -100.692640,31.533308,0.000000 -100.686154,31.085940,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Angelina<br>Beer, Wine, Liquor to go, no bars, but you can get a drink in a restaurant.<br>Burke only allows a drink if you're in a restaurant]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.577718,31.064029,0.000000 -94.642524,31.095081,0.000000 -94.704567,31.103545,0.000000 -94.771868,31.113594,0.000000 -94.818720,31.134086,0.000000 -94.832225,31.148892,0.000000 -94.826266,31.175142,0.000000 -94.845935,31.219499,0.000000 -94.909238,31.337631,0.000000 -94.956007,31.344787,0.000000 -94.962660,31.384400,0.000000 -94.960486,31.393442,0.000000 -94.995475,31.426557,0.000000 -94.999534,31.439080,0.000000 -94.873869,31.531641,0.000000 -94.821035,31.491729,0.000000 -94.758526,31.469159,0.000000 -94.725727,31.461215,0.000000 -94.679439,31.462219,0.000000 -94.545724,31.428792,0.000000 -94.485434,31.383305,0.000000 -94.440083,31.316576,0.000000 -94.345674,31.231784,0.000000 -94.329660,31.223191,0.000000 -94.300492,31.211181,0.000000 -94.224569,31.171123,0.000000 -94.183544,31.123229,0.000000 -94.139857,31.098054,0.000000 -94.444170,31.038207,0.000000 -94.483127,31.031457,0.000000 -94.495617,31.044432,0.000000 -94.528424,31.057491,0.000000 -94.577718,31.064029,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Falls<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.078829,30.998012,0.000000 -97.274758,31.283966,0.000000 -96.802330,31.527164,0.000000 -96.596681,31.230137,0.000000 -96.829324,31.113185,0.000000 -96.836015,31.119773,0.000000 -97.078829,30.998012,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[McCulloch<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.478390,30.942024,0.000000 -99.601013,30.943447,0.000000 -99.600837,31.087795,0.000000 -99.600449,31.491838,0.000000 -99.573607,31.492197,0.000000 -99.538243,31.481104,0.000000 -99.518123,31.434921,0.000000 -99.507968,31.428488,0.000000 -99.471490,31.428778,0.000000 -99.278727,31.451889,0.000000 -99.247331,31.481347,0.000000 -99.230111,31.485795,0.000000 -99.205018,31.472383,0.000000 -99.095763,31.451926,0.000000 -99.089722,30.940426,0.000000 -99.478390,30.942024,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[San Saba<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.958775,30.923738,0.000000 -99.090424,30.924896,0.000000 -99.089722,30.940426,0.000000 -99.095763,31.451926,0.000000 -98.986402,31.487503,0.000000 -98.990942,31.467462,0.000000 -98.969091,31.455853,0.000000 -98.779720,31.382278,0.000000 -98.654106,31.327417,0.000000 -98.625419,31.313372,0.000000 -98.601225,31.287501,0.000000 -98.581823,31.263968,0.000000 -98.566266,31.235458,0.000000 -98.568516,31.198954,0.000000 -98.546855,31.124229,0.000000 -98.526926,31.102955,0.000000 -98.479622,31.061206,0.000000 -98.436935,31.031834,0.000000 -98.442259,30.920885,0.000000 -98.958775,30.923738,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Lampasas<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.912951,31.042868,0.000000 -98.436935,31.031834,0.000000 -98.479622,31.061206,0.000000 -98.526926,31.102955,0.000000 -98.546855,31.124229,0.000000 -98.568516,31.198954,0.000000 -98.566266,31.235458,0.000000 -98.260536,31.417389,0.000000 -98.259850,31.424227,0.000000 -98.179541,31.464944,0.000000 -97.908412,31.073850,0.000000 -97.912951,31.042868,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Trinity<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.196902,30.829516,0.000000 -95.238483,30.847786,0.000000 -95.242389,30.890502,0.000000 -95.258670,30.904009,0.000000 -95.311222,30.899384,0.000000 -95.328839,30.871309,0.000000 -95.373677,30.861297,0.000000 -95.406759,30.870452,0.000000 -95.439405,30.944532,0.000000 -95.440421,31.059821,0.000000 -94.962660,31.384400,0.000000 -94.956007,31.344787,0.000000 -94.909238,31.337631,0.000000 -94.845935,31.219499,0.000000 -94.826266,31.175142,0.000000 -94.832225,31.148892,0.000000 -95.196902,30.829516,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Pecos<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.758695,30.664653,0.000000 -102.144996,30.661940,0.000000 -102.146660,30.603835,0.000000 -102.373985,30.604209,0.000000 -102.370584,30.284968,0.000000 -102.573531,30.278111,0.000000 -102.577278,30.060124,0.000000 -103.443339,30.667956,0.000000 -103.586110,30.770901,0.000000 -103.017655,31.378268,0.000000 -102.992279,31.359314,0.000000 -102.827145,31.267254,0.000000 -102.769274,31.297483,0.000000 -102.655166,31.313960,0.000000 -102.506541,31.255288,0.000000 -102.436029,31.207068,0.000000 -102.426034,31.177138,0.000000 -102.425438,31.121419,0.000000 -102.388053,31.086138,0.000000 -102.322286,31.065600,0.000000 -102.189232,31.003881,0.000000 -102.120300,31.000651,0.000000 -102.058401,31.000904,0.000000 -101.972554,30.981902,0.000000 -101.927096,30.954829,0.000000 -101.898149,30.925625,0.000000 -101.850373,30.864284,0.000000 -101.837555,30.839361,0.000000 -101.824126,30.762795,0.000000 -101.803130,30.703712,0.000000 -101.758695,30.664653,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Robertson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.627378,30.736477,0.000000 -96.614438,30.766267,0.000000 -96.618253,30.776902,0.000000 -96.643072,30.820640,0.000000 -96.690483,30.860019,0.000000 -96.751544,30.932687,0.000000 -96.813064,31.064281,0.000000 -96.829324,31.113185,0.000000 -96.596681,31.230137,0.000000 -96.318981,31.367502,0.000000 -96.325761,31.265389,0.000000 -96.288641,31.128435,0.000000 -96.276112,31.086879,0.000000 -96.251346,31.055880,0.000000 -96.242373,30.995689,0.000000 -96.242518,30.981066,0.000000 -96.359792,30.913199,0.000000 -96.411711,30.848592,0.000000 -96.455909,30.751238,0.000000 -96.572307,30.704599,0.000000 -96.627378,30.736477,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bell<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.833006,30.917051,0.000000 -97.912951,31.042868,0.000000 -97.908412,31.073850,0.000000 -97.421127,31.329921,0.000000 -97.340625,31.251757,0.000000 -97.274758,31.283966,0.000000 -97.078829,30.998012,0.000000 -97.264054,30.902641,0.000000 -97.316690,30.761300,0.000000 -97.640579,30.878845,0.000000 -97.833006,30.917051,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Newton<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-93.897885,30.243534,0.000000 -93.860915,30.943363,0.000000 -93.917957,31.159337,0.000000 -93.594116,31.180387,0.000000 -93.550765,31.191117,0.000000 -93.529096,31.185961,0.000000 -93.527105,31.178263,0.000000 -93.507389,31.039100,0.000000 -93.547292,31.014334,0.000000 -93.564649,30.902128,0.000000 -93.561018,30.872077,0.000000 -93.552976,30.860480,0.000000 -93.550855,30.828543,0.000000 -93.617781,30.687003,0.000000 -93.660163,30.673061,0.000000 -93.717986,30.587582,0.000000 -93.735479,30.545720,0.000000 -93.714810,30.505316,0.000000 -93.698146,30.470250,0.000000 -93.696741,30.442836,0.000000 -93.742732,30.409027,0.000000 -93.755114,30.381993,0.000000 -93.759508,30.354350,0.000000 -93.759347,30.341077,0.000000 -93.729941,30.305122,0.000000 -93.699377,30.297594,0.000000 -93.707524,30.239579,0.000000 -93.897885,30.243534,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jasper<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-93.897885,30.243534,0.000000 -94.101872,30.242779,0.000000 -94.110830,30.280389,0.000000 -94.114274,30.424484,0.000000 -94.063607,30.523024,0.000000 -94.083834,30.559389,0.000000 -94.083140,30.576301,0.000000 -94.073840,30.609243,0.000000 -94.090359,30.682497,0.000000 -94.170899,30.799887,0.000000 -94.192270,30.836722,0.000000 -94.201159,30.891664,0.000000 -94.197756,30.924445,0.000000 -94.230374,30.991597,0.000000 -94.238027,31.004351,0.000000 -94.292807,31.038760,0.000000 -94.338982,31.036093,0.000000 -94.395967,31.023886,0.000000 -94.422479,31.011494,0.000000 -94.438898,31.005913,0.000000 -94.445826,31.014038,0.000000 -94.444170,31.038207,0.000000 -94.139857,31.098054,0.000000 -94.040008,31.138498,0.000000 -93.917957,31.159337,0.000000 -93.860915,30.943363,0.000000 -93.897885,30.243534,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Polk<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.848284,30.491082,0.000000 -94.841311,30.534260,0.000000 -94.840510,30.547044,0.000000 -94.901531,30.565452,0.000000 -95.015228,30.609566,0.000000 -95.012550,30.627300,0.000000 -95.023865,30.651156,0.000000 -95.041611,30.683081,0.000000 -95.057976,30.685187,0.000000 -95.113718,30.669818,0.000000 -95.147952,30.729452,0.000000 -95.135546,30.785652,0.000000 -95.196902,30.829516,0.000000 -94.832225,31.148892,0.000000 -94.818720,31.134086,0.000000 -94.771868,31.113594,0.000000 -94.704567,31.103545,0.000000 -94.642524,31.095081,0.000000 -94.577718,31.064029,0.000000 -94.657462,31.014369,0.000000 -94.548058,30.525631,0.000000 -94.540718,30.492289,0.000000 -94.733664,30.489781,0.000000 -94.848284,30.491082,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Milam<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.968394,30.566617,0.000000 -97.156441,30.472358,0.000000 -97.274101,30.745628,0.000000 -97.316690,30.761300,0.000000 -97.264054,30.902641,0.000000 -97.078829,30.998012,0.000000 -96.836015,31.119773,0.000000 -96.829324,31.113185,0.000000 -96.813064,31.064281,0.000000 -96.751544,30.932687,0.000000 -96.690483,30.860019,0.000000 -96.643072,30.820640,0.000000 -96.618253,30.776902,0.000000 -96.614438,30.766267,0.000000 -96.627378,30.736477,0.000000 -96.968394,30.566617,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jeff Davis<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-104.987426,30.641467,0.000000 -104.915386,30.681778,0.000000 -104.103681,31.109588,0.000000 -103.586110,30.770901,0.000000 -103.443339,30.667956,0.000000 -103.792744,30.405275,0.000000 -103.896690,30.406219,0.000000 -104.987426,30.641467,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Madison<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.861755,30.867813,0.000000 -95.908608,30.869099,0.000000 -96.034413,30.847607,0.000000 -96.173111,30.833739,0.000000 -96.242518,30.981066,0.000000 -96.176484,31.000296,0.000000 -96.061561,31.068967,0.000000 -95.977376,31.096119,0.000000 -95.766867,31.103382,0.000000 -95.627885,30.933377,0.000000 -95.620248,30.916610,0.000000 -95.639063,30.904089,0.000000 -95.733494,30.914170,0.000000 -95.805868,30.876230,0.000000 -95.861755,30.867813,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Schleicher<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.957740,30.699650,0.000000 -100.961758,31.085266,0.000000 -100.686154,31.085940,0.000000 -100.114120,31.088453,0.000000 -100.117851,30.711507,0.000000 -100.117294,30.695967,0.000000 -100.957740,30.699650,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Menard<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.483546,30.717675,0.000000 -100.117851,30.711507,0.000000 -100.114120,31.088453,0.000000 -99.600837,31.087795,0.000000 -99.601013,30.943447,0.000000 -99.478390,30.942024,0.000000 -99.483546,30.717675,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Crockett<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.954001,30.287645,0.000000 -101.750592,30.286075,0.000000 -101.737530,30.318768,0.000000 -101.734929,30.421283,0.000000 -101.673907,30.520565,0.000000 -101.649393,30.541513,0.000000 -101.642412,30.564024,0.000000 -101.649515,30.626562,0.000000 -101.688220,30.648839,0.000000 -101.758695,30.664653,0.000000 -101.803130,30.703712,0.000000 -101.824126,30.762795,0.000000 -101.837555,30.839361,0.000000 -101.850373,30.864284,0.000000 -101.898149,30.925625,0.000000 -101.927096,30.954829,0.000000 -101.972554,30.981902,0.000000 -102.058401,31.000904,0.000000 -102.120300,31.000651,0.000000 -102.189232,31.003881,0.000000 -102.322286,31.065600,0.000000 -102.388053,31.086138,0.000000 -102.303135,31.087015,0.000000 -101.773192,31.088061,0.000000 -101.276912,31.086653,0.000000 -100.961758,31.085266,0.000000 -100.957740,30.699650,0.000000 -100.954001,30.287645,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Tyler<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.063607,30.523024,0.000000 -94.548058,30.525631,0.000000 -94.657462,31.014369,0.000000 -94.577718,31.064029,0.000000 -94.528424,31.057491,0.000000 -94.495617,31.044432,0.000000 -94.483127,31.031457,0.000000 -94.444170,31.038207,0.000000 -94.445826,31.014038,0.000000 -94.438898,31.005913,0.000000 -94.422479,31.011494,0.000000 -94.395967,31.023886,0.000000 -94.338982,31.036093,0.000000 -94.292807,31.038760,0.000000 -94.238027,31.004351,0.000000 -94.230374,30.991597,0.000000 -94.197756,30.924445,0.000000 -94.201159,30.891664,0.000000 -94.192270,30.836722,0.000000 -94.170899,30.799887,0.000000 -94.090359,30.682497,0.000000 -94.073840,30.609243,0.000000 -94.083140,30.576301,0.000000 -94.083834,30.559389,0.000000 -94.063607,30.523024,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Dry</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Walker<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.827330,30.634122,0.000000 -95.861755,30.867813,0.000000 -95.805868,30.876230,0.000000 -95.733494,30.914170,0.000000 -95.639063,30.904089,0.000000 -95.620248,30.916610,0.000000 -95.627885,30.933377,0.000000 -95.440421,31.059821,0.000000 -95.439405,30.944532,0.000000 -95.406759,30.870452,0.000000 -95.373677,30.861297,0.000000 -95.328839,30.871309,0.000000 -95.359556,30.519307,0.000000 -95.597848,30.521764,0.000000 -95.827330,30.634122,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Burnet<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.348476,30.498041,0.000000 -98.349241,30.565276,0.000000 -98.359129,30.575027,0.000000 -98.381026,30.568491,0.000000 -98.402114,30.575657,0.000000 -98.414605,30.643508,0.000000 -98.402169,30.681731,0.000000 -98.371667,30.745285,0.000000 -98.423252,30.801340,0.000000 -98.459577,30.879086,0.000000 -98.442259,30.920885,0.000000 -98.436935,31.031834,0.000000 -97.912951,31.042868,0.000000 -97.833006,30.917051,0.000000 -97.969093,30.782970,0.000000 -98.046065,30.635775,0.000000 -98.124616,30.499948,0.000000 -98.110342,30.497875,0.000000 -98.099462,30.486710,0.000000 -98.126538,30.439148,0.000000 -98.348476,30.498041,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Brazos<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.142777,30.337134,0.000000 -96.149727,30.380868,0.000000 -96.182122,30.402140,0.000000 -96.191079,30.403365,0.000000 -96.198556,30.390807,0.000000 -96.222932,30.379288,0.000000 -96.259348,30.370920,0.000000 -96.297733,30.389156,0.000000 -96.290370,30.411338,0.000000 -96.319919,30.461759,0.000000 -96.360402,30.517562,0.000000 -96.462150,30.607350,0.000000 -96.516770,30.634706,0.000000 -96.595051,30.644009,0.000000 -96.572307,30.704599,0.000000 -96.455909,30.751238,0.000000 -96.411711,30.848592,0.000000 -96.359792,30.913199,0.000000 -96.242518,30.981066,0.000000 -96.173111,30.833739,0.000000 -96.176269,30.800463,0.000000 -96.175834,30.616553,0.000000 -96.118628,30.455759,0.000000 -96.078909,30.443366,0.000000 -96.076383,30.429546,0.000000 -96.134987,30.345101,0.000000 -96.142777,30.337134,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Mason<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.960858,30.509633,0.000000 -99.307735,30.506867,0.000000 -99.485389,30.508297,0.000000 -99.483546,30.717675,0.000000 -99.478390,30.942024,0.000000 -99.089722,30.940426,0.000000 -99.090424,30.924896,0.000000 -98.958775,30.923738,0.000000 -98.960858,30.509633,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Llano<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.348476,30.498041,0.000000 -98.390745,30.505984,0.000000 -98.585920,30.506374,0.000000 -98.960858,30.509633,0.000000 -98.958775,30.923738,0.000000 -98.442259,30.920885,0.000000 -98.459577,30.879086,0.000000 -98.423252,30.801340,0.000000 -98.371667,30.745285,0.000000 -98.402169,30.681731,0.000000 -98.414605,30.643508,0.000000 -98.402114,30.575657,0.000000 -98.381026,30.568491,0.000000 -98.359129,30.575027,0.000000 -98.349241,30.565276,0.000000 -98.348476,30.498041,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Williamson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.374313,30.425611,0.000000 -97.398644,30.444031,0.000000 -97.501843,30.484390,0.000000 -97.587684,30.505059,0.000000 -97.680071,30.483256,0.000000 -97.705005,30.464108,0.000000 -97.765644,30.437450,0.000000 -97.781514,30.438685,0.000000 -97.846816,30.474745,0.000000 -97.868790,30.547439,0.000000 -97.928188,30.612136,0.000000 -97.965459,30.629747,0.000000 -97.991803,30.616968,0.000000 -98.024725,30.617563,0.000000 -98.046065,30.635775,0.000000 -97.969093,30.782970,0.000000 -97.833006,30.917051,0.000000 -97.640579,30.878845,0.000000 -97.316690,30.761300,0.000000 -97.274101,30.745628,0.000000 -97.156441,30.472358,0.000000 -97.155236,30.461346,0.000000 -97.334028,30.409544,0.000000 -97.374313,30.425611,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[San Jacinto<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.162780,30.353313,0.000000 -95.222183,30.325225,0.000000 -95.208191,30.356219,0.000000 -95.246835,30.384460,0.000000 -95.314479,30.416212,0.000000 -95.359556,30.519307,0.000000 -95.328839,30.871309,0.000000 -95.311222,30.899384,0.000000 -95.258670,30.904009,0.000000 -95.242389,30.890502,0.000000 -95.238483,30.847786,0.000000 -95.196902,30.829516,0.000000 -95.135546,30.785652,0.000000 -95.147952,30.729452,0.000000 -95.113718,30.669818,0.000000 -95.057976,30.685187,0.000000 -95.041611,30.683081,0.000000 -95.023865,30.651156,0.000000 -95.012550,30.627300,0.000000 -95.015228,30.609566,0.000000 -94.901531,30.565452,0.000000 -94.840510,30.547044,0.000000 -94.841311,30.534260,0.000000 -94.848284,30.491082,0.000000 -95.162780,30.353313,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Grimes<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.806250,30.246955,0.000000 -96.101539,30.223956,0.000000 -96.086852,30.243582,0.000000 -96.084502,30.292952,0.000000 -96.096229,30.313514,0.000000 -96.142777,30.337134,0.000000 -96.134987,30.345101,0.000000 -96.076383,30.429546,0.000000 -96.078909,30.443366,0.000000 -96.118628,30.455759,0.000000 -96.175834,30.616553,0.000000 -96.176269,30.800463,0.000000 -96.173111,30.833739,0.000000 -96.034413,30.847607,0.000000 -95.908608,30.869099,0.000000 -95.861755,30.867813,0.000000 -95.827330,30.634122,0.000000 -95.801939,30.352111,0.000000 -95.806250,30.246955,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Burleson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.297733,30.389156,0.000000 -96.336468,30.376265,0.000000 -96.423538,30.348005,0.000000 -96.451042,30.348898,0.000000 -96.648933,30.302012,0.000000 -96.708818,30.326709,0.000000 -96.854582,30.433033,0.000000 -96.882652,30.461744,0.000000 -96.897400,30.492359,0.000000 -96.917046,30.534086,0.000000 -96.968394,30.566617,0.000000 -96.627378,30.736477,0.000000 -96.572307,30.704599,0.000000 -96.595051,30.644009,0.000000 -96.516770,30.634706,0.000000 -96.462150,30.607350,0.000000 -96.360402,30.517562,0.000000 -96.319919,30.461759,0.000000 -96.290370,30.411338,0.000000 -96.297733,30.389156,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kimble<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.759169,30.286493,0.000000 -100.120420,30.288981,0.000000 -100.117294,30.695967,0.000000 -100.117851,30.711507,0.000000 -99.483546,30.717675,0.000000 -99.485389,30.508297,0.000000 -99.307735,30.506867,0.000000 -99.310668,30.284596,0.000000 -99.759169,30.286493,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Sutton<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.691123,30.287785,0.000000 -100.954001,30.287645,0.000000 -100.957740,30.699650,0.000000 -100.117294,30.695967,0.000000 -100.120420,30.288981,0.000000 -100.691123,30.287785,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Brewster<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-103.787463,29.267458,0.000000 -103.792744,30.405275,0.000000 -103.443339,30.667956,0.000000 -102.577278,30.060124,0.000000 -102.390160,29.921035,0.000000 -102.324751,29.880309,0.000000 -102.367980,29.845483,0.000000 -102.385215,29.768142,0.000000 -102.503521,29.785650,0.000000 -102.576926,29.778442,0.000000 -102.676790,29.744419,0.000000 -102.805160,29.530344,0.000000 -102.822640,29.412045,0.000000 -102.883449,29.353572,0.000000 -102.908764,29.269407,0.000000 -102.866609,29.229241,0.000000 -102.988540,29.191068,0.000000 -103.153911,28.978892,0.000000 -103.375903,29.032315,0.000000 -103.474531,29.072338,0.000000 -103.526697,29.146849,0.000000 -103.720779,29.190832,0.000000 -103.782625,29.229995,0.000000 -103.787463,29.267458,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Terrell<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-101.759491,29.787368,0.000000 -101.805605,29.780200,0.000000 -101.819499,29.814325,0.000000 -101.924627,29.788701,0.000000 -101.973724,29.818971,0.000000 -102.064403,29.784769,0.000000 -102.324751,29.880309,0.000000 -102.390160,29.921035,0.000000 -102.577278,30.060124,0.000000 -102.573531,30.278111,0.000000 -102.370584,30.284968,0.000000 -102.373985,30.604209,0.000000 -102.146660,30.603835,0.000000 -102.144996,30.661940,0.000000 -101.758695,30.664653,0.000000 -101.688220,30.648839,0.000000 -101.649515,30.626562,0.000000 -101.642412,30.564024,0.000000 -101.649393,30.541513,0.000000 -101.673907,30.520565,0.000000 -101.734929,30.421283,0.000000 -101.737530,30.318768,0.000000 -101.750592,30.286075,0.000000 -101.759015,30.284111,0.000000 -101.759491,29.787368,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Presidio<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-104.987426,30.641467,0.000000 -103.896690,30.406219,0.000000 -103.792744,30.405275,0.000000 -103.787463,29.267458,0.000000 -104.046105,29.328313,0.000000 -104.164859,29.400905,0.000000 -104.205212,29.484229,0.000000 -104.378074,29.550795,0.000000 -104.535730,29.679643,0.000000 -104.578041,29.808107,0.000000 -104.674852,29.909449,0.000000 -104.696977,30.057463,0.000000 -104.675241,30.149120,0.000000 -104.703097,30.238642,0.000000 -104.814445,30.350619,0.000000 -104.853486,30.392411,0.000000 -104.891169,30.570700,0.000000 -104.987426,30.641467,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Travis<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.659924,30.074162,0.000000 -97.727842,30.022479,0.000000 -98.171467,30.349324,0.000000 -98.126538,30.439148,0.000000 -98.099462,30.486710,0.000000 -98.110342,30.497875,0.000000 -98.124616,30.499948,0.000000 -98.046065,30.635775,0.000000 -98.024725,30.617563,0.000000 -97.991803,30.616968,0.000000 -97.965459,30.629747,0.000000 -97.928188,30.612136,0.000000 -97.868790,30.547439,0.000000 -97.846816,30.474745,0.000000 -97.781514,30.438685,0.000000 -97.765644,30.437450,0.000000 -97.705005,30.464108,0.000000 -97.680071,30.483256,0.000000 -97.587684,30.505059,0.000000 -97.501843,30.484390,0.000000 -97.398644,30.444031,0.000000 -97.374313,30.425611,0.000000 -97.493287,30.209187,0.000000 -97.659924,30.074162,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Montgomery<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.095355,30.168906,0.000000 -95.256490,30.043110,0.000000 -95.289984,30.029892,0.000000 -95.309790,30.034409,0.000000 -95.328453,30.059040,0.000000 -95.353417,30.075225,0.000000 -95.428874,30.114601,0.000000 -95.544066,30.163330,0.000000 -95.570212,30.158892,0.000000 -95.584838,30.142531,0.000000 -95.674196,30.101658,0.000000 -95.773695,30.087676,0.000000 -95.812201,30.088698,0.000000 -95.806250,30.246955,0.000000 -95.801939,30.352111,0.000000 -95.827330,30.634122,0.000000 -95.597848,30.521764,0.000000 -95.359556,30.519307,0.000000 -95.314479,30.416212,0.000000 -95.246835,30.384460,0.000000 -95.208191,30.356219,0.000000 -95.222183,30.325225,0.000000 -95.162780,30.353313,0.000000 -95.095355,30.168906,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Lee<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.799847,30.164596,0.000000 -96.854765,30.124060,0.000000 -97.032664,30.038354,0.000000 -97.036700,30.058155,0.000000 -97.090322,30.258293,0.000000 -97.187127,30.335415,0.000000 -97.334028,30.409544,0.000000 -97.155236,30.461346,0.000000 -97.156441,30.472358,0.000000 -96.968394,30.566617,0.000000 -96.917046,30.534086,0.000000 -96.897400,30.492359,0.000000 -96.882652,30.461744,0.000000 -96.854582,30.433033,0.000000 -96.708818,30.326709,0.000000 -96.648933,30.302012,0.000000 -96.799847,30.164596,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hardin<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.102856,30.162601,0.000000 -94.167419,30.184854,0.000000 -94.203736,30.187700,0.000000 -94.272601,30.171608,0.000000 -94.291431,30.151961,0.000000 -94.300739,30.124478,0.000000 -94.342069,30.107826,0.000000 -94.423637,30.097799,0.000000 -94.451875,30.110236,0.000000 -94.476862,30.116084,0.000000 -94.608518,30.115772,0.000000 -94.733664,30.489781,0.000000 -94.540718,30.492289,0.000000 -94.548058,30.525631,0.000000 -94.063607,30.523024,0.000000 -94.114274,30.424484,0.000000 -94.110830,30.280389,0.000000 -94.101872,30.242779,0.000000 -94.102856,30.162601,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Gillespie<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.593796,30.140019,0.000000 -98.922778,30.137796,0.000000 -99.309734,30.143202,0.000000 -99.310668,30.284596,0.000000 -99.307735,30.506867,0.000000 -98.960858,30.509633,0.000000 -98.585920,30.506374,0.000000 -98.593796,30.140019,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Blanco<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.302806,30.039314,0.000000 -98.418997,29.948110,0.000000 -98.593796,30.140019,0.000000 -98.585920,30.506374,0.000000 -98.390745,30.505984,0.000000 -98.348476,30.498041,0.000000 -98.126538,30.439148,0.000000 -98.171467,30.349324,0.000000 -98.207119,30.292262,0.000000 -98.302806,30.039314,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Liberty<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.450455,29.896016,0.000000 -94.982970,29.886947,0.000000 -95.003272,29.917223,0.000000 -94.987738,29.964651,0.000000 -95.010673,29.995500,0.000000 -95.051644,30.051451,0.000000 -95.095355,30.168906,0.000000 -95.162780,30.353313,0.000000 -94.848284,30.491082,0.000000 -94.733664,30.489781,0.000000 -94.608518,30.115772,0.000000 -94.476862,30.116084,0.000000 -94.451875,30.110236,0.000000 -94.450455,29.896016,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bastrop<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.325281,29.783435,0.000000 -97.659924,30.074162,0.000000 -97.493287,30.209187,0.000000 -97.374313,30.425611,0.000000 -97.334028,30.409544,0.000000 -97.187127,30.335415,0.000000 -97.090322,30.258293,0.000000 -97.036700,30.058155,0.000000 -97.200103,29.892538,0.000000 -97.325281,29.783435,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Washington<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.157556,30.066550,0.000000 -96.178034,30.057647,0.000000 -96.245373,30.074177,0.000000 -96.277570,30.097723,0.000000 -96.299635,30.100301,0.000000 -96.571211,30.058763,0.000000 -96.627914,30.053195,0.000000 -96.638229,30.110761,0.000000 -96.686998,30.145674,0.000000 -96.712503,30.155143,0.000000 -96.777409,30.143791,0.000000 -96.799847,30.164596,0.000000 -96.648933,30.302012,0.000000 -96.451042,30.348898,0.000000 -96.423538,30.348005,0.000000 -96.336468,30.376265,0.000000 -96.297733,30.389156,0.000000 -96.259348,30.370920,0.000000 -96.222932,30.379288,0.000000 -96.198556,30.390807,0.000000 -96.191079,30.403365,0.000000 -96.182122,30.402140,0.000000 -96.149727,30.380868,0.000000 -96.142777,30.337134,0.000000 -96.096229,30.313514,0.000000 -96.084502,30.292952,0.000000 -96.086852,30.243582,0.000000 -96.101539,30.223956,0.000000 -96.141877,30.209814,0.000000 -96.164652,30.141002,0.000000 -96.170595,30.104110,0.000000 -96.157556,30.066550,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hays<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.006868,29.757702,0.000000 -98.037928,29.844386,0.000000 -98.302806,30.039314,0.000000 -98.207119,30.292262,0.000000 -98.171467,30.349324,0.000000 -97.727842,30.022479,0.000000 -97.800467,29.948865,0.000000 -97.832953,29.935775,0.000000 -97.901108,29.886269,0.000000 -97.923912,29.858766,0.000000 -97.894493,29.856828,0.000000 -98.006868,29.757702,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Edwards<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.013987,29.624752,0.000000 -100.115783,29.626526,0.000000 -100.691341,29.622097,0.000000 -100.691123,30.287785,0.000000 -100.120420,30.288981,0.000000 -99.759169,30.286493,0.000000 -99.761350,30.080128,0.000000 -99.921215,30.080361,0.000000 -99.921208,30.086309,0.000000 -99.972914,30.087707,0.000000 -99.991385,30.020886,0.000000 -100.019820,29.870718,0.000000 -100.037146,29.776375,0.000000 -100.042371,29.716370,0.000000 -100.026074,29.683851,0.000000 -100.016094,29.643079,0.000000 -100.013987,29.624752,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Val Verde<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.691341,29.622097,0.000000 -100.691476,29.448869,0.000000 -100.705941,29.363967,0.000000 -100.746308,29.258236,0.000000 -100.755585,29.243954,0.000000 -100.797357,29.242736,0.000000 -101.009431,29.373483,0.000000 -101.067738,29.473776,0.000000 -101.261812,29.526692,0.000000 -101.254969,29.628964,0.000000 -101.306247,29.652644,0.000000 -101.368787,29.657373,0.000000 -101.416487,29.745641,0.000000 -101.470856,29.788895,0.000000 -101.538736,29.763222,0.000000 -101.640065,29.757163,0.000000 -101.759491,29.787368,0.000000 -101.759015,30.284111,0.000000 -101.750592,30.286075,0.000000 -100.954001,30.287645,0.000000 -100.691123,30.287785,0.000000 -100.691341,29.622097,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kerr<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.621747,29.919973,0.000000 -99.689675,29.920187,0.000000 -99.693300,30.077670,0.000000 -99.761350,30.080128,0.000000 -99.759169,30.286493,0.000000 -99.310668,30.284596,0.000000 -99.309734,30.143202,0.000000 -98.922778,30.137796,0.000000 -98.929913,29.791281,0.000000 -99.178998,29.910217,0.000000 -99.319993,29.923090,0.000000 -99.621747,29.919973,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Waller<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.834397,29.795790,0.000000 -95.952809,29.742031,0.000000 -95.974728,29.734591,0.000000 -96.045730,29.734441,0.000000 -96.052688,29.797955,0.000000 -96.057220,29.802244,0.000000 -96.078629,29.805767,0.000000 -96.098489,29.808771,0.000000 -96.116166,29.824527,0.000000 -96.126558,29.838647,0.000000 -96.133653,29.934678,0.000000 -96.125062,29.960491,0.000000 -96.105050,29.971234,0.000000 -96.092324,30.006059,0.000000 -96.100037,30.021452,0.000000 -96.117127,30.039470,0.000000 -96.127717,30.049924,0.000000 -96.157556,30.066550,0.000000 -96.170595,30.104110,0.000000 -96.164652,30.141002,0.000000 -96.141877,30.209814,0.000000 -96.101539,30.223956,0.000000 -95.806250,30.246955,0.000000 -95.812201,30.088698,0.000000 -95.826393,30.079619,0.000000 -95.846695,30.085431,0.000000 -95.875734,30.117221,0.000000 -95.964550,30.159006,0.000000 -95.834397,29.795790,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Orange<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-93.760368,30.006176,0.000000 -93.857447,29.990867,0.000000 -93.856500,29.964815,0.000000 -93.910328,29.997039,0.000000 -93.953710,30.010457,0.000000 -94.002075,30.013582,0.000000 -94.037973,30.035728,0.000000 -94.092327,30.073533,0.000000 -94.110982,30.130482,0.000000 -94.113690,30.151722,0.000000 -94.102856,30.162601,0.000000 -94.101872,30.242779,0.000000 -93.897885,30.243534,0.000000 -93.707524,30.239579,0.000000 -93.715009,30.220513,0.000000 -93.708547,30.114950,0.000000 -93.712644,30.060731,0.000000 -93.760368,30.006176,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jefferson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.357182,29.560129,0.000000 -94.368070,29.897759,0.000000 -94.450455,29.896016,0.000000 -94.451875,30.110236,0.000000 -94.423637,30.097799,0.000000 -94.342069,30.107826,0.000000 -94.300739,30.124478,0.000000 -94.291431,30.151961,0.000000 -94.272601,30.171608,0.000000 -94.203736,30.187700,0.000000 -94.167419,30.184854,0.000000 -94.102856,30.162601,0.000000 -94.113690,30.151722,0.000000 -94.110982,30.130482,0.000000 -94.092327,30.073533,0.000000 -94.037973,30.035728,0.000000 -94.002075,30.013582,0.000000 -93.953710,30.010457,0.000000 -93.910328,29.997039,0.000000 -93.856500,29.964815,0.000000 -93.951937,29.818579,0.000000 -93.835125,29.674792,0.000000 -94.065582,29.674297,0.000000 -94.357182,29.560129,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Fayette<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.880080,29.636855,0.000000 -97.150602,29.632816,0.000000 -97.138685,29.643504,0.000000 -97.325281,29.783435,0.000000 -97.200103,29.892538,0.000000 -97.036700,30.058155,0.000000 -97.032664,30.038354,0.000000 -96.854765,30.124060,0.000000 -96.799847,30.164596,0.000000 -96.777409,30.143791,0.000000 -96.712503,30.155143,0.000000 -96.686998,30.145674,0.000000 -96.638229,30.110761,0.000000 -96.627914,30.053195,0.000000 -96.576277,29.962270,0.000000 -96.860075,29.666076,0.000000 -96.880080,29.636855,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Harris<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.216543,29.566755,0.000000 -95.421231,29.586585,0.000000 -95.489486,29.615588,0.000000 -95.608004,29.668598,0.000000 -95.834397,29.795790,0.000000 -95.964550,30.159006,0.000000 -95.875734,30.117221,0.000000 -95.846695,30.085431,0.000000 -95.826393,30.079619,0.000000 -95.812201,30.088698,0.000000 -95.773695,30.087676,0.000000 -95.674196,30.101658,0.000000 -95.584838,30.142531,0.000000 -95.570212,30.158892,0.000000 -95.544066,30.163330,0.000000 -95.428874,30.114601,0.000000 -95.353417,30.075225,0.000000 -95.328453,30.059040,0.000000 -95.309790,30.034409,0.000000 -95.289984,30.029892,0.000000 -95.256490,30.043110,0.000000 -95.095355,30.168906,0.000000 -95.051644,30.051451,0.000000 -95.010673,29.995500,0.000000 -94.987738,29.964651,0.000000 -95.003272,29.917223,0.000000 -94.982970,29.886947,0.000000 -94.941648,29.838724,0.000000 -94.923070,29.806674,0.000000 -94.919087,29.700073,0.000000 -94.932790,29.682436,0.000000 -95.088473,29.804205,0.000000 -95.040605,29.711806,0.000000 -94.989539,29.679929,0.000000 -95.014328,29.559495,0.000000 -95.064920,29.565019,0.000000 -95.085596,29.543930,0.000000 -95.114871,29.519095,0.000000 -95.161312,29.505575,0.000000 -95.174702,29.509840,0.000000 -95.193761,29.534088,0.000000 -95.216543,29.566755,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kendall<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.652416,29.751558,0.000000 -98.789535,29.718811,0.000000 -98.929913,29.791281,0.000000 -98.922778,30.137796,0.000000 -98.593796,30.140019,0.000000 -98.418997,29.948110,0.000000 -98.652416,29.751558,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Austin<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.181316,29.633373,0.000000 -96.219555,29.658551,0.000000 -96.265615,29.673895,0.000000 -96.278372,29.694045,0.000000 -96.363320,29.817922,0.000000 -96.422411,29.826751,0.000000 -96.482372,29.864902,0.000000 -96.541684,29.907119,0.000000 -96.576277,29.962270,0.000000 -96.627914,30.053195,0.000000 -96.571211,30.058763,0.000000 -96.299635,30.100301,0.000000 -96.277570,30.097723,0.000000 -96.245373,30.074177,0.000000 -96.178034,30.057647,0.000000 -96.157556,30.066550,0.000000 -96.127717,30.049924,0.000000 -96.117127,30.039470,0.000000 -96.100037,30.021452,0.000000 -96.092324,30.006059,0.000000 -96.105050,29.971234,0.000000 -96.125062,29.960491,0.000000 -96.133653,29.934678,0.000000 -96.126558,29.838647,0.000000 -96.116166,29.824527,0.000000 -96.098489,29.808771,0.000000 -96.078629,29.805767,0.000000 -96.057220,29.802244,0.000000 -96.052688,29.797955,0.000000 -96.045730,29.734441,0.000000 -96.028952,29.722370,0.000000 -96.019530,29.710564,0.000000 -96.021239,29.631303,0.000000 -96.027991,29.599907,0.000000 -96.083634,29.600142,0.000000 -96.100739,29.615839,0.000000 -96.133760,29.617019,0.000000 -96.181316,29.633373,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Real<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.619920,29.630503,0.000000 -100.013987,29.624752,0.000000 -100.016094,29.643079,0.000000 -100.026074,29.683851,0.000000 -100.042371,29.716370,0.000000 -100.037146,29.776375,0.000000 -100.019820,29.870718,0.000000 -99.991385,30.020886,0.000000 -99.972914,30.087707,0.000000 -99.921208,30.086309,0.000000 -99.921215,30.080361,0.000000 -99.761350,30.080128,0.000000 -99.693300,30.077670,0.000000 -99.689675,29.920187,0.000000 -99.621747,29.919973,0.000000 -99.619920,29.630503,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Caldwell<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.641961,29.650527,0.000000 -97.651620,29.661736,0.000000 -97.743717,29.711798,0.000000 -97.809263,29.756202,0.000000 -97.843252,29.783452,0.000000 -97.856543,29.838684,0.000000 -97.894493,29.856828,0.000000 -97.923912,29.858766,0.000000 -97.901108,29.886269,0.000000 -97.832953,29.935775,0.000000 -97.800467,29.948865,0.000000 -97.727842,30.022479,0.000000 -97.659924,30.074162,0.000000 -97.325281,29.783435,0.000000 -97.606010,29.641035,0.000000 -97.641961,29.650527,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Comal<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.327630,29.594941,0.000000 -98.385379,29.673711,0.000000 -98.440129,29.721700,0.000000 -98.615786,29.742398,0.000000 -98.645152,29.745972,0.000000 -98.652416,29.751558,0.000000 -98.418997,29.948110,0.000000 -98.302806,30.039314,0.000000 -98.037928,29.844386,0.000000 -98.006868,29.757702,0.000000 -98.086711,29.691784,0.000000 -98.327630,29.594941,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Colorado<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.653084,29.237498,0.000000 -96.673821,29.254656,0.000000 -96.575445,29.346564,0.000000 -96.795162,29.578916,0.000000 -96.880080,29.636855,0.000000 -96.860075,29.666076,0.000000 -96.576277,29.962270,0.000000 -96.541684,29.907119,0.000000 -96.482372,29.864902,0.000000 -96.422411,29.826751,0.000000 -96.363320,29.817922,0.000000 -96.278372,29.694045,0.000000 -96.265615,29.673895,0.000000 -96.219555,29.658551,0.000000 -96.181316,29.633373,0.000000 -96.312758,29.511801,0.000000 -96.352783,29.412242,0.000000 -96.653084,29.237498,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bandera<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.619920,29.630503,0.000000 -99.621747,29.919973,0.000000 -99.319993,29.923090,0.000000 -99.178998,29.910217,0.000000 -98.929913,29.791281,0.000000 -98.789535,29.718811,0.000000 -98.809295,29.696124,0.000000 -98.920092,29.576318,0.000000 -98.965908,29.561184,0.000000 -98.982105,29.565460,0.000000 -98.987713,29.621874,0.000000 -99.417910,29.628235,0.000000 -99.619920,29.630503,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Chambers<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.377194,29.552199,0.000000 -94.384603,29.600365,0.000000 -94.410353,29.600316,0.000000 -94.436156,29.568133,0.000000 -94.512612,29.547697,0.000000 -94.533891,29.554214,0.000000 -94.564630,29.579228,0.000000 -94.788284,29.538787,0.000000 -94.706617,29.658742,0.000000 -94.700476,29.754791,0.000000 -94.735923,29.793208,0.000000 -94.829615,29.760081,0.000000 -94.887363,29.668766,0.000000 -94.932790,29.682436,0.000000 -94.919087,29.700073,0.000000 -94.923070,29.806674,0.000000 -94.941648,29.838724,0.000000 -94.982970,29.886947,0.000000 -94.450455,29.896016,0.000000 -94.368070,29.897759,0.000000 -94.357182,29.560129,0.000000 -94.377194,29.552199,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Guadalupe<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.143208,29.443896,0.000000 -98.132412,29.458380,0.000000 -98.130657,29.489982,0.000000 -98.240912,29.553242,0.000000 -98.327630,29.594941,0.000000 -98.086711,29.691784,0.000000 -98.006868,29.757702,0.000000 -97.894493,29.856828,0.000000 -97.856543,29.838684,0.000000 -97.843252,29.783452,0.000000 -97.809263,29.756202,0.000000 -97.743717,29.711798,0.000000 -97.651620,29.661736,0.000000 -97.641961,29.650527,0.000000 -97.843114,29.384700,0.000000 -98.101520,29.389074,0.000000 -98.133656,29.426309,0.000000 -98.143208,29.443896,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Fort Bend<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.847497,29.272449,0.000000 -95.881746,29.277889,0.000000 -95.943088,29.328394,0.000000 -96.040877,29.439840,0.000000 -96.065101,29.481549,0.000000 -96.060752,29.518087,0.000000 -96.059600,29.542353,0.000000 -96.068252,29.592200,0.000000 -96.083634,29.600142,0.000000 -96.027991,29.599907,0.000000 -96.021239,29.631303,0.000000 -96.019530,29.710564,0.000000 -96.028952,29.722370,0.000000 -96.045730,29.734441,0.000000 -95.974728,29.734591,0.000000 -95.952809,29.742031,0.000000 -95.834397,29.795790,0.000000 -95.608004,29.668598,0.000000 -95.489486,29.615588,0.000000 -95.421231,29.586585,0.000000 -95.468718,29.438087,0.000000 -95.564332,29.433780,0.000000 -95.578943,29.385733,0.000000 -95.593370,29.330787,0.000000 -95.644214,29.299339,0.000000 -95.685345,29.303282,0.000000 -95.768363,29.327212,0.000000 -95.805275,29.311208,0.000000 -95.847497,29.272449,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Gonzales<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.731675,29.230155,0.000000 -97.862058,29.360313,0.000000 -97.843114,29.384700,0.000000 -97.641961,29.650527,0.000000 -97.606010,29.641035,0.000000 -97.325281,29.783435,0.000000 -97.138685,29.643504,0.000000 -97.150602,29.632816,0.000000 -97.208297,29.587558,0.000000 -97.210974,29.507856,0.000000 -97.236991,29.387463,0.000000 -97.494501,29.213456,0.000000 -97.618910,29.118079,0.000000 -97.731675,29.230155,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bexar<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.807287,29.251483,0.000000 -98.809295,29.696124,0.000000 -98.789535,29.718811,0.000000 -98.652416,29.751558,0.000000 -98.645152,29.745972,0.000000 -98.615786,29.742398,0.000000 -98.440129,29.721700,0.000000 -98.385379,29.673711,0.000000 -98.327630,29.594941,0.000000 -98.240912,29.553242,0.000000 -98.130657,29.489982,0.000000 -98.132412,29.458380,0.000000 -98.143208,29.443896,0.000000 -98.421206,29.115347,0.000000 -98.807287,29.251483,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Medina<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.809042,29.092334,0.000000 -99.413301,29.092721,0.000000 -99.417910,29.628235,0.000000 -98.987713,29.621874,0.000000 -98.982105,29.565460,0.000000 -98.965908,29.561184,0.000000 -98.920092,29.576318,0.000000 -98.809295,29.696124,0.000000 -98.807287,29.251483,0.000000 -98.809042,29.092334,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Lavaca<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.980113,29.109914,0.000000 -97.236991,29.387463,0.000000 -97.210974,29.507856,0.000000 -97.208297,29.587558,0.000000 -97.150602,29.632816,0.000000 -96.880080,29.636855,0.000000 -96.795162,29.578916,0.000000 -96.575445,29.346564,0.000000 -96.673821,29.254656,0.000000 -96.932299,29.062208,0.000000 -96.980113,29.109914,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Wharton<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.876680,29.232253,0.000000 -95.964696,29.152485,0.000000 -96.307099,28.966391,0.000000 -96.653084,29.237498,0.000000 -96.352783,29.412242,0.000000 -96.312758,29.511801,0.000000 -96.181316,29.633373,0.000000 -96.133760,29.617019,0.000000 -96.100739,29.615839,0.000000 -96.083634,29.600142,0.000000 -96.068252,29.592200,0.000000 -96.059600,29.542353,0.000000 -96.060752,29.518087,0.000000 -96.065101,29.481549,0.000000 -96.040877,29.439840,0.000000 -95.943088,29.328394,0.000000 -95.881746,29.277889,0.000000 -95.847497,29.272449,0.000000 -95.876680,29.232253,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Uvalde<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.413301,29.092721,0.000000 -100.115029,29.089209,0.000000 -100.115783,29.626526,0.000000 -100.013987,29.624752,0.000000 -99.619920,29.630503,0.000000 -99.417910,29.628235,0.000000 -99.413301,29.092721,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kinney<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.115029,29.089209,0.000000 -100.669132,29.080313,0.000000 -100.768975,29.166807,0.000000 -100.797357,29.242736,0.000000 -100.755585,29.243954,0.000000 -100.746308,29.258236,0.000000 -100.705941,29.363967,0.000000 -100.691476,29.448869,0.000000 -100.691341,29.622097,0.000000 -100.115783,29.626526,0.000000 -100.115029,29.089209,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Brazoria<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.066572,29.196117,0.000000 -95.160730,29.200271,0.000000 -95.164988,29.117790,0.000000 -95.197552,29.105465,0.000000 -95.248618,28.978638,0.000000 -95.526807,28.803497,0.000000 -95.544760,28.830483,0.000000 -95.650284,28.912458,0.000000 -95.768862,28.977363,0.000000 -95.799341,29.034592,0.000000 -95.789071,29.072769,0.000000 -95.846833,29.212290,0.000000 -95.876680,29.232253,0.000000 -95.847497,29.272449,0.000000 -95.805275,29.311208,0.000000 -95.768363,29.327212,0.000000 -95.685345,29.303282,0.000000 -95.644214,29.299339,0.000000 -95.593370,29.330787,0.000000 -95.578943,29.385733,0.000000 -95.564332,29.433780,0.000000 -95.468718,29.438087,0.000000 -95.421231,29.586585,0.000000 -95.216543,29.566755,0.000000 -95.236014,29.474463,0.000000 -95.060613,29.204925,0.000000 -95.066572,29.196117,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Galveston<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.533891,29.554214,0.000000 -94.512612,29.547697,0.000000 -94.436156,29.568133,0.000000 -94.410353,29.600316,0.000000 -94.384603,29.600365,0.000000 -94.377194,29.552199,0.000000 -94.682712,29.433138,0.000000 -94.766744,29.364228,0.000000 -94.785444,29.383495,0.000000 -94.682110,29.475343,0.000000 -94.572885,29.533283,0.000000 -94.501473,29.517754,0.000000 -94.469985,29.557010,0.000000 -94.511002,29.545377,0.000000 -94.533891,29.554214,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Galveston<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-95.066572,29.196117,0.000000 -95.060613,29.204925,0.000000 -95.236014,29.474463,0.000000 -95.216543,29.566755,0.000000 -95.193761,29.534088,0.000000 -95.174702,29.509840,0.000000 -95.161312,29.505575,0.000000 -95.114871,29.519095,0.000000 -95.085596,29.543930,0.000000 -95.064920,29.565019,0.000000 -95.014328,29.559495,0.000000 -94.911358,29.500564,0.000000 -94.891336,29.399558,0.000000 -94.891672,29.394065,0.000000 -94.898988,29.309011,0.000000 -94.951335,29.326158,0.000000 -95.066572,29.196117,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Galveston<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-94.913628,29.257810,0.000000 -94.767575,29.342687,0.000000 -94.748600,29.319727,0.000000 -95.105622,29.097201,0.000000 -94.913628,29.257810,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Wilson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.186863,28.882197,0.000000 -98.319809,29.022047,0.000000 -98.421206,29.115347,0.000000 -98.143208,29.443896,0.000000 -98.133656,29.426309,0.000000 -98.101520,29.389074,0.000000 -97.843114,29.384700,0.000000 -97.862058,29.360313,0.000000 -97.731675,29.230155,0.000000 -98.186863,28.882197,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[DeWitt<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.308726,28.868421,0.000000 -97.329951,28.887776,0.000000 -97.423481,28.925407,0.000000 -97.576011,28.816454,0.000000 -97.760104,29.007747,0.000000 -97.618910,29.118079,0.000000 -97.494501,29.213456,0.000000 -97.236991,29.387463,0.000000 -96.980113,29.109914,0.000000 -97.308726,28.868421,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jackson<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.324764,28.670677,0.000000 -96.392026,28.670523,0.000000 -96.392980,28.726298,0.000000 -96.427336,28.712284,0.000000 -96.449927,28.755305,0.000000 -96.432509,28.697520,0.000000 -96.570811,28.692113,0.000000 -96.572465,28.808442,0.000000 -96.576739,28.690961,0.000000 -96.591754,28.717631,0.000000 -96.646771,28.714413,0.000000 -96.660092,28.722994,0.000000 -96.669171,28.755897,0.000000 -96.712156,28.852308,0.000000 -96.737265,28.888895,0.000000 -96.838837,29.024162,0.000000 -96.932299,29.062208,0.000000 -96.673821,29.254656,0.000000 -96.653084,29.237498,0.000000 -96.307099,28.966391,0.000000 -96.324764,28.670677,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Atascosa<br>Only Christine is dry]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.808195,28.639249,0.000000 -98.809042,29.092334,0.000000 -98.807287,29.251483,0.000000 -98.421206,29.115347,0.000000 -98.319809,29.022047,0.000000 -98.186863,28.882197,0.000000 -98.101144,28.785678,0.000000 -98.342109,28.606415,0.000000 -98.344078,28.638140,0.000000 -98.808195,28.639249,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Matagorda<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.326405,28.634361,0.000000 -96.324764,28.670677,0.000000 -96.307099,28.966391,0.000000 -95.964696,29.152485,0.000000 -95.876680,29.232253,0.000000 -95.846833,29.212290,0.000000 -95.789071,29.072769,0.000000 -95.799341,29.034592,0.000000 -95.768862,28.977363,0.000000 -95.650284,28.912458,0.000000 -95.544760,28.830483,0.000000 -95.526807,28.803497,0.000000 -95.683264,28.727214,0.000000 -95.671553,28.752941,0.000000 -95.786593,28.739133,0.000000 -95.937549,28.690721,0.000000 -95.956387,28.622942,0.000000 -95.702385,28.719248,0.000000 -96.206828,28.488663,0.000000 -95.991888,28.596695,0.000000 -95.983990,28.653402,0.000000 -96.237834,28.571596,0.000000 -96.239275,28.597390,0.000000 -96.240702,28.635131,0.000000 -96.212418,28.686989,0.000000 -96.270624,28.709249,0.000000 -96.326405,28.634361,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Karnes<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.007369,28.687078,0.000000 -98.101144,28.785678,0.000000 -98.186863,28.882197,0.000000 -97.731675,29.230155,0.000000 -97.618910,29.118079,0.000000 -97.760104,29.007747,0.000000 -97.576011,28.816454,0.000000 -97.784152,28.669841,0.000000 -97.831417,28.668050,0.000000 -97.876622,28.685950,0.000000 -97.918928,28.717093,0.000000 -98.007369,28.687078,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Victoria<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.156045,28.538779,0.000000 -97.176492,28.593548,0.000000 -97.166298,28.726977,0.000000 -97.164574,28.777921,0.000000 -97.194802,28.837500,0.000000 -97.229707,28.866875,0.000000 -97.240106,28.867142,0.000000 -97.231752,28.852233,0.000000 -97.257577,28.841873,0.000000 -97.302203,28.844838,0.000000 -97.308726,28.868421,0.000000 -96.980113,29.109914,0.000000 -96.932299,29.062208,0.000000 -96.838837,29.024162,0.000000 -96.737265,28.888895,0.000000 -96.712156,28.852308,0.000000 -96.669171,28.755897,0.000000 -96.660092,28.722994,0.000000 -96.657574,28.694888,0.000000 -96.724898,28.659285,0.000000 -96.861735,28.622017,0.000000 -96.927549,28.581185,0.000000 -96.899877,28.501791,0.000000 -96.912603,28.493885,0.000000 -96.953307,28.499647,0.000000 -97.022835,28.510797,0.000000 -97.047142,28.526637,0.000000 -97.060234,28.537570,0.000000 -97.113786,28.547298,0.000000 -97.156045,28.538779,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Zavala<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.409727,28.638270,0.000000 -100.112860,28.638459,0.000000 -100.115029,29.089209,0.000000 -99.413301,29.092721,0.000000 -99.409727,28.638270,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Frio<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.808195,28.639249,0.000000 -99.393666,28.636804,0.000000 -99.409727,28.638270,0.000000 -99.413301,29.092721,0.000000 -98.809042,29.092334,0.000000 -98.808195,28.639249,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Maverick<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-100.110729,28.203285,0.000000 -100.214416,28.202206,0.000000 -100.223809,28.241727,0.000000 -100.298266,28.280622,0.000000 -100.293239,28.320628,0.000000 -100.351919,28.394447,0.000000 -100.377120,28.478913,0.000000 -100.346152,28.501072,0.000000 -100.419884,28.544451,0.000000 -100.403527,28.589992,0.000000 -100.498264,28.661244,0.000000 -100.590149,28.894469,0.000000 -100.647585,28.922596,0.000000 -100.669132,29.080313,0.000000 -100.115029,29.089209,0.000000 -100.112860,28.638459,0.000000 -100.110729,28.203285,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Goliad<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.375942,28.382132,0.000000 -97.385982,28.392032,0.000000 -97.401119,28.404353,0.000000 -97.484997,28.436238,0.000000 -97.500920,28.440289,0.000000 -97.557958,28.507791,0.000000 -97.574049,28.524700,0.000000 -97.641448,28.522529,0.000000 -97.702744,28.534890,0.000000 -97.729799,28.588308,0.000000 -97.738619,28.626629,0.000000 -97.784152,28.669841,0.000000 -97.576011,28.816454,0.000000 -97.423481,28.925407,0.000000 -97.329951,28.887776,0.000000 -97.308726,28.868421,0.000000 -97.302203,28.844838,0.000000 -97.257577,28.841873,0.000000 -97.231752,28.852233,0.000000 -97.240106,28.867142,0.000000 -97.229707,28.866875,0.000000 -97.194802,28.837500,0.000000 -97.164574,28.777921,0.000000 -97.166298,28.726977,0.000000 -97.176492,28.593548,0.000000 -97.156045,28.538779,0.000000 -97.375942,28.382132,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Live Oak<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.238940,28.060933,0.000000 -98.339368,28.061629,0.000000 -98.342109,28.606415,0.000000 -98.101144,28.785678,0.000000 -98.007369,28.687078,0.000000 -98.092660,28.656016,0.000000 -97.813227,28.169878,0.000000 -97.897220,28.110854,0.000000 -97.897990,28.058883,0.000000 -98.238940,28.060933,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Bee<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.531477,28.156364,0.000000 -97.557234,28.121535,0.000000 -97.813227,28.169878,0.000000 -98.092660,28.656016,0.000000 -98.007369,28.687078,0.000000 -97.918928,28.717093,0.000000 -97.876622,28.685950,0.000000 -97.831417,28.668050,0.000000 -97.784152,28.669841,0.000000 -97.738619,28.626629,0.000000 -97.729799,28.588308,0.000000 -97.702744,28.534890,0.000000 -97.641448,28.522529,0.000000 -97.574049,28.524700,0.000000 -97.557958,28.507791,0.000000 -97.500920,28.440289,0.000000 -97.484997,28.436238,0.000000 -97.401119,28.404353,0.000000 -97.385982,28.392032,0.000000 -97.375942,28.382132,0.000000 -97.531477,28.156364,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[La Salle<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.807045,28.060999,0.000000 -99.390229,28.036037,0.000000 -99.392633,28.203913,0.000000 -99.393666,28.636804,0.000000 -98.808195,28.639249,0.000000 -98.807045,28.060999,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[McMullen<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.339368,28.061629,0.000000 -98.807045,28.060999,0.000000 -98.808195,28.639249,0.000000 -98.344078,28.638140,0.000000 -98.342109,28.606415,0.000000 -98.339368,28.061629,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Dimmit<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.392633,28.203913,0.000000 -100.110729,28.203285,0.000000 -100.112860,28.638459,0.000000 -99.409727,28.638270,0.000000 -99.393666,28.636804,0.000000 -99.392633,28.203913,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Refugio<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.260554,28.065018,0.000000 -97.263156,28.080335,0.000000 -97.318279,28.113487,0.000000 -97.370823,28.131359,0.000000 -97.469129,28.154440,0.000000 -97.531477,28.156364,0.000000 -97.375942,28.382132,0.000000 -97.156045,28.538779,0.000000 -97.113786,28.547298,0.000000 -97.060234,28.537570,0.000000 -97.047142,28.526637,0.000000 -97.022835,28.510797,0.000000 -96.953307,28.499647,0.000000 -96.912603,28.493885,0.000000 -96.899877,28.501791,0.000000 -96.845287,28.465718,0.000000 -96.836155,28.447057,0.000000 -96.814578,28.428945,0.000000 -96.788599,28.446534,0.000000 -96.759363,28.411192,0.000000 -96.775622,28.391912,0.000000 -96.853757,28.405278,0.000000 -96.788493,28.352753,0.000000 -96.786533,28.313142,0.000000 -97.117579,28.269705,0.000000 -97.125163,28.244153,0.000000 -97.100657,28.220953,0.000000 -97.059503,28.201886,0.000000 -97.023835,28.200084,0.000000 -97.132105,28.130717,0.000000 -97.157328,28.116672,0.000000 -97.260554,28.065018,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Calhoun<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.899877,28.501791,0.000000 -96.927549,28.581185,0.000000 -96.861735,28.622017,0.000000 -96.724898,28.659285,0.000000 -96.657574,28.694888,0.000000 -96.660092,28.722994,0.000000 -96.646771,28.714413,0.000000 -96.660268,28.679348,0.000000 -96.566958,28.574375,0.000000 -96.486833,28.506500,0.000000 -96.476754,28.499733,0.000000 -96.390976,28.434339,0.000000 -96.661568,28.306547,0.000000 -96.702622,28.340480,0.000000 -96.741029,28.403739,0.000000 -96.787356,28.477785,0.000000 -96.824138,28.449920,0.000000 -96.788599,28.446534,0.000000 -96.814578,28.428945,0.000000 -96.836155,28.447057,0.000000 -96.845287,28.465718,0.000000 -96.899877,28.501791,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Calhoun<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.432509,28.697520,0.000000 -96.403646,28.719764,0.000000 -96.419035,28.638937,0.000000 -96.375646,28.610362,0.000000 -96.491456,28.557220,0.000000 -96.570651,28.636541,0.000000 -96.570811,28.692113,0.000000 -96.432509,28.697520,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Calhoun<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.392026,28.670523,0.000000 -96.324764,28.670677,0.000000 -96.326405,28.634361,0.000000 -96.364408,28.618254,0.000000 -96.392026,28.670523,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Calhoun<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.398133,28.346129,0.000000 -96.834889,28.066616,0.000000 -96.804104,28.172450,0.000000 -96.739169,28.183823,0.000000 -96.532391,28.318529,0.000000 -96.463305,28.326116,0.000000 -96.422807,28.391721,0.000000 -96.398133,28.346129,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Calhoun<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.803952,28.211734,0.000000 -96.793598,28.271657,0.000000 -96.778194,28.229636,0.000000 -96.803952,28.211734,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Webb<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.958374,27.271005,0.000000 -99.335467,27.271290,0.000000 -99.371425,27.308386,0.000000 -99.465590,27.270187,0.000000 -99.543908,27.318954,0.000000 -99.490813,27.491051,0.000000 -99.527061,27.504580,0.000000 -99.549507,27.612920,0.000000 -99.714818,27.661849,0.000000 -99.816055,27.780395,0.000000 -99.875063,27.797972,0.000000 -99.942189,27.987162,0.000000 -99.993644,28.003740,0.000000 -100.097263,28.154555,0.000000 -100.214416,28.202206,0.000000 -100.110729,28.203285,0.000000 -99.392633,28.203913,0.000000 -99.390229,28.036037,0.000000 -98.807045,28.060999,0.000000 -98.808115,27.361142,0.000000 -98.808825,27.273570,0.000000 -98.958374,27.271005,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[San Patricio<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.499806,27.843545,0.000000 -97.509320,27.839692,0.000000 -97.592840,27.866021,0.000000 -97.643439,27.894774,0.000000 -97.757416,27.940050,0.000000 -97.784486,27.947521,0.000000 -97.795342,27.945446,0.000000 -97.806542,27.930030,0.000000 -97.821901,27.952898,0.000000 -97.819757,27.976323,0.000000 -97.804712,28.000863,0.000000 -97.802492,28.027046,0.000000 -97.811479,28.037813,0.000000 -97.825777,28.042709,0.000000 -97.848147,28.033960,0.000000 -97.870753,28.035797,0.000000 -97.897990,28.058883,0.000000 -97.897220,28.110854,0.000000 -97.813227,28.169878,0.000000 -97.557234,28.121535,0.000000 -97.531477,28.156364,0.000000 -97.469129,28.154440,0.000000 -97.370823,28.131359,0.000000 -97.318279,28.113487,0.000000 -97.263156,28.080335,0.000000 -97.260554,28.065018,0.000000 -97.236483,28.040814,0.000000 -97.136368,27.897497,0.000000 -97.114891,27.915687,0.000000 -97.195733,27.812525,0.000000 -97.247293,27.822624,0.000000 -97.213609,27.831415,0.000000 -97.283754,27.871448,0.000000 -97.345889,27.873480,0.000000 -97.479626,27.853264,0.000000 -97.499806,27.843545,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Aransas<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-96.793598,28.271657,0.000000 -96.803952,28.211734,0.000000 -96.951171,28.114646,0.000000 -96.912986,28.257083,0.000000 -96.975571,28.211037,0.000000 -96.941337,28.187059,0.000000 -96.975372,28.115337,0.000000 -97.033883,28.137688,0.000000 -97.023835,28.200084,0.000000 -97.059503,28.201886,0.000000 -97.100657,28.220953,0.000000 -97.125163,28.244153,0.000000 -97.117579,28.269705,0.000000 -96.786533,28.313142,0.000000 -96.793598,28.271657,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Aransas<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.114891,27.915687,0.000000 -97.136368,27.897497,0.000000 -97.236483,28.040814,0.000000 -97.123346,28.054560,0.000000 -97.026673,28.108041,0.000000 -97.024071,28.020533,0.000000 -97.114891,27.915687,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Duval<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.534784,27.273338,0.000000 -98.537577,27.348977,0.000000 -98.560786,27.365889,0.000000 -98.598102,27.364548,0.000000 -98.637456,27.363682,0.000000 -98.808115,27.361142,0.000000 -98.807045,28.060999,0.000000 -98.339368,28.061629,0.000000 -98.238940,28.060933,0.000000 -98.238917,27.266956,0.000000 -98.534784,27.273338,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jim Wells<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.238917,27.266956,0.000000 -98.238940,28.060933,0.000000 -97.897990,28.058883,0.000000 -97.870753,28.035797,0.000000 -97.848147,28.033960,0.000000 -97.825777,28.042709,0.000000 -97.811479,28.037813,0.000000 -97.802492,28.027046,0.000000 -97.804712,28.000863,0.000000 -97.939304,27.884824,0.000000 -97.948268,27.640962,0.000000 -98.062635,27.638053,0.000000 -98.062415,27.263853,0.000000 -98.238917,27.266956,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Nueces<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.223983,27.574323,0.000000 -97.248939,27.581449,0.000000 -97.258949,27.652062,0.000000 -97.203849,27.612379,0.000000 -97.170448,27.707771,0.000000 -97.075561,27.811579,0.000000 -97.113304,27.819521,0.000000 -97.053832,27.830778,0.000000 -97.223983,27.574323,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kleberg<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.248939,27.581449,0.000000 -97.223983,27.574323,0.000000 -97.359380,27.284040,0.000000 -97.376356,27.284965,0.000000 -97.335770,27.441138,0.000000 -97.248939,27.581449,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Jim Hogg<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.437976,26.787983,0.000000 -98.960132,26.788945,0.000000 -98.958374,27.271005,0.000000 -98.808825,27.273570,0.000000 -98.808115,27.361142,0.000000 -98.637456,27.363682,0.000000 -98.598102,27.364548,0.000000 -98.560786,27.365889,0.000000 -98.537577,27.348977,0.000000 -98.534784,27.273338,0.000000 -98.506738,27.242514,0.000000 -98.509356,27.150787,0.000000 -98.484362,27.065099,0.000000 -98.435540,27.062536,0.000000 -98.437976,26.787983,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Zapata<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-99.166128,26.580221,0.000000 -99.285837,26.857679,0.000000 -99.390835,26.946944,0.000000 -99.393033,26.995862,0.000000 -99.455381,27.028958,0.000000 -99.437475,27.199502,0.000000 -99.465590,27.270187,0.000000 -99.371425,27.308386,0.000000 -99.335467,27.271290,0.000000 -98.958374,27.271005,0.000000 -98.960132,26.788945,0.000000 -99.012624,26.680488,0.000000 -99.166128,26.580221,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Brooks<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.341567,26.787420,0.000000 -98.437976,26.787983,0.000000 -98.435540,27.062536,0.000000 -98.484362,27.065099,0.000000 -98.509356,27.150787,0.000000 -98.506738,27.242514,0.000000 -98.534784,27.273338,0.000000 -98.238917,27.266956,0.000000 -98.062415,27.263853,0.000000 -97.984868,27.262858,0.000000 -97.984974,27.214903,0.000000 -97.990903,26.786808,0.000000 -98.341567,26.787420,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kenedy<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.359380,27.284040,0.000000 -97.379643,27.210777,0.000000 -97.376356,27.284965,0.000000 -97.359380,27.284040,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Kenedy<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.296092,26.601012,0.000000 -97.301387,26.601365,0.000000 -97.358282,26.706985,0.000000 -97.381592,26.820711,0.000000 -97.395570,26.922320,0.000000 -97.401173,27.111554,0.000000 -97.389050,27.201975,0.000000 -97.378796,27.204773,0.000000 -97.387187,27.097572,0.000000 -97.381593,26.949354,0.000000 -97.358283,26.803000,0.000000 -97.296092,26.601012,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Starr<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.600268,26.260803,0.000000 -98.678219,26.242405,0.000000 -98.820136,26.375414,0.000000 -98.909203,26.360672,0.000000 -98.939577,26.395651,0.000000 -99.107036,26.419869,0.000000 -99.101781,26.488677,0.000000 -99.168989,26.546062,0.000000 -99.166128,26.580221,0.000000 -99.012624,26.680488,0.000000 -98.960132,26.788945,0.000000 -98.437976,26.787983,0.000000 -98.341567,26.787420,0.000000 -98.600268,26.260803,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Hidalgo<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-98.600268,26.260803,0.000000 -98.341567,26.787420,0.000000 -97.990903,26.786808,0.000000 -97.991789,26.617330,0.000000 -97.964032,26.613095,0.000000 -97.989600,26.537360,0.000000 -98.004943,26.464179,0.000000 -97.873888,26.447255,0.000000 -97.869234,26.348695,0.000000 -97.867708,26.060496,0.000000 -98.040353,26.059751,0.000000 -98.200980,26.055732,0.000000 -98.328227,26.112001,0.000000 -98.384816,26.156383,0.000000 -98.453689,26.221262,0.000000 -98.488815,26.201895,0.000000 -98.600268,26.260803,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Willacy<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.869234,26.348695,0.000000 -97.873888,26.447255,0.000000 -98.004943,26.464179,0.000000 -97.989600,26.537360,0.000000 -97.964032,26.613095,0.000000 -97.866655,26.597750,0.000000 -97.451958,26.601327,0.000000 -97.426116,26.518570,0.000000 -97.474968,26.477151,0.000000 -97.421447,26.385408,0.000000 -97.446037,26.365959,0.000000 -97.541798,26.302148,0.000000 -97.869234,26.348695,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Willacy<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.232361,26.418490,0.000000 -97.251504,26.419652,0.000000 -97.267503,26.479251,0.000000 -97.278803,26.540307,0.000000 -97.301387,26.601365,0.000000 -97.296092,26.601012,0.000000 -97.232361,26.418490,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_PartiallyWet</styleUrl>
+    </Placemark>
+    <Placemark>
+      <description><![CDATA[Cameron<br>]]></description>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-97.172475,25.954927,0.000000 -97.307399,25.965482,0.000000 -97.381246,25.917379,0.000000 -97.385899,25.845722,0.000000 -97.434607,25.845557,0.000000 -97.590353,25.933589,0.000000 -97.613189,25.962359,0.000000 -97.648240,26.023801,0.000000 -97.867708,26.060496,0.000000 -97.869234,26.348695,0.000000 -97.541798,26.302148,0.000000 -97.446037,26.365959,0.000000 -97.421447,26.385408,0.000000 -97.368955,26.359409,0.000000 -97.353620,26.182803,0.000000 -97.253373,26.068672,0.000000 -97.276575,26.002633,0.000000 -97.213348,26.009425,0.000000 -97.172475,25.954927,0.000000</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#County_Wet</styleUrl>
+    </Placemark>
+
   </Document>
 </kml>
