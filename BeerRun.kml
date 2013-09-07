@@ -9542,8 +9542,6 @@
       <styleUrl>#County_Wet</styleUrl>
     </Placemark>
 
-    <?xml version="1.0" encoding="utf-8"?>
-<Document>
   <Placemark>
     <description><![CDATA[County = Lauderdale<br><br>]]></description>
     <Polygon>
@@ -10282,7 +10280,6 @@
     <styleUrl>#County_Wet</styleUrl>
   </Placemark>
   
-</Document>
     
   </Document>
 </kml>
